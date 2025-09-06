@@ -8,11 +8,14 @@ An interactive Tableau dashboard was designed to explore the complex relationshi
 
 | Employment Analysis & COVID-19 Impact | Dimensionality Reduction & Geographic Projection |
 | :---: | :---: |
-| ![Dashboard Page 1](./report/figures/page1.png) | ![Dashboard Page 3](./report/figures/page3.png) |
+| ![Dashboard Page 1](./Tableau_demo/page1.png) | ![Dashboard Page 3](./Tableau_demo/page3.png) |
 | **Ethnic & Economic Composition** | **Long-term Trend Analysis** |
-| ![Dashboard Page 4](./report/figures/page4.jpg) | ![Dashboard Page 2](./report/figures/page2.png) |
+| ![Dashboard Page 4](./Tableau_demo/page4.png) | ![Dashboard Page 2](./Tableau_demo/page2.png) |
 
-## 🎯 Core Research Questions
+
+
+
+## ⭐ Core Research Questions
 
 This project aims to answer several key questions through data modeling and visualization:
 1.  **Socio-Economic Change:** How did the composition of the labour force and ethnic diversity change across England and Wales between 2011 and 2021?
@@ -44,7 +47,7 @@ The repository is organized to separate data, source code, the final report, and
 │   ├── prepare_data.py
 │   ├── tabelmerge.py
 │   └── tableconvert.py
-├── tableau/
+├── Tableau_demo/
 │   ├── Employment_Dashboard.twbx
 │   ├── Visual_Analytics_formal_Report.pdf
 │   ├── Tableau_Geocoding_Cheat_Sheet.pdf
@@ -113,4 +116,13 @@ The analysis is performed by running the Python scripts located in the `src/` di
 * **[2] McInnes, L., Healy, J., & Melville, J. (2018).** UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction. *arXiv preprint arXiv:1802.03426*.
 * **[3] Bishop, C. M., James, G. D., & Nasrabadi, N. M. (1998).** Neuroscale: Novel topographic projection technique for multivariate data. *Neural Networks*, 11(2), 277-290.
 * **[4] Munzner, T. (2014).** *Visualization Analysis and Design*. CRC Press.
+
+
+
+> **⚠ Academic Integrity & Usage Policy ⚠**
+>
+> This project was completed as part of the MSc individual work in Data Science programme at the University of Bristol. The content is intended for academic and demonstrative purposes only.
+> 
+> **Any unauthorized commercial use, redistribution, or plagiarism of this work is strictly prohibited ❗❗❗** 
+
 
