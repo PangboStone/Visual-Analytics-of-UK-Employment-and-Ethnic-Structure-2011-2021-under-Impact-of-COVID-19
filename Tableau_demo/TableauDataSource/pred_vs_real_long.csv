@@ -1,0 +1,232 @@
+region,category,value,source,geography code
+country:England and Wales,Total economically active,30573860.0,real,K04000001
+gor:East,Total economically active,3306695.0,real,E12000006
+gor:East Midlands,Total economically active,2462724.0,real,E12000004
+gor:London,Total economically active,4928665.0,real,E12000007
+gor:North East,Total economically active,1251254.0,real,E12000001
+gor:North West,Total economically active,3677757.0,real,E12000002
+gor:South East,Total economically active,4847655.0,real,E12000008
+gor:South West,Total economically active,2929834.0,real,E12000009
+gor:Wales,Total economically active,1500811.0,real,W92000004
+gor:West Midlands,Total economically active,2993605.0,real,E12000005
+gor:Yorkshire and The Humber,Total economically active,2674860.0,real,E12000003
+country:England and Wales,Total in employment,29245908.0,real,K04000001
+gor:East,Total in employment,3195832.0,real,E12000006
+gor:East Midlands,Total in employment,2359770.0,real,E12000004
+gor:London,Total in employment,4650440.0,real,E12000007
+gor:North East,Total in employment,1181559.0,real,E12000001
+gor:North West,Total in employment,3514095.0,real,E12000002
+gor:South East,Total in employment,4648415.0,real,E12000008
+gor:South West,Total in employment,2835397.0,real,E12000009
+gor:Wales,Total in employment,1444723.0,real,W92000004
+gor:West Midlands,Total in employment,2850584.0,real,E12000005
+gor:Yorkshire and The Humber,Total in employment,2565091.0,real,E12000003
+country:England and Wales,Total unemployed,1327953.0,real,K04000001
+gor:East,Total unemployed,110863.0,real,E12000006
+gor:East Midlands,Total unemployed,102954.0,real,E12000004
+gor:London,Total unemployed,278225.0,real,E12000007
+gor:North East,Total unemployed,69695.0,real,E12000001
+gor:North West,Total unemployed,163661.0,real,E12000002
+gor:South East,Total unemployed,199240.0,real,E12000008
+gor:South West,Total unemployed,94436.0,real,E12000009
+gor:Wales,Total unemployed,56089.0,real,W92000004
+gor:West Midlands,Total unemployed,143021.0,real,E12000005
+gor:Yorkshire and The Humber,Total unemployed,109769.0,real,E12000003
+country:England and Wales,Total economically inactive,17466956.0,real,K04000001
+gor:East,Total economically inactive,1788989.0,real,E12000006
+gor:East Midlands,Total economically inactive,1485479.0,real,E12000004
+gor:London,Total economically inactive,2132046.0,real,E12000007
+gor:North East,Total economically inactive,902775.0,real,E12000001
+gor:North West,Total economically inactive,2290395.0,real,E12000002
+gor:South East,Total economically inactive,2605578.0,real,E12000008
+gor:South West,Total economically inactive,1736347.0,real,E12000009
+gor:Wales,Total economically inactive,1028778.0,real,W92000004
+gor:West Midlands,Total economically inactive,1759500.0,real,E12000005
+gor:Yorkshire and The Humber,Total economically inactive,1737069.0,real,E12000003
+country:England and Wales,All persons,48040816.0,real,K04000001
+gor:East,All persons,5095684.0,real,E12000006
+gor:East Midlands,All persons,3948203.0,real,E12000004
+gor:London,All persons,7060711.0,real,E12000007
+gor:North East,All persons,2154029.0,real,E12000001
+gor:North West,All persons,5968152.0,real,E12000002
+gor:South East,All persons,7453233.0,real,E12000008
+gor:South West,All persons,4666181.0,real,E12000009
+gor:Wales,All persons,2529589.0,real,W92000004
+gor:West Midlands,All persons,4753105.0,real,E12000005
+gor:Yorkshire and The Humber,All persons,4411929.0,real,E12000003
+country:England and Wales,Total economically active,30639412.0,predicted,K04000001
+gor:East,Total economically active,3217115.0,predicted,E12000006
+gor:East Midlands,Total economically active,2444459.0,predicted,E12000004
+gor:London,Total economically active,4974810.0,predicted,E12000007
+gor:North East,Total economically active,1253777.0,predicted,E12000001
+gor:North West,Total economically active,3618932.0,predicted,E12000002
+gor:South East,Total economically active,4800458.0,predicted,E12000008
+gor:South West,Total economically active,2928968.0,predicted,E12000009
+gor:Wales,Total economically active,1473297.0,predicted,W92000004
+gor:West Midlands,Total economically active,2862452.0,predicted,E12000005
+gor:Yorkshire and The Humber,Total economically active,2669167.0,predicted,E12000003
+country:England and Wales,Total economically inactive,16817642.0,predicted,K04000001
+gor:East,Total economically inactive,1745349.0,predicted,E12000006
+gor:East Midlands,Total economically inactive,1361098.0,predicted,E12000004
+gor:London,Total economically inactive,2142872.0,predicted,E12000007
+gor:North East,Total economically inactive,838530.0,predicted,E12000001
+gor:North West,Total economically inactive,2098881.0,predicted,E12000002
+gor:South East,Total economically inactive,2458306.0,predicted,E12000008
+gor:South West,Total economically inactive,1607806.0,predicted,E12000009
+gor:Wales,Total economically inactive,941689.0,predicted,W92000004
+gor:West Midlands,Total economically inactive,1701567.0,predicted,E12000005
+gor:Yorkshire and The Humber,Total economically inactive,1649892.0,predicted,E12000003
+country:England and Wales,Total in employment,29745537.0,predicted,K04000001
+gor:East,Total in employment,3132899.0,predicted,E12000006
+gor:East Midlands,Total in employment,2358218.0,predicted,E12000004
+gor:London,Total in employment,4785134.0,predicted,E12000007
+gor:North East,Total in employment,1191476.0,predicted,E12000001
+gor:North West,Total in employment,3528357.0,predicted,E12000002
+gor:South East,Total in employment,4705282.0,predicted,E12000008
+gor:South West,Total in employment,2859829.0,predicted,E12000009
+gor:Wales,Total in employment,1448005.0,predicted,W92000004
+gor:West Midlands,Total in employment,2788189.0,predicted,E12000005
+gor:Yorkshire and The Humber,Total in employment,2569090.0,predicted,E12000003
+country:England and Wales,Total unemployed,586163.0,predicted,K04000001
+gor:East,Total unemployed,42202.0,predicted,E12000006
+gor:East Midlands,Total unemployed,36701.0,predicted,E12000004
+gor:London,Total unemployed,132442.0,predicted,E12000007
+gor:North East,Total unemployed,35119.0,predicted,E12000001
+gor:North West,Total unemployed,54723.0,predicted,E12000002
+gor:South East,Total unemployed,49574.0,predicted,E12000008
+gor:South West,Total unemployed,30678.0,predicted,E12000009
+gor:Wales,Total unemployed,18284.0,predicted,W92000004
+gor:West Midlands,Total unemployed,53343.0,predicted,E12000005
+gor:Yorkshire and The Humber,Total unemployed,46098.0,predicted,E12000003
+country:England and Wales,Total economically active.1,31019197.0,predicted,K04000001
+gor:East,Total economically active.1,3313457.0,predicted,E12000006
+gor:East Midlands,Total economically active.1,2568050.0,predicted,E12000004
+gor:London,Total economically active.1,5065148.0,predicted,E12000007
+gor:North East,Total economically active.1,1315852.0,predicted,E12000001
+gor:North West,Total economically active.1,3810393.0,predicted,E12000002
+gor:South East,Total economically active.1,4939310.0,predicted,E12000008
+gor:South West,Total economically active.1,2992590.0,predicted,E12000009
+gor:Wales,Total economically active.1,1618989.0,predicted,W92000004
+gor:West Midlands,Total economically active.1,3033104.0,predicted,E12000005
+gor:Yorkshire and The Humber,Total economically active.1,2755788.0,predicted,E12000003
+country:England and Wales,Total economically inactive.1,17296602.0,predicted,K04000001
+gor:East,Total economically inactive.1,1820494.0,predicted,E12000006
+gor:East Midlands,Total economically inactive.1,1471862.0,predicted,E12000004
+gor:London,Total economically inactive.1,2198389.0,predicted,E12000007
+gor:North East,Total economically inactive.1,890751.0,predicted,E12000001
+gor:North West,Total economically inactive.1,2244889.0,predicted,E12000002
+gor:South East,Total economically inactive.1,2602800.0,predicted,E12000008
+gor:South West,Total economically inactive.1,1691094.0,predicted,E12000009
+gor:Wales,Total economically inactive.1,1050071.0,predicted,W92000004
+gor:West Midlands,Total economically inactive.1,1875683.0,predicted,E12000005
+gor:Yorkshire and The Humber,Total economically inactive.1,1732619.0,predicted,E12000003
+country:England and Wales,Total in employment.1,30165741.0,predicted,K04000001
+gor:East,Total in employment.1,3243047.0,predicted,E12000006
+gor:East Midlands,Total in employment.1,2505086.0,predicted,E12000004
+gor:London,Total in employment.1,4924016.0,predicted,E12000007
+gor:North East,Total in employment.1,1268651.0,predicted,E12000001
+gor:North West,Total in employment.1,3693641.0,predicted,E12000002
+gor:South East,Total in employment.1,4835655.0,predicted,E12000008
+gor:South West,Total in employment.1,2939859.0,predicted,E12000009
+gor:Wales,Total in employment.1,1573726.0,predicted,W92000004
+gor:West Midlands,Total in employment.1,2906988.0,predicted,E12000005
+gor:Yorkshire and The Humber,Total in employment.1,2680555.0,predicted,E12000003
+country:England and Wales,Total unemployed.1,1167528.0,predicted,K04000001
+gor:East,Total unemployed.1,117069.0,predicted,E12000006
+gor:East Midlands,Total unemployed.1,116479.0,predicted,E12000004
+gor:London,Total unemployed.1,201344.0,predicted,E12000007
+gor:North East,Total unemployed.1,74584.0,predicted,E12000001
+gor:North West,Total unemployed.1,151148.0,predicted,E12000002
+gor:South East,Total unemployed.1,150148.0,predicted,E12000008
+gor:South West,Total unemployed.1,93846.0,predicted,E12000009
+gor:Wales,Total unemployed.1,54687.0,predicted,W92000004
+gor:West Midlands,Total unemployed.1,156282.0,predicted,E12000005
+gor:Yorkshire and The Humber,Total unemployed.1,131394.0,predicted,E12000003
+country:England and Wales,Total economically active.2,30827636.583,predicted,K04000001
+gor:East,Total economically active.2,3267176.656,predicted,E12000006
+gor:East Midlands,Total economically active.2,2507284.196,predicted,E12000004
+gor:London,Total economically active.2,5020178.539,predicted,E12000007
+gor:North East,Total economically active.2,1284738.467,predicted,E12000001
+gor:North West,Total economically active.2,3714685.705,predicted,E12000002
+gor:South East,Total economically active.2,4871431.2,predicted,E12000008
+gor:South West,Total economically active.2,2960741.386,predicted,E12000009
+gor:Wales,Total economically active.2,1546371.288,predicted,W92000004
+gor:West Midlands,Total economically active.2,2949622.633,predicted,E12000005
+gor:Yorkshire and The Humber,Total economically active.2,2712349.694,predicted,E12000003
+country:England and Wales,Total economically inactive.2,17056826.069,predicted,K04000001
+gor:East,Total economically inactive.2,1782807.702,predicted,E12000006
+gor:East Midlands,Total economically inactive.2,1414370.75,predicted,E12000004
+gor:London,Total economically inactive.2,2170300.026,predicted,E12000007
+gor:North East,Total economically inactive.2,863906.178,predicted,E12000001
+gor:North West,Total economically inactive.2,2175233.142,predicted,E12000002
+gor:South East,Total economically inactive.2,2529053.143,predicted,E12000008
+gor:South West,Total economically inactive.2,1651519.926,predicted,E12000009
+gor:Wales,Total economically inactive.2,994397.318,predicted,W92000004
+gor:West Midlands,Total economically inactive.2,1787007.587,predicted,E12000005
+gor:Yorkshire and The Humber,Total economically inactive.2,1691125.536,predicted,E12000003
+country:England and Wales,Total in employment.2,29950464.437,predicted,K04000001
+gor:East,Total in employment.2,3186735.84,predicted,E12000006
+gor:East Midlands,Total in employment.2,2430854.781,predicted,E12000004
+gor:London,Total in employment.2,4852502.616,predicted,E12000007
+gor:North East,Total in employment.2,1228602.149,predicted,E12000001
+gor:North West,Total in employment.2,3613266.879,predicted,E12000002
+gor:South East,Total in employment.2,4772260.102,predicted,E12000008
+gor:South West,Total in employment.2,2898450.254,predicted,E12000009
+gor:Wales,Total in employment.2,1509582.058,predicted,W92000004
+gor:West Midlands,Total in employment.2,2847272.361,predicted,E12000005
+gor:Yorkshire and The Humber,Total in employment.2,2621168.104,predicted,E12000003
+country:England and Wales,Total unemployed.2,876616.35,predicted,K04000001
+gor:East,Total unemployed.2,80688.003,predicted,E12000006
+gor:East Midlands,Total unemployed.2,78095.784,predicted,E12000004
+gor:London,Total unemployed.2,167518.265,predicted,E12000007
+gor:North East,Total unemployed.2,55667.589,predicted,E12000001
+gor:North West,Total unemployed.2,101913.278,predicted,E12000002
+gor:South East,Total unemployed.2,99098.056,predicted,E12000008
+gor:South West,Total unemployed.2,62218.512,predicted,E12000009
+gor:Wales,Total unemployed.2,36834.501,predicted,W92000004
+gor:West Midlands,Total unemployed.2,102730.253,predicted,E12000005
+gor:Yorkshire and The Humber,Total unemployed.2,89622.446,predicted,E12000003
+country:England and Wales,Total economically active.3,99701.468,predicted,K04000001
+gor:East,Total economically active.3,25106.94,predicted,E12000006
+gor:East Midlands,Total economically active.3,33571.66,predicted,E12000004
+gor:London,Total economically active.3,24069.966,predicted,E12000007
+gor:North East,Total economically active.3,16566.43,predicted,E12000001
+gor:North West,Total economically active.3,50765.237,predicted,E12000002
+gor:South East,Total economically active.3,36827.872,predicted,E12000008
+gor:South West,Total economically active.3,16599.6,predicted,E12000009
+gor:Wales,Total economically active.3,38060.99,predicted,W92000004
+gor:West Midlands,Total economically active.3,45247.103,predicted,E12000005
+gor:Yorkshire and The Humber,Total economically active.3,23729.387,predicted,E12000003
+country:England and Wales,Total economically inactive.3,127547.385,predicted,K04000001
+gor:East,Total economically inactive.3,20262.467,predicted,E12000006
+gor:East Midlands,Total economically inactive.3,29686.133,predicted,E12000004
+gor:London,Total economically inactive.3,14933.649,predicted,E12000007
+gor:North East,Total economically inactive.3,13876.189,predicted,E12000001
+gor:North West,Total economically inactive.3,38875.696,predicted,E12000002
+gor:South East,Total economically inactive.3,38092.708,predicted,E12000008
+gor:South West,Total economically inactive.3,22429.242,predicted,E12000009
+gor:Wales,Total economically inactive.3,28476.12,predicted,W92000004
+gor:West Midlands,Total economically inactive.3,45927.267,predicted,E12000005
+gor:Yorkshire and The Humber,Total economically inactive.3,22353.021,predicted,E12000003
+country:England and Wales,Total in employment.3,112822.137,predicted,K04000001
+gor:East,Total in employment.3,29220.681,predicted,E12000006
+gor:East Midlands,Total in employment.3,39501.256,predicted,E12000004
+gor:London,Total in employment.3,37162.431,predicted,E12000007
+gor:North East,Total in employment.3,20483.377,predicted,E12000001
+gor:North West,Total in employment.3,44768.289,predicted,E12000002
+gor:South East,Total in employment.3,36274.16,predicted,E12000008
+gor:South West,Total in employment.3,21660.413,predicted,E12000009
+gor:Wales,Total in employment.3,34088.456,predicted,W92000004
+gor:West Midlands,Total in employment.3,30711.475,predicted,E12000005
+gor:Yorkshire and The Humber,Total in employment.3,29839.182,predicted,E12000003
+country:England and Wales,Total unemployed.3,152765.047,predicted,K04000001
+gor:East,Total unemployed.3,19675.395,predicted,E12000006
+gor:East Midlands,Total unemployed.3,20911.994,predicted,E12000004
+gor:London,Total unemployed.3,18286.715,predicted,E12000007
+gor:North East,Total unemployed.3,10631.165,predicted,E12000001
+gor:North West,Total unemployed.3,25451.841,predicted,E12000002
+gor:South East,Total unemployed.3,27050.745,predicted,E12000008
+gor:South West,Total unemployed.3,17067.1,predicted,E12000009
+gor:Wales,Total unemployed.3,9475.788,predicted,W92000004
+gor:West Midlands,Total unemployed.3,27675.289,predicted,E12000005
+gor:Yorkshire and The Humber,Total unemployed.3,22494.922,predicted,E12000003

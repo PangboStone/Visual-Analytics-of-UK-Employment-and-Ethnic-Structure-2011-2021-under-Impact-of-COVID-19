@@ -1,0 +1,3642 @@
+date,geography,geography code,category,value
+2021,Hartlepool,E06000001,Ethnic Total,92338
+2021,Middlesbrough,E06000002,Ethnic Total,143922
+2021,Redcar and Cleveland,E06000003,Ethnic Total,136530
+2021,Stockton-on-Tees,E06000004,Ethnic Total,196593
+2021,Darlington,E06000005,Ethnic Total,107796
+2021,Halton,E06000006,Ethnic Total,128478
+2021,Warrington,E06000007,Ethnic Total,210973
+2021,Blackburn with Darwen,E06000008,Ethnic Total,154741
+2021,Blackpool,E06000009,Ethnic Total,141039
+2021,"Kingston upon Hull, City of",E06000010,Ethnic Total,267013
+2021,East Riding of Yorkshire,E06000011,Ethnic Total,342215
+2021,North East Lincolnshire,E06000012,Ethnic Total,156967
+2021,North Lincolnshire,E06000013,Ethnic Total,169684
+2021,York,E06000014,Ethnic Total,202821
+2021,Derby,E06000015,Ethnic Total,261364
+2021,Leicester,E06000016,Ethnic Total,368571
+2021,Rutland,E06000017,Ethnic Total,41050
+2021,Nottingham,E06000018,Ethnic Total,323635
+2021,"Herefordshire, County of",E06000019,Ethnic Total,187032
+2021,Telford and Wrekin,E06000020,Ethnic Total,185543
+2021,Stoke-on-Trent,E06000021,Ethnic Total,258369
+2021,Bath and North East Somerset,E06000022,Ethnic Total,193409
+2021,"Bristol, City of",E06000023,Ethnic Total,472467
+2021,North Somerset,E06000024,Ethnic Total,216729
+2021,South Gloucestershire,E06000025,Ethnic Total,290424
+2021,Plymouth,E06000026,Ethnic Total,264695
+2021,Torbay,E06000027,Ethnic Total,139324
+2021,Swindon,E06000030,Ethnic Total,233411
+2021,Peterborough,E06000031,Ethnic Total,215670
+2021,Luton,E06000032,Ethnic Total,225261
+2021,Southend-on-Sea,E06000033,Ethnic Total,180685
+2021,Thurrock,E06000034,Ethnic Total,175993
+2021,Medway,E06000035,Ethnic Total,279773
+2021,Bracknell Forest,E06000036,Ethnic Total,124605
+2021,West Berkshire,E06000037,Ethnic Total,161447
+2021,Reading,E06000038,Ethnic Total,174223
+2021,Slough,E06000039,Ethnic Total,158500
+2021,Windsor and Maidenhead,E06000040,Ethnic Total,153497
+2021,Wokingham,E06000041,Ethnic Total,177502
+2021,Milton Keynes,E06000042,Ethnic Total,287060
+2021,Brighton and Hove,E06000043,Ethnic Total,277103
+2021,Portsmouth,E06000044,Ethnic Total,208001
+2021,Southampton,E06000045,Ethnic Total,248920
+2021,Isle of Wight,E06000046,Ethnic Total,140459
+2021,County Durham,E06000047,Ethnic Total,522067
+2021,Cheshire East,E06000049,Ethnic Total,398772
+2021,Cheshire West and Chester,E06000050,Ethnic Total,357149
+2021,Shropshire,E06000051,Ethnic Total,323607
+2021,Cornwall,E06000052,Ethnic Total,570305
+2021,Isles of Scilly,E06000053,Ethnic Total,2055
+2021,Wiltshire,E06000054,Ethnic Total,510333
+2021,Bedford,E06000055,Ethnic Total,185224
+2021,Central Bedfordshire,E06000056,Ethnic Total,294251
+2021,Northumberland,E06000057,Ethnic Total,320566
+2021,"Bournemouth, Christchurch and Poole",E06000058,Ethnic Total,400195
+2021,Dorset,E06000059,Ethnic Total,379580
+2021,Buckinghamshire,E06000060,Ethnic Total,553078
+2021,North Northamptonshire,E06000061,Ethnic Total,359523
+2021,West Northamptonshire,E06000062,Ethnic Total,425723
+2021,Cambridge,E07000008,Ethnic Total,145674
+2021,East Cambridgeshire,E07000009,Ethnic Total,87763
+2021,Fenland,E07000010,Ethnic Total,102461
+2021,Huntingdonshire,E07000011,Ethnic Total,180832
+2021,South Cambridgeshire,E07000012,Ethnic Total,162117
+2021,Allerdale,E07000026,Ethnic Total,96153
+2021,Barrow-in-Furness,E07000027,Ethnic Total,67406
+2021,Carlisle,E07000028,Ethnic Total,110025
+2021,Copeland,E07000029,Ethnic Total,67076
+2021,Eden,E07000030,Ethnic Total,54737
+2021,South Lakeland,E07000031,Ethnic Total,104450
+2021,Amber Valley,E07000032,Ethnic Total,126204
+2021,Bolsover,E07000033,Ethnic Total,80270
+2021,Chesterfield,E07000034,Ethnic Total,103568
+2021,Derbyshire Dales,E07000035,Ethnic Total,71535
+2021,Erewash,E07000036,Ethnic Total,112908
+2021,High Peak,E07000037,Ethnic Total,90935
+2021,North East Derbyshire,E07000038,Ethnic Total,102003
+2021,South Derbyshire,E07000039,Ethnic Total,107206
+2021,East Devon,E07000040,Ethnic Total,150823
+2021,Exeter,E07000041,Ethnic Total,130707
+2021,Mid Devon,E07000042,Ethnic Total,82853
+2021,North Devon,E07000043,Ethnic Total,98612
+2021,South Hams,E07000044,Ethnic Total,88628
+2021,Teignbridge,E07000045,Ethnic Total,134802
+2021,Torridge,E07000046,Ethnic Total,68114
+2021,West Devon,E07000047,Ethnic Total,57094
+2021,Eastbourne,E07000061,Ethnic Total,101680
+2021,Hastings,E07000062,Ethnic Total,90995
+2021,Lewes,E07000063,Ethnic Total,99909
+2021,Rother,E07000064,Ethnic Total,93114
+2021,Wealden,E07000065,Ethnic Total,160152
+2021,Basildon,E07000066,Ethnic Total,187567
+2021,Braintree,E07000067,Ethnic Total,155265
+2021,Brentwood,E07000068,Ethnic Total,77048
+2021,Castle Point,E07000069,Ethnic Total,89582
+2021,Chelmsford,E07000070,Ethnic Total,181523
+2021,Colchester,E07000071,Ethnic Total,192716
+2021,Epping Forest,E07000072,Ethnic Total,134980
+2021,Harlow,E07000073,Ethnic Total,93330
+2021,Maldon,E07000074,Ethnic Total,66211
+2021,Rochford,E07000075,Ethnic Total,85662
+2021,Tendring,E07000076,Ethnic Total,148293
+2021,Uttlesford,E07000077,Ethnic Total,91344
+2021,Cheltenham,E07000078,Ethnic Total,118836
+2021,Cotswold,E07000079,Ethnic Total,90830
+2021,Forest of Dean,E07000080,Ethnic Total,87004
+2021,Gloucester,E07000081,Ethnic Total,132414
+2021,Stroud,E07000082,Ethnic Total,121104
+2021,Tewkesbury,E07000083,Ethnic Total,94882
+2021,Basingstoke and Deane,E07000084,Ethnic Total,185154
+2021,East Hampshire,E07000085,Ethnic Total,125742
+2021,Eastleigh,E07000086,Ethnic Total,136444
+2021,Fareham,E07000087,Ethnic Total,114512
+2021,Gosport,E07000088,Ethnic Total,81949
+2021,Hart,E07000089,Ethnic Total,99404
+2021,Havant,E07000090,Ethnic Total,124210
+2021,New Forest,E07000091,Ethnic Total,175782
+2021,Rushmoor,E07000092,Ethnic Total,99759
+2021,Test Valley,E07000093,Ethnic Total,130491
+2021,Winchester,E07000094,Ethnic Total,127444
+2021,Broxbourne,E07000095,Ethnic Total,99007
+2021,Dacorum,E07000096,Ethnic Total,155081
+2021,Hertsmere,E07000098,Ethnic Total,107827
+2021,North Hertfordshire,E07000099,Ethnic Total,133210
+2021,Three Rivers,E07000102,Ethnic Total,93772
+2021,Watford,E07000103,Ethnic Total,102245
+2021,Ashford,E07000105,Ethnic Total,132747
+2021,Canterbury,E07000106,Ethnic Total,157429
+2021,Dartford,E07000107,Ethnic Total,116754
+2021,Dover,E07000108,Ethnic Total,116411
+2021,Gravesham,E07000109,Ethnic Total,106902
+2021,Maidstone,E07000110,Ethnic Total,175781
+2021,Sevenoaks,E07000111,Ethnic Total,120515
+2021,Folkestone and Hythe,E07000112,Ethnic Total,109759
+2021,Swale,E07000113,Ethnic Total,151677
+2021,Thanet,E07000114,Ethnic Total,140587
+2021,Tonbridge and Malling,E07000115,Ethnic Total,132201
+2021,Tunbridge Wells,E07000116,Ethnic Total,115314
+2021,Burnley,E07000117,Ethnic Total,94651
+2021,Chorley,E07000118,Ethnic Total,117733
+2021,Fylde,E07000119,Ethnic Total,81375
+2021,Hyndburn,E07000120,Ethnic Total,82237
+2021,Lancaster,E07000121,Ethnic Total,142939
+2021,Pendle,E07000122,Ethnic Total,95758
+2021,Preston,E07000123,Ethnic Total,147834
+2021,Ribble Valley,E07000124,Ethnic Total,61565
+2021,Rossendale,E07000125,Ethnic Total,70868
+2021,South Ribble,E07000126,Ethnic Total,111035
+2021,West Lancashire,E07000127,Ethnic Total,117429
+2021,Wyre,E07000128,Ethnic Total,111946
+2021,Blaby,E07000129,Ethnic Total,102924
+2021,Charnwood,E07000130,Ethnic Total,183970
+2021,Harborough,E07000131,Ethnic Total,97623
+2021,Hinckley and Bosworth,E07000132,Ethnic Total,113641
+2021,Melton,E07000133,Ethnic Total,51752
+2021,North West Leicestershire,E07000134,Ethnic Total,104707
+2021,Oadby and Wigston,E07000135,Ethnic Total,57747
+2021,Boston,E07000136,Ethnic Total,70505
+2021,East Lindsey,E07000137,Ethnic Total,142295
+2021,Lincoln,E07000138,Ethnic Total,103814
+2021,North Kesteven,E07000139,Ethnic Total,118072
+2021,South Holland,E07000140,Ethnic Total,95122
+2021,South Kesteven,E07000141,Ethnic Total,143405
+2021,West Lindsey,E07000142,Ethnic Total,95153
+2021,Breckland,E07000143,Ethnic Total,141477
+2021,Broadland,E07000144,Ethnic Total,131723
+2021,Great Yarmouth,E07000145,Ethnic Total,99750
+2021,King's Lynn and West Norfolk,E07000146,Ethnic Total,154326
+2021,North Norfolk,E07000147,Ethnic Total,102978
+2021,Norwich,E07000148,Ethnic Total,143924
+2021,South Norfolk,E07000149,Ethnic Total,141948
+2021,Craven,E07000163,Ethnic Total,56927
+2021,Hambleton,E07000164,Ethnic Total,90692
+2021,Harrogate,E07000165,Ethnic Total,162668
+2021,Richmondshire,E07000166,Ethnic Total,49781
+2021,Ryedale,E07000167,Ethnic Total,54707
+2021,Scarborough,E07000168,Ethnic Total,108736
+2021,Selby,E07000169,Ethnic Total,91988
+2021,Ashfield,E07000170,Ethnic Total,126299
+2021,Bassetlaw,E07000171,Ethnic Total,117803
+2021,Broxtowe,E07000172,Ethnic Total,110940
+2021,Gedling,E07000173,Ethnic Total,117264
+2021,Mansfield,E07000174,Ethnic Total,110482
+2021,Newark and Sherwood,E07000175,Ethnic Total,122959
+2021,Rushcliffe,E07000176,Ethnic Total,119077
+2021,Cherwell,E07000177,Ethnic Total,161015
+2021,Oxford,E07000178,Ethnic Total,162040
+2021,South Oxfordshire,E07000179,Ethnic Total,149088
+2021,Vale of White Horse,E07000180,Ethnic Total,138913
+2021,West Oxfordshire,E07000181,Ethnic Total,114236
+2021,Mendip,E07000187,Ethnic Total,116089
+2021,Sedgemoor,E07000188,Ethnic Total,125341
+2021,South Somerset,E07000189,Ethnic Total,172670
+2021,Cannock Chase,E07000192,Ethnic Total,100523
+2021,East Staffordshire,E07000193,Ethnic Total,124021
+2021,Lichfield,E07000194,Ethnic Total,106436
+2021,Newcastle-under-Lyme,E07000195,Ethnic Total,123299
+2021,South Staffordshire,E07000196,Ethnic Total,110475
+2021,Stafford,E07000197,Ethnic Total,136870
+2021,Staffordshire Moorlands,E07000198,Ethnic Total,95844
+2021,Tamworth,E07000199,Ethnic Total,78642
+2021,Babergh,E07000200,Ethnic Total,92342
+2021,Ipswich,E07000202,Ethnic Total,139643
+2021,Mid Suffolk,E07000203,Ethnic Total,102701
+2021,Elmbridge,E07000207,Ethnic Total,138755
+2021,Epsom and Ewell,E07000208,Ethnic Total,80937
+2021,Guildford,E07000209,Ethnic Total,143647
+2021,Mole Valley,E07000210,Ethnic Total,87387
+2021,Reigate and Banstead,E07000211,Ethnic Total,150846
+2021,Runnymede,E07000212,Ethnic Total,88079
+2021,Spelthorne,E07000213,Ethnic Total,102960
+2021,Surrey Heath,E07000214,Ethnic Total,90456
+2021,Tandridge,E07000215,Ethnic Total,87877
+2021,Waverley,E07000216,Ethnic Total,128226
+2021,Woking,E07000217,Ethnic Total,103943
+2021,North Warwickshire,E07000218,Ethnic Total,65036
+2021,Nuneaton and Bedworth,E07000219,Ethnic Total,134198
+2021,Rugby,E07000220,Ethnic Total,114363
+2021,Stratford-on-Avon,E07000221,Ethnic Total,134724
+2021,Warwick,E07000222,Ethnic Total,148454
+2021,Adur,E07000223,Ethnic Total,64543
+2021,Arun,E07000224,Ethnic Total,164887
+2021,Chichester,E07000225,Ethnic Total,124071
+2021,Crawley,E07000226,Ethnic Total,118492
+2021,Horsham,E07000227,Ethnic Total,146776
+2021,Mid Sussex,E07000228,Ethnic Total,152566
+2021,Worthing,E07000229,Ethnic Total,111338
+2021,Bromsgrove,E07000234,Ethnic Total,99183
+2021,Malvern Hills,E07000235,Ethnic Total,79487
+2021,Redditch,E07000236,Ethnic Total,87034
+2021,Worcester,E07000237,Ethnic Total,103869
+2021,Wychavon,E07000238,Ethnic Total,132495
+2021,Wyre Forest,E07000239,Ethnic Total,101609
+2021,St Albans,E07000240,Ethnic Total,148169
+2021,Welwyn Hatfield,E07000241,Ethnic Total,119835
+2021,East Hertfordshire,E07000242,Ethnic Total,150159
+2021,Stevenage,E07000243,Ethnic Total,89498
+2021,East Suffolk,E07000244,Ethnic Total,246060
+2021,West Suffolk,E07000245,Ethnic Total,179948
+2021,Somerset West and Taunton,E07000246,Ethnic Total,157447
+2021,Bolton,E08000001,Ethnic Total,295960
+2021,Bury,E08000002,Ethnic Total,193851
+2021,Manchester,E08000003,Ethnic Total,551938
+2021,Oldham,E08000004,Ethnic Total,242087
+2021,Rochdale,E08000005,Ethnic Total,223771
+2021,Salford,E08000006,Ethnic Total,269922
+2021,Stockport,E08000007,Ethnic Total,294770
+2021,Tameside,E08000008,Ethnic Total,231070
+2021,Trafford,E08000009,Ethnic Total,235053
+2021,Wigan,E08000010,Ethnic Total,329330
+2021,Knowsley,E08000011,Ethnic Total,154518
+2021,Liverpool,E08000012,Ethnic Total,486088
+2021,St. Helens,E08000013,Ethnic Total,183248
+2021,Sefton,E08000014,Ethnic Total,279233
+2021,Wirral,E08000015,Ethnic Total,320199
+2021,Barnsley,E08000016,Ethnic Total,244572
+2021,Doncaster,E08000017,Ethnic Total,308104
+2021,Rotherham,E08000018,Ethnic Total,265806
+2021,Sheffield,E08000019,Ethnic Total,556523
+2021,Newcastle upon Tyne,E08000021,Ethnic Total,300127
+2021,North Tyneside,E08000022,Ethnic Total,208968
+2021,South Tyneside,E08000023,Ethnic Total,147777
+2021,Sunderland,E08000024,Ethnic Total,274173
+2021,Birmingham,E08000025,Ethnic Total,1144922
+2021,Coventry,E08000026,Ethnic Total,345321
+2021,Dudley,E08000027,Ethnic Total,323488
+2021,Sandwell,E08000028,Ethnic Total,341832
+2021,Solihull,E08000029,Ethnic Total,216240
+2021,Walsall,E08000030,Ethnic Total,284126
+2021,Wolverhampton,E08000031,Ethnic Total,263726
+2021,Bradford,E08000032,Ethnic Total,546412
+2021,Calderdale,E08000033,Ethnic Total,206631
+2021,Kirklees,E08000034,Ethnic Total,433213
+2021,Leeds,E08000035,Ethnic Total,811953
+2021,Wakefield,E08000036,Ethnic Total,353370
+2021,Gateshead,E08000037,Ethnic Total,196149
+2021,City of London,E09000001,Ethnic Total,8584
+2021,Barking and Dagenham,E09000002,Ethnic Total,218871
+2021,Barnet,E09000003,Ethnic Total,389344
+2021,Bexley,E09000004,Ethnic Total,246475
+2021,Brent,E09000005,Ethnic Total,339821
+2021,Bromley,E09000006,Ethnic Total,329991
+2021,Camden,E09000007,Ethnic Total,210136
+2021,Croydon,E09000008,Ethnic Total,390724
+2021,Ealing,E09000009,Ethnic Total,367116
+2021,Enfield,E09000010,Ethnic Total,329985
+2021,Greenwich,E09000011,Ethnic Total,289065
+2021,Hackney,E09000012,Ethnic Total,259147
+2021,Hammersmith and Fulham,E09000013,Ethnic Total,183156
+2021,Haringey,E09000014,Ethnic Total,264238
+2021,Harrow,E09000015,Ethnic Total,261205
+2021,Havering,E09000016,Ethnic Total,262052
+2021,Hillingdon,E09000017,Ethnic Total,305907
+2021,Hounslow,E09000018,Ethnic Total,288181
+2021,Islington,E09000019,Ethnic Total,216590
+2021,Kensington and Chelsea,E09000020,Ethnic Total,143373
+2021,Kingston upon Thames,E09000021,Ethnic Total,168065
+2021,Lambeth,E09000022,Ethnic Total,317650
+2021,Lewisham,E09000023,Ethnic Total,300553
+2021,Merton,E09000024,Ethnic Total,215187
+2021,Newham,E09000025,Ethnic Total,351030
+2021,Redbridge,E09000026,Ethnic Total,310261
+2021,Richmond upon Thames,E09000027,Ethnic Total,195277
+2021,Southwark,E09000028,Ethnic Total,307640
+2021,Sutton,E09000029,Ethnic Total,209636
+2021,Tower Hamlets,E09000030,Ethnic Total,310306
+2021,Waltham Forest,E09000031,Ethnic Total,278428
+2021,Wandsworth,E09000032,Ethnic Total,327506
+2021,Westminster,E09000033,Ethnic Total,204236
+2021,Isle of Anglesey,W06000001,Ethnic Total,68879
+2021,Gwynedd,W06000002,Ethnic Total,117392
+2021,Conwy,W06000003,Ethnic Total,114743
+2021,Denbighshire,W06000004,Ethnic Total,95820
+2021,Flintshire,W06000005,Ethnic Total,154960
+2021,Wrexham,W06000006,Ethnic Total,135122
+2021,Ceredigion,W06000008,Ethnic Total,71473
+2021,Pembrokeshire,W06000009,Ethnic Total,123359
+2021,Carmarthenshire,W06000010,Ethnic Total,187898
+2021,Swansea,W06000011,Ethnic Total,238491
+2021,Neath Port Talbot,W06000012,Ethnic Total,142290
+2021,Bridgend,W06000013,Ethnic Total,145490
+2021,Vale of Glamorgan,W06000014,Ethnic Total,131939
+2021,Cardiff,W06000015,Ethnic Total,362310
+2021,Rhondda Cynon Taff,W06000016,Ethnic Total,237653
+2021,Caerphilly,W06000018,Ethnic Total,175955
+2021,Blaenau Gwent,W06000019,Ethnic Total,66903
+2021,Torfaen,W06000020,Ethnic Total,92276
+2021,Monmouthshire,W06000021,Ethnic Total,92960
+2021,Newport,W06000022,Ethnic Total,159592
+2021,Powys,W06000023,Ethnic Total,133169
+2021,Merthyr Tydfil,W06000024,Ethnic Total,58839
+2021,Hartlepool,E06000001,Asian,1600
+2021,Middlesbrough,E06000002,Asian,15090
+2021,Redcar and Cleveland,E06000003,Asian,1160
+2021,Stockton-on-Tees,E06000004,Asian,9052
+2021,Darlington,E06000005,Asian,2966
+2021,Halton,E06000006,Asian,1436
+2021,Warrington,E06000007,Asian,6954
+2021,Blackburn with Darwen,E06000008,Asian,55178
+2021,Blackpool,E06000009,Asian,3676
+2021,"Kingston upon Hull, City of",E06000010,Asian,7515
+2021,East Riding of Yorkshire,E06000011,Asian,3686
+2021,North East Lincolnshire,E06000012,Asian,2437
+2021,North Lincolnshire,E06000013,Asian,5622
+2021,York,E06000014,Asian,7634
+2021,Derby,E06000015,Asian,40901
+2021,Leicester,E06000016,Asian,159977
+2021,Rutland,E06000017,Asian,634
+2021,Nottingham,E06000018,Asian,48217
+2021,"Herefordshire, County of",E06000019,Asian,2218
+2021,Telford and Wrekin,E06000020,Asian,10067
+2021,Stoke-on-Trent,E06000021,Asian,25597
+2021,Bath and North East Somerset,E06000022,Asian,6389
+2021,"Bristol, City of",E06000023,Asian,31269
+2021,North Somerset,E06000024,Asian,3322
+2021,South Gloucestershire,E06000025,Asian,11094
+2021,Plymouth,E06000026,Asian,5947
+2021,Torbay,E06000027,Asian,2254
+2021,Swindon,E06000030,Asian,27173
+2021,Peterborough,E06000031,Asian,30801
+2021,Luton,E06000032,Asian,83325
+2021,Southend-on-Sea,E06000033,Asian,9864
+2021,Thurrock,E06000034,Asian,12205
+2021,Medway,E06000035,Asian,16484
+2021,Bracknell Forest,E06000036,Asian,8879
+2021,West Berkshire,E06000037,Asian,5990
+2021,Reading,E06000038,Asian,30841
+2021,Slough,E06000039,Asian,74093
+2021,Windsor and Maidenhead,E06000040,Asian,20072
+2021,Wokingham,E06000041,Asian,22868
+2021,Milton Keynes,E06000042,Asian,35645
+2021,Brighton and Hove,E06000043,Asian,13217
+2021,Portsmouth,E06000044,Asian,14370
+2021,Southampton,E06000045,Asian,26414
+2021,Isle of Wight,E06000046,Asian,1663
+2021,County Durham,E06000047,Asian,7834
+2021,Cheshire East,E06000049,Asian,9531
+2021,Cheshire West and Chester,E06000050,Asian,7231
+2021,Shropshire,E06000051,Asian,4324
+2021,Cornwall,E06000052,Asian,4032
+2021,Isles of Scilly,E06000053,Asian,6
+2021,Wiltshire,E06000054,Asian,10876
+2021,Bedford,E06000055,Asian,23263
+2021,Central Bedfordshire,E06000056,Asian,10321
+2021,Northumberland,E06000057,Asian,3374
+2021,"Bournemouth, Christchurch and Poole",E06000058,Asian,13551
+2021,Dorset,E06000059,Asian,4305
+2021,Buckinghamshire,E06000060,Asian,68318
+2021,North Northamptonshire,E06000061,Asian,12726
+2021,West Northamptonshire,E06000062,Asian,22463
+2021,Cambridge,E07000008,Asian,21626
+2021,East Cambridgeshire,E07000009,Asian,1688
+2021,Fenland,E07000010,Asian,1232
+2021,Huntingdonshire,E07000011,Asian,5745
+2021,South Cambridgeshire,E07000012,Asian,9399
+2021,Allerdale,E07000026,Asian,540
+2021,Barrow-in-Furness,E07000027,Asian,949
+2021,Carlisle,E07000028,Asian,1628
+2021,Copeland,E07000029,Asian,547
+2021,Eden,E07000030,Asian,435
+2021,South Lakeland,E07000031,Asian,812
+2021,Amber Valley,E07000032,Asian,1208
+2021,Bolsover,E07000033,Asian,722
+2021,Chesterfield,E07000034,Asian,1950
+2021,Derbyshire Dales,E07000035,Asian,518
+2021,Erewash,E07000036,Asian,1788
+2021,High Peak,E07000037,Asian,694
+2021,North East Derbyshire,E07000038,Asian,952
+2021,South Derbyshire,E07000039,Asian,3841
+2021,East Devon,E07000040,Asian,1459
+2021,Exeter,E07000041,Asian,6375
+2021,Mid Devon,E07000042,Asian,562
+2021,North Devon,E07000043,Asian,1135
+2021,South Hams,E07000044,Asian,614
+2021,Teignbridge,E07000045,Asian,1004
+2021,Torridge,E07000046,Asian,356
+2021,West Devon,E07000047,Asian,337
+2021,Eastbourne,E07000061,Asian,3544
+2021,Hastings,E07000062,Asian,2536
+2021,Lewes,E07000063,Asian,1899
+2021,Rother,E07000064,Asian,1390
+2021,Wealden,E07000065,Asian,2250
+2021,Basildon,E07000066,Asian,7995
+2021,Braintree,E07000067,Asian,2566
+2021,Brentwood,E07000068,Asian,3913
+2021,Castle Point,E07000069,Asian,1550
+2021,Chelmsford,E07000070,Asian,9646
+2021,Colchester,E07000071,Asian,9907
+2021,Epping Forest,E07000072,Asian,9678
+2021,Harlow,E07000073,Asian,5555
+2021,Maldon,E07000074,Asian,741
+2021,Rochford,E07000075,Asian,1185
+2021,Tendring,E07000076,Asian,1794
+2021,Uttlesford,E07000077,Asian,1722
+2021,Cheltenham,E07000078,Asian,4922
+2021,Cotswold,E07000079,Asian,1195
+2021,Forest of Dean,E07000080,Asian,625
+2021,Gloucester,E07000081,Asian,8543
+2021,Stroud,E07000082,Asian,1256
+2021,Tewkesbury,E07000083,Asian,1924
+2021,Basingstoke and Deane,E07000084,Asian,10967
+2021,East Hampshire,E07000085,Asian,2370
+2021,Eastleigh,E07000086,Asian,5256
+2021,Fareham,E07000087,Asian,2114
+2021,Gosport,E07000088,Asian,1169
+2021,Hart,E07000089,Asian,3595
+2021,Havant,E07000090,Asian,2107
+2021,New Forest,E07000091,Asian,2103
+2021,Rushmoor,E07000092,Asian,14658
+2021,Test Valley,E07000093,Asian,4284
+2021,Winchester,E07000094,Asian,3917
+2021,Broxbourne,E07000095,Asian,3657
+2021,Dacorum,E07000096,Asian,8948
+2021,Hertsmere,E07000098,Asian,11320
+2021,North Hertfordshire,E07000099,Asian,6956
+2021,Three Rivers,E07000102,Asian,14265
+2021,Watford,E07000103,Asian,25037
+2021,Ashford,E07000105,Asian,7668
+2021,Canterbury,E07000106,Asian,6377
+2021,Dartford,E07000107,Asian,11513
+2021,Dover,E07000108,Asian,2402
+2021,Gravesham,E07000109,Asian,11999
+2021,Maidstone,E07000110,Asian,8213
+2021,Sevenoaks,E07000111,Asian,3484
+2021,Folkestone and Hythe,E07000112,Asian,4271
+2021,Swale,E07000113,Asian,2312
+2021,Thanet,E07000114,Asian,3259
+2021,Tonbridge and Malling,E07000115,Asian,3876
+2021,Tunbridge Wells,E07000116,Asian,4566
+2021,Burnley,E07000117,Asian,13930
+2021,Chorley,E07000118,Asian,2204
+2021,Fylde,E07000119,Asian,1173
+2021,Hyndburn,E07000120,Asian,12401
+2021,Lancaster,E07000121,Asian,5155
+2021,Pendle,E07000122,Asian,25573
+2021,Preston,E07000123,Asian,29815
+2021,Ribble Valley,E07000124,Asian,1265
+2021,Rossendale,E07000125,Asian,3876
+2021,South Ribble,E07000126,Asian,2307
+2021,West Lancashire,E07000127,Asian,1232
+2021,Wyre,E07000128,Asian,1109
+2021,Blaby,E07000129,Asian,8497
+2021,Charnwood,E07000130,Asian,22853
+2021,Harborough,E07000131,Asian,5298
+2021,Hinckley and Bosworth,E07000132,Asian,3147
+2021,Melton,E07000133,Asian,599
+2021,North West Leicestershire,E07000134,Asian,1543
+2021,Oadby and Wigston,E07000135,Asian,16131
+2021,Boston,E07000136,Asian,1443
+2021,East Lindsey,E07000137,Asian,1134
+2021,Lincoln,E07000138,Asian,3347
+2021,North Kesteven,E07000139,Asian,1160
+2021,South Holland,E07000140,Asian,1176
+2021,South Kesteven,E07000141,Asian,2529
+2021,West Lindsey,E07000142,Asian,1136
+2021,Breckland,E07000143,Asian,1340
+2021,Broadland,E07000144,Asian,1831
+2021,Great Yarmouth,E07000145,Asian,1936
+2021,King's Lynn and West Norfolk,E07000146,Asian,2886
+2021,North Norfolk,E07000147,Asian,565
+2021,Norwich,E07000148,Asian,7867
+2021,South Norfolk,E07000149,Asian,2562
+2021,Craven,E07000163,Asian,972
+2021,Hambleton,E07000164,Asian,664
+2021,Harrogate,E07000165,Asian,2947
+2021,Richmondshire,E07000166,Asian,1346
+2021,Ryedale,E07000167,Asian,325
+2021,Scarborough,E07000168,Asian,1372
+2021,Selby,E07000169,Asian,694
+2021,Ashfield,E07000170,Asian,1968
+2021,Bassetlaw,E07000171,Asian,1455
+2021,Broxtowe,E07000172,Asian,6152
+2021,Gedling,E07000173,Asian,4532
+2021,Mansfield,E07000174,Asian,2234
+2021,Newark and Sherwood,E07000175,Asian,1411
+2021,Rushcliffe,E07000176,Asian,6775
+2021,Cherwell,E07000177,Asian,9706
+2021,Oxford,E07000178,Asian,24991
+2021,South Oxfordshire,E07000179,Asian,4263
+2021,Vale of White Horse,E07000180,Asian,5490
+2021,West Oxfordshire,E07000181,Asian,1936
+2021,Mendip,E07000187,Asian,1298
+2021,Sedgemoor,E07000188,Asian,1806
+2021,South Somerset,E07000189,Asian,2330
+2021,Cannock Chase,E07000192,Asian,1208
+2021,East Staffordshire,E07000193,Asian,11552
+2021,Lichfield,E07000194,Asian,2496
+2021,Newcastle-under-Lyme,E07000195,Asian,4642
+2021,South Staffordshire,E07000196,Asian,3108
+2021,Stafford,E07000197,Asian,4165
+2021,Staffordshire Moorlands,E07000198,Asian,658
+2021,Tamworth,E07000199,Asian,1081
+2021,Babergh,E07000200,Asian,875
+2021,Ipswich,E07000202,Asian,7611
+2021,Mid Suffolk,E07000203,Asian,821
+2021,Elmbridge,E07000207,Asian,9052
+2021,Epsom and Ewell,E07000208,Asian,9233
+2021,Guildford,E07000209,Asian,9630
+2021,Mole Valley,E07000210,Asian,2637
+2021,Reigate and Banstead,E07000211,Asian,11383
+2021,Runnymede,E07000212,Asian,8140
+2021,Spelthorne,E07000213,Asian,13146
+2021,Surrey Heath,E07000214,Asian,8057
+2021,Tandridge,E07000215,Asian,3271
+2021,Waverley,E07000216,Asian,3625
+2021,Woking,E07000217,Asian,14741
+2021,North Warwickshire,E07000218,Asian,844
+2021,Nuneaton and Bedworth,E07000219,Asian,10782
+2021,Rugby,E07000220,Asian,8728
+2021,Stratford-on-Avon,E07000221,Asian,2566
+2021,Warwick,E07000222,Asian,14403
+2021,Adur,E07000223,Asian,1395
+2021,Arun,E07000224,Asian,2630
+2021,Chichester,E07000225,Asian,2168
+2021,Crawley,E07000226,Asian,18236
+2021,Horsham,E07000227,Asian,3974
+2021,Mid Sussex,E07000228,Asian,5505
+2021,Worthing,E07000229,Asian,4387
+2021,Bromsgrove,E07000234,Asian,3159
+2021,Malvern Hills,E07000235,Asian,1051
+2021,Redditch,E07000236,Asian,4995
+2021,Worcester,E07000237,Asian,5860
+2021,Wychavon,E07000238,Asian,1510
+2021,Wyre Forest,E07000239,Asian,1939
+2021,St Albans,E07000240,Asian,12176
+2021,Welwyn Hatfield,E07000241,Asian,10595
+2021,East Hertfordshire,E07000242,Asian,4019
+2021,Stevenage,E07000243,Asian,6700
+2021,East Suffolk,E07000244,Asian,3447
+2021,West Suffolk,E07000245,Asian,4731
+2021,Somerset West and Taunton,E07000246,Asian,3224
+2021,Bolton,E08000001,Asian,59596
+2021,Bury,E08000002,Asian,20593
+2021,Manchester,E08000003,Asian,115109
+2021,Oldham,E08000004,Asian,59565
+2021,Rochdale,E08000005,Asian,41406
+2021,Salford,E08000006,Asian,14938
+2021,Stockport,E08000007,Asian,21464
+2021,Tameside,E08000008,Asian,21198
+2021,Trafford,E08000009,Asian,29588
+2021,Wigan,E08000010,Asian,5826
+2021,Knowsley,E08000011,Asian,2510
+2021,Liverpool,E08000012,Asian,27767
+2021,St. Helens,E08000013,Asian,2579
+2021,Sefton,E08000014,Asian,4294
+2021,Wirral,E08000015,Asian,7302
+2021,Barnsley,E08000016,Asian,2297
+2021,Doncaster,E08000017,Asian,9086
+2021,Rotherham,E08000018,Asian,14176
+2021,Sheffield,E08000019,Asian,53560
+2021,Newcastle upon Tyne,E08000021,Asian,34128
+2021,North Tyneside,E08000022,Asian,5396
+2021,South Tyneside,E08000023,Asian,4317
+2021,Sunderland,E08000024,Asian,8204
+2021,Birmingham,E08000025,Asian,355384
+2021,Coventry,E08000026,Asian,63915
+2021,Dudley,E08000027,Asian,27047
+2021,Sandwell,E08000028,Asian,88024
+2021,Solihull,E08000029,Asian,23845
+2021,Walsall,E08000030,Asian,53199
+2021,Wolverhampton,E08000031,Asian,55901
+2021,Bradford,E08000032,Asian,175664
+2021,Calderdale,E08000033,Asian,21726
+2021,Kirklees,E08000034,Asian,84202
+2021,Leeds,E08000035,Asian,78503
+2021,Wakefield,E08000036,Asian,12633
+2021,Gateshead,E08000037,Asian,4925
+2021,City of London,E09000001,Asian,1445
+2021,Barking and Dagenham,E09000002,Asian,56583
+2021,Barnet,E09000003,Asian,74972
+2021,Bexley,E09000004,Asian,24434
+2021,Brent,E09000005,Asian,111515
+2021,Bromley,E09000006,Asian,27307
+2021,Camden,E09000007,Asian,38042
+2021,Croydon,E09000008,Asian,68487
+2021,Ealing,E09000009,Asian,111241
+2021,Enfield,E09000010,Asian,37973
+2021,Greenwich,E09000011,Asian,38028
+2021,Hackney,E09000012,Asian,26885
+2021,Hammersmith and Fulham,E09000013,Asian,19306
+2021,Haringey,E09000014,Asian,23080
+2021,Harrow,E09000015,Asian,118152
+2021,Havering,E09000016,Asian,28150
+2021,Hillingdon,E09000017,Asian,101938
+2021,Hounslow,E09000018,Asian,105846
+2021,Islington,E09000019,Asian,21532
+2021,Kensington and Chelsea,E09000020,Asian,17025
+2021,Kingston upon Thames,E09000021,Asian,29938
+2021,Lambeth,E09000022,Asian,23051
+2021,Lewisham,E09000023,Asian,26927
+2021,Merton,E09000024,Asian,40019
+2021,Newham,E09000025,Asian,148187
+2021,Redbridge,E09000026,Asian,146833
+2021,Richmond upon Thames,E09000027,Asian,17467
+2021,Southwark,E09000028,Asian,30540
+2021,Sutton,E09000029,Asian,36787
+2021,Tower Hamlets,E09000030,Asian,137856
+2021,Waltham Forest,E09000031,Asian,55545
+2021,Wandsworth,E09000032,Asian,38314
+2021,Westminster,E09000033,Asian,34242
+2021,Isle of Anglesey,W06000001,Asian,430
+2021,Gwynedd,W06000002,Asian,1968
+2021,Conwy,W06000003,Asian,1651
+2021,Denbighshire,W06000004,Asian,1650
+2021,Flintshire,W06000005,Asian,1455
+2021,Wrexham,W06000006,Asian,2246
+2021,Ceredigion,W06000008,Asian,1096
+2021,Pembrokeshire,W06000009,Asian,1159
+2021,Carmarthenshire,W06000010,Asian,2321
+2021,Swansea,W06000011,Asian,10451
+2021,Neath Port Talbot,W06000012,Asian,2253
+2021,Bridgend,W06000013,Asian,2152
+2021,Vale of Glamorgan,W06000014,Asian,2807
+2021,Cardiff,W06000015,Asian,34983
+2021,Rhondda Cynon Taff,W06000016,Asian,3506
+2021,Caerphilly,W06000018,Asian,1584
+2021,Blaenau Gwent,W06000019,Asian,621
+2021,Torfaen,W06000020,Asian,1202
+2021,Monmouthshire,W06000021,Asian,1185
+2021,Newport,W06000022,Asian,12194
+2021,Powys,W06000023,Asian,1247
+2021,Merthyr Tydfil,W06000024,Asian,871
+2021,Hartlepool,E06000001,Black,445
+2021,Middlesbrough,E06000002,Black,3816
+2021,Redcar and Cleveland,E06000003,Black,265
+2021,Stockton-on-Tees,E06000004,Black,2203
+2021,Darlington,E06000005,Black,701
+2021,Halton,E06000006,Black,511
+2021,Warrington,E06000007,Black,1576
+2021,Blackburn with Darwen,E06000008,Black,1406
+2021,Blackpool,E06000009,Black,711
+2021,"Kingston upon Hull, City of",E06000010,Black,5065
+2021,East Riding of Yorkshire,E06000011,Black,894
+2021,North East Lincolnshire,E06000012,Black,846
+2021,North Lincolnshire,E06000013,Black,818
+2021,York,E06000014,Black,1325
+2021,Derby,E06000015,Black,10482
+2021,Leicester,E06000016,Black,28766
+2021,Rutland,E06000017,Black,552
+2021,Nottingham,E06000018,Black,32215
+2021,"Herefordshire, County of",E06000019,Black,567
+2021,Telford and Wrekin,E06000020,Black,5351
+2021,Stoke-on-Trent,E06000021,Black,6884
+2021,Bath and North East Somerset,E06000022,Black,1846
+2021,"Bristol, City of",E06000023,Black,27890
+2021,North Somerset,E06000024,Black,1139
+2021,South Gloucestershire,E06000025,Black,4534
+2021,Plymouth,E06000026,Black,2786
+2021,Torbay,E06000027,Black,447
+2021,Swindon,E06000030,Black,6123
+2021,Peterborough,E06000031,Black,8751
+2021,Luton,E06000032,Black,22735
+2021,Southend-on-Sea,E06000033,Black,5153
+2021,Thurrock,E06000034,Black,20877
+2021,Medway,E06000035,Black,15723
+2021,Bracknell Forest,E06000036,Black,2993
+2021,West Berkshire,E06000037,Black,2030
+2021,Reading,E06000038,Black,12532
+2021,Slough,E06000039,Black,11992
+2021,Windsor and Maidenhead,E06000040,Black,2358
+2021,Wokingham,E06000041,Black,4306
+2021,Milton Keynes,E06000042,Black,27851
+2021,Brighton and Hove,E06000043,Black,5458
+2021,Portsmouth,E06000044,Black,7070
+2021,Southampton,E06000045,Black,7539
+2021,Isle of Wight,E06000046,Black,478
+2021,County Durham,E06000047,Black,1740
+2021,Cheshire East,E06000049,Black,2422
+2021,Cheshire West and Chester,E06000050,Black,2107
+2021,Shropshire,E06000051,Black,1117
+2021,Cornwall,E06000052,Black,1058
+2021,Isles of Scilly,E06000053,Black,4
+2021,Wiltshire,E06000054,Black,5786
+2021,Bedford,E06000055,Black,9848
+2021,Central Bedfordshire,E06000056,Black,7018
+2021,Northumberland,E06000057,Black,598
+2021,"Bournemouth, Christchurch and Poole",E06000058,Black,4233
+2021,Dorset,E06000059,Black,1082
+2021,Buckinghamshire,E06000060,Black,14269
+2021,North Northamptonshire,E06000061,Black,11017
+2021,West Northamptonshire,E06000062,Black,20661
+2021,Cambridge,E07000008,Black,3561
+2021,East Cambridgeshire,E07000009,Black,705
+2021,Fenland,E07000010,Black,814
+2021,Huntingdonshire,E07000011,Black,2646
+2021,South Cambridgeshire,E07000012,Black,2019
+2021,Allerdale,E07000026,Black,84
+2021,Barrow-in-Furness,E07000027,Black,250
+2021,Carlisle,E07000028,Black,337
+2021,Copeland,E07000029,Black,185
+2021,Eden,E07000030,Black,87
+2021,South Lakeland,E07000031,Black,251
+2021,Amber Valley,E07000032,Black,381
+2021,Bolsover,E07000033,Black,419
+2021,Chesterfield,E07000034,Black,839
+2021,Derbyshire Dales,E07000035,Black,169
+2021,Erewash,E07000036,Black,871
+2021,High Peak,E07000037,Black,223
+2021,North East Derbyshire,E07000038,Black,324
+2021,South Derbyshire,E07000039,Black,855
+2021,East Devon,E07000040,Black,348
+2021,Exeter,E07000041,Black,1137
+2021,Mid Devon,E07000042,Black,101
+2021,North Devon,E07000043,Black,325
+2021,South Hams,E07000044,Black,149
+2021,Teignbridge,E07000045,Black,216
+2021,Torridge,E07000046,Black,75
+2021,West Devon,E07000047,Black,122
+2021,Eastbourne,E07000061,Black,1308
+2021,Hastings,E07000062,Black,1262
+2021,Lewes,E07000063,Black,722
+2021,Rother,E07000064,Black,561
+2021,Wealden,E07000065,Black,646
+2021,Basildon,E07000066,Black,8913
+2021,Braintree,E07000067,Black,1889
+2021,Brentwood,E07000068,Black,1747
+2021,Castle Point,E07000069,Black,1179
+2021,Chelmsford,E07000070,Black,4756
+2021,Colchester,E07000071,Black,6661
+2021,Epping Forest,E07000072,Black,3932
+2021,Harlow,E07000073,Black,5827
+2021,Maldon,E07000074,Black,236
+2021,Rochford,E07000075,Black,633
+2021,Tendring,E07000076,Black,910
+2021,Uttlesford,E07000077,Black,709
+2021,Cheltenham,E07000078,Black,1181
+2021,Cotswold,E07000079,Black,402
+2021,Forest of Dean,E07000080,Black,242
+2021,Gloucester,E07000081,Black,4826
+2021,Stroud,E07000082,Black,528
+2021,Tewkesbury,E07000083,Black,595
+2021,Basingstoke and Deane,E07000084,Black,3611
+2021,East Hampshire,E07000085,Black,658
+2021,Eastleigh,E07000086,Black,1300
+2021,Fareham,E07000087,Black,670
+2021,Gosport,E07000088,Black,984
+2021,Hart,E07000089,Black,843
+2021,Havant,E07000090,Black,750
+2021,New Forest,E07000091,Black,703
+2021,Rushmoor,E07000092,Black,2531
+2021,Test Valley,E07000093,Black,1458
+2021,Winchester,E07000094,Black,792
+2021,Broxbourne,E07000095,Black,6588
+2021,Dacorum,E07000096,Black,4411
+2021,Hertsmere,E07000098,Black,5181
+2021,North Hertfordshire,E07000099,Black,3235
+2021,Three Rivers,E07000102,Black,2233
+2021,Watford,E07000103,Black,6488
+2021,Ashford,E07000105,Black,3424
+2021,Canterbury,E07000106,Black,3906
+2021,Dartford,E07000107,Black,12282
+2021,Dover,E07000108,Black,837
+2021,Gravesham,E07000109,Black,6952
+2021,Maidstone,E07000110,Black,3606
+2021,Sevenoaks,E07000111,Black,1932
+2021,Folkestone and Hythe,E07000112,Black,682
+2021,Swale,E07000113,Black,3487
+2021,Thanet,E07000114,Black,1481
+2021,Tonbridge and Malling,E07000115,Black,1314
+2021,Tunbridge Wells,E07000116,Black,1131
+2021,Burnley,E07000117,Black,326
+2021,Chorley,E07000118,Black,653
+2021,Fylde,E07000119,Black,331
+2021,Hyndburn,E07000120,Black,224
+2021,Lancaster,E07000121,Black,1215
+2021,Pendle,E07000122,Black,244
+2021,Preston,E07000123,Black,3489
+2021,Ribble Valley,E07000124,Black,125
+2021,Rossendale,E07000125,Black,172
+2021,South Ribble,E07000126,Black,539
+2021,West Lancashire,E07000127,Black,388
+2021,Wyre,E07000128,Black,273
+2021,Blaby,E07000129,Black,1594
+2021,Charnwood,E07000130,Black,2840
+2021,Harborough,E07000131,Black,699
+2021,Hinckley and Bosworth,E07000132,Black,692
+2021,Melton,E07000133,Black,192
+2021,North West Leicestershire,E07000134,Black,642
+2021,Oadby and Wigston,E07000135,Black,1254
+2021,Boston,E07000136,Black,467
+2021,East Lindsey,E07000137,Black,292
+2021,Lincoln,E07000138,Black,1466
+2021,North Kesteven,E07000139,Black,416
+2021,South Holland,E07000140,Black,517
+2021,South Kesteven,E07000141,Black,875
+2021,West Lindsey,E07000142,Black,333
+2021,Breckland,E07000143,Black,820
+2021,Broadland,E07000144,Black,684
+2021,Great Yarmouth,E07000145,Black,1104
+2021,King's Lynn and West Norfolk,E07000146,Black,843
+2021,North Norfolk,E07000147,Black,183
+2021,Norwich,E07000148,Black,3578
+2021,South Norfolk,E07000149,Black,1164
+2021,Craven,E07000163,Black,87
+2021,Hambleton,E07000164,Black,244
+2021,Harrogate,E07000165,Black,1036
+2021,Richmondshire,E07000166,Black,440
+2021,Ryedale,E07000167,Black,93
+2021,Scarborough,E07000168,Black,331
+2021,Selby,E07000169,Black,228
+2021,Ashfield,E07000170,Black,1575
+2021,Bassetlaw,E07000171,Black,736
+2021,Broxtowe,E07000172,Black,1867
+2021,Gedling,E07000173,Black,2675
+2021,Mansfield,E07000174,Black,1174
+2021,Newark and Sherwood,E07000175,Black,804
+2021,Rushcliffe,E07000176,Black,1095
+2021,Cherwell,E07000177,Black,2845
+2021,Oxford,E07000178,Black,7535
+2021,South Oxfordshire,E07000179,Black,1467
+2021,Vale of White Horse,E07000180,Black,2315
+2021,West Oxfordshire,E07000181,Black,722
+2021,Mendip,E07000187,Black,369
+2021,Sedgemoor,E07000188,Black,423
+2021,South Somerset,E07000189,Black,816
+2021,Cannock Chase,E07000192,Black,472
+2021,East Staffordshire,E07000193,Black,1376
+2021,Lichfield,E07000194,Black,601
+2021,Newcastle-under-Lyme,E07000195,Black,1289
+2021,South Staffordshire,E07000196,Black,1031
+2021,Stafford,E07000197,Black,1440
+2021,Staffordshire Moorlands,E07000198,Black,188
+2021,Tamworth,E07000199,Black,492
+2021,Babergh,E07000200,Black,503
+2021,Ipswich,E07000202,Black,4882
+2021,Mid Suffolk,E07000203,Black,553
+2021,Elmbridge,E07000207,Black,1730
+2021,Epsom and Ewell,E07000208,Black,1569
+2021,Guildford,E07000209,Black,2150
+2021,Mole Valley,E07000210,Black,706
+2021,Reigate and Banstead,E07000211,Black,4415
+2021,Runnymede,E07000212,Black,1591
+2021,Spelthorne,E07000213,Black,2548
+2021,Surrey Heath,E07000214,Black,1428
+2021,Tandridge,E07000215,Black,1929
+2021,Waverley,E07000216,Black,887
+2021,Woking,E07000217,Black,1879
+2021,North Warwickshire,E07000218,Black,364
+2021,Nuneaton and Bedworth,E07000219,Black,2446
+2021,Rugby,E07000220,Black,3110
+2021,Stratford-on-Avon,E07000221,Black,482
+2021,Warwick,E07000222,Black,1616
+2021,Adur,E07000223,Black,530
+2021,Arun,E07000224,Black,857
+2021,Chichester,E07000225,Black,783
+2021,Crawley,E07000226,Black,5331
+2021,Horsham,E07000227,Black,1312
+2021,Mid Sussex,E07000228,Black,1337
+2021,Worthing,E07000229,Black,1281
+2021,Bromsgrove,E07000234,Black,766
+2021,Malvern Hills,E07000235,Black,262
+2021,Redditch,E07000236,Black,1054
+2021,Worcester,E07000237,Black,1212
+2021,Wychavon,E07000238,Black,461
+2021,Wyre Forest,E07000239,Black,395
+2021,St Albans,E07000240,Black,3159
+2021,Welwyn Hatfield,E07000241,Black,7307
+2021,East Hertfordshire,E07000242,Black,1951
+2021,Stevenage,E07000243,Black,4340
+2021,East Suffolk,E07000244,Black,1357
+2021,West Suffolk,E07000245,Black,2873
+2021,Somerset West and Taunton,E07000246,Black,827
+2021,Bolton,E08000001,Black,11238
+2021,Bury,E08000002,Black,3690
+2021,Manchester,E08000003,Black,65893
+2021,Oldham,E08000004,Black,8209
+2021,Rochdale,E08000005,Black,7927
+2021,Salford,E08000006,Black,16473
+2021,Stockport,E08000007,Black,3416
+2021,Tameside,E08000008,Black,5275
+2021,Trafford,E08000009,Black,8086
+2021,Wigan,E08000010,Black,3907
+2021,Knowsley,E08000011,Black,1264
+2021,Liverpool,E08000012,Black,16964
+2021,St. Helens,E08000013,Black,776
+2021,Sefton,E08000014,Black,1509
+2021,Wirral,E08000015,Black,1389
+2021,Barnsley,E08000016,Black,1715
+2021,Doncaster,E08000017,Black,3742
+2021,Rotherham,E08000018,Black,3016
+2021,Sheffield,E08000019,Black,25512
+2021,Newcastle upon Tyne,E08000021,Black,9921
+2021,North Tyneside,E08000022,Black,1281
+2021,South Tyneside,E08000023,Black,786
+2021,Sunderland,E08000024,Black,2665
+2021,Birmingham,E08000025,Black,125760
+2021,Coventry,E08000026,Black,30723
+2021,Dudley,E08000027,Black,8170
+2021,Sandwell,E08000028,Black,29779
+2021,Solihull,E08000029,Black,3955
+2021,Walsall,E08000030,Black,13024
+2021,Wolverhampton,E08000031,Black,24636
+2021,Bradford,E08000032,Black,10978
+2021,Calderdale,E08000033,Black,1439
+2021,Kirklees,E08000034,Black,9948
+2021,Leeds,E08000035,Black,45376
+2021,Wakefield,E08000036,Black,4516
+2021,Gateshead,E08000037,Black,2214
+2021,City of London,E09000001,Black,232
+2021,Barking and Dagenham,E09000002,Black,46807
+2021,Barnet,E09000003,Black,30651
+2021,Bexley,E09000004,Black,30075
+2021,Brent,E09000005,Black,59495
+2021,Bromley,E09000006,Black,25149
+2021,Camden,E09000007,Black,18892
+2021,Croydon,E09000008,Black,88441
+2021,Ealing,E09000009,Black,39491
+2021,Enfield,E09000010,Black,60512
+2021,Greenwich,E09000011,Black,60602
+2021,Hackney,E09000012,Black,54645
+2021,Hammersmith and Fulham,E09000013,Black,22453
+2021,Haringey,E09000014,Black,46466
+2021,Harrow,E09000015,Black,19151
+2021,Havering,E09000016,Black,21567
+2021,Hillingdon,E09000017,Black,23955
+2021,Hounslow,E09000018,Black,20810
+2021,Islington,E09000019,Black,28743
+2021,Kensington and Chelsea,E09000020,Black,11279
+2021,Kingston upon Thames,E09000021,Black,4741
+2021,Lambeth,E09000022,Black,76145
+2021,Lewisham,E09000023,Black,80473
+2021,Merton,E09000024,Black,22887
+2021,Newham,E09000025,Black,61302
+2021,Redbridge,E09000026,Black,26096
+2021,Richmond upon Thames,E09000027,Black,3687
+2021,Southwark,E09000028,Black,77299
+2021,Sutton,E09000029,Black,12465
+2021,Tower Hamlets,E09000030,Black,22693
+2021,Waltham Forest,E09000031,Black,41647
+2021,Wandsworth,E09000032,Black,33062
+2021,Westminster,E09000033,Black,16456
+2021,Isle of Anglesey,W06000001,Black,104
+2021,Gwynedd,W06000002,Black,513
+2021,Conwy,W06000003,Black,271
+2021,Denbighshire,W06000004,Black,268
+2021,Flintshire,W06000005,Black,292
+2021,Wrexham,W06000006,Black,878
+2021,Ceredigion,W06000008,Black,366
+2021,Pembrokeshire,W06000009,Black,244
+2021,Carmarthenshire,W06000010,Black,455
+2021,Swansea,W06000011,Black,2797
+2021,Neath Port Talbot,W06000012,Black,522
+2021,Bridgend,W06000013,Black,429
+2021,Vale of Glamorgan,W06000014,Black,624
+2021,Cardiff,W06000015,Black,13896
+2021,Rhondda Cynon Taff,W06000016,Black,997
+2021,Caerphilly,W06000018,Black,283
+2021,Blaenau Gwent,W06000019,Black,115
+2021,Torfaen,W06000020,Black,228
+2021,Monmouthshire,W06000021,Black,230
+2021,Newport,W06000022,Black,3737
+2021,Powys,W06000023,Black,221
+2021,Merthyr Tydfil,W06000024,Black,91
+2021,Hartlepool,E06000001,Mixed,671
+2021,Middlesbrough,E06000002,Mixed,3001
+2021,Redcar and Cleveland,E06000003,Mixed,1185
+2021,Stockton-on-Tees,E06000004,Mixed,2737
+2021,Darlington,E06000005,Mixed,1472
+2021,Halton,E06000006,Mixed,1791
+2021,Warrington,E06000007,Mixed,3335
+2021,Blackburn with Darwen,E06000008,Mixed,2596
+2021,Blackpool,E06000009,Mixed,2210
+2021,"Kingston upon Hull, City of",E06000010,Mixed,4513
+2021,East Riding of Yorkshire,E06000011,Mixed,3197
+2021,North East Lincolnshire,E06000012,Mixed,1617
+2021,North Lincolnshire,E06000013,Mixed,1820
+2021,York,E06000014,Mixed,3741
+2021,Derby,E06000015,Mixed,9562
+2021,Leicester,E06000016,Mixed,13899
+2021,Rutland,E06000017,Mixed,744
+2021,Nottingham,E06000018,Mixed,19063
+2021,"Herefordshire, County of",E06000019,Mixed,1980
+2021,Telford and Wrekin,E06000020,Mixed,4844
+2021,Stoke-on-Trent,E06000021,Mixed,5860
+2021,Bath and North East Somerset,E06000022,Mixed,5256
+2021,"Bristol, City of",E06000023,Mixed,21116
+2021,North Somerset,E06000024,Mixed,3635
+2021,South Gloucestershire,E06000025,Mixed,7289
+2021,Plymouth,E06000026,Mixed,4656
+2021,Torbay,E06000027,Mixed,2084
+2021,Swindon,E06000030,Mixed,6495
+2021,Peterborough,E06000031,Mixed,7617
+2021,Luton,E06000032,Mixed,9620
+2021,Southend-on-Sea,E06000033,Mixed,5553
+2021,Thurrock,E06000034,Mixed,5252
+2021,Medway,E06000035,Mixed,7859
+2021,Bracknell Forest,E06000036,Mixed,3843
+2021,West Berkshire,E06000037,Mixed,3857
+2021,Reading,E06000038,Mixed,8962
+2021,Slough,E06000039,Mixed,6311
+2021,Windsor and Maidenhead,E06000040,Mixed,5238
+2021,Wokingham,E06000041,Mixed,5574
+2021,Milton Keynes,E06000042,Mixed,11725
+2021,Brighton and Hove,E06000043,Mixed,13228
+2021,Portsmouth,E06000044,Mixed,5487
+2021,Southampton,E06000045,Mixed,8309
+2021,Isle of Wight,E06000046,Mixed,1720
+2021,County Durham,E06000047,Mixed,4949
+2021,Cheshire East,E06000049,Mixed,7059
+2021,Cheshire West and Chester,E06000050,Mixed,5291
+2021,Shropshire,E06000051,Mixed,3861
+2021,Cornwall,E06000052,Mixed,7030
+2021,Isles of Scilly,E06000053,Mixed,23
+2021,Wiltshire,E06000054,Mixed,8709
+2021,Bedford,E06000055,Mixed,8586
+2021,Central Bedfordshire,E06000056,Mixed,8885
+2021,Northumberland,E06000057,Mixed,2557
+2021,"Bournemouth, Christchurch and Poole",E06000058,Mixed,11093
+2021,Dorset,E06000059,Mixed,4436
+2021,Buckinghamshire,E06000060,Mixed,19570
+2021,North Northamptonshire,E06000061,Mixed,8175
+2021,West Northamptonshire,E06000062,Mixed,12116
+2021,Cambridge,E07000008,Mixed,7410
+2021,East Cambridgeshire,E07000009,Mixed,1883
+2021,Fenland,E07000010,Mixed,1412
+2021,Huntingdonshire,E07000011,Mixed,4057
+2021,South Cambridgeshire,E07000012,Mixed,4591
+2021,Allerdale,E07000026,Mixed,627
+2021,Barrow-in-Furness,E07000027,Mixed,550
+2021,Carlisle,E07000028,Mixed,973
+2021,Copeland,E07000029,Mixed,450
+2021,Eden,E07000030,Mixed,368
+2021,South Lakeland,E07000031,Mixed,1034
+2021,Amber Valley,E07000032,Mixed,1548
+2021,Bolsover,E07000033,Mixed,744
+2021,Chesterfield,E07000034,Mixed,1498
+2021,Derbyshire Dales,E07000035,Mixed,723
+2021,Erewash,E07000036,Mixed,2048
+2021,High Peak,E07000037,Mixed,1185
+2021,North East Derbyshire,E07000038,Mixed,1170
+2021,South Derbyshire,E07000039,Mixed,1934
+2021,East Devon,E07000040,Mixed,1720
+2021,Exeter,E07000041,Mixed,3308
+2021,Mid Devon,E07000042,Mixed,899
+2021,North Devon,E07000043,Mixed,1174
+2021,South Hams,E07000044,Mixed,1048
+2021,Teignbridge,E07000045,Mixed,1564
+2021,Torridge,E07000046,Mixed,630
+2021,West Devon,E07000047,Mixed,626
+2021,Eastbourne,E07000061,Mixed,2802
+2021,Hastings,E07000062,Mixed,2639
+2021,Lewes,E07000063,Mixed,2461
+2021,Rother,E07000064,Mixed,1702
+2021,Wealden,E07000065,Mixed,2709
+2021,Basildon,E07000066,Mixed,4938
+2021,Braintree,E07000067,Mixed,3014
+2021,Brentwood,E07000068,Mixed,2368
+2021,Castle Point,E07000069,Mixed,1446
+2021,Chelmsford,E07000070,Mixed,4724
+2021,Colchester,E07000071,Mixed,5602
+2021,Epping Forest,E07000072,Mixed,4896
+2021,Harlow,E07000073,Mixed,3048
+2021,Maldon,E07000074,Mixed,897
+2021,Rochford,E07000075,Mixed,1432
+2021,Tendring,E07000076,Mixed,2393
+2021,Uttlesford,E07000077,Mixed,2016
+2021,Cheltenham,E07000078,Mixed,2949
+2021,Cotswold,E07000079,Mixed,1393
+2021,Forest of Dean,E07000080,Mixed,925
+2021,Gloucester,E07000081,Mixed,5014
+2021,Stroud,E07000082,Mixed,2171
+2021,Tewkesbury,E07000083,Mixed,1699
+2021,Basingstoke and Deane,E07000084,Mixed,4717
+2021,East Hampshire,E07000085,Mixed,2079
+2021,Eastleigh,E07000086,Mixed,2817
+2021,Fareham,E07000087,Mixed,1727
+2021,Gosport,E07000088,Mixed,1210
+2021,Hart,E07000089,Mixed,2231
+2021,Havant,E07000090,Mixed,1719
+2021,New Forest,E07000091,Mixed,2215
+2021,Rushmoor,E07000092,Mixed,2578
+2021,Test Valley,E07000093,Mixed,2312
+2021,Winchester,E07000094,Mixed,2590
+2021,Broxbourne,E07000095,Mixed,3930
+2021,Dacorum,E07000096,Mixed,5266
+2021,Hertsmere,E07000098,Mixed,4038
+2021,North Hertfordshire,E07000099,Mixed,4913
+2021,Three Rivers,E07000102,Mixed,3390
+2021,Watford,E07000103,Mixed,4844
+2021,Ashford,E07000105,Mixed,2877
+2021,Canterbury,E07000106,Mixed,4316
+2021,Dartford,E07000107,Mixed,3638
+2021,Dover,E07000108,Mixed,1754
+2021,Gravesham,E07000109,Mixed,2828
+2021,Maidstone,E07000110,Mixed,4013
+2021,Sevenoaks,E07000111,Mixed,3181
+2021,Folkestone and Hythe,E07000112,Mixed,2108
+2021,Swale,E07000113,Mixed,2741
+2021,Thanet,E07000114,Mixed,3420
+2021,Tonbridge and Malling,E07000115,Mixed,2943
+2021,Tunbridge Wells,E07000116,Mixed,2949
+2021,Burnley,E07000117,Mixed,1505
+2021,Chorley,E07000118,Mixed,1773
+2021,Fylde,E07000119,Mixed,1158
+2021,Hyndburn,E07000120,Mixed,1091
+2021,Lancaster,E07000121,Mixed,2204
+2021,Pendle,E07000122,Mixed,1488
+2021,Preston,E07000123,Mixed,4367
+2021,Ribble Valley,E07000124,Mixed,736
+2021,Rossendale,E07000125,Mixed,1043
+2021,South Ribble,E07000126,Mixed,1908
+2021,West Lancashire,E07000127,Mixed,1547
+2021,Wyre,E07000128,Mixed,1135
+2021,Blaby,E07000129,Mixed,2765
+2021,Charnwood,E07000130,Mixed,4660
+2021,Harborough,E07000131,Mixed,2003
+2021,Hinckley and Bosworth,E07000132,Mixed,1990
+2021,Melton,E07000133,Mixed,659
+2021,North West Leicestershire,E07000134,Mixed,1592
+2021,Oadby and Wigston,E07000135,Mixed,1873
+2021,Boston,E07000136,Mixed,1015
+2021,East Lindsey,E07000137,Mixed,1484
+2021,Lincoln,E07000138,Mixed,2068
+2021,North Kesteven,E07000139,Mixed,1368
+2021,South Holland,E07000140,Mixed,1225
+2021,South Kesteven,E07000141,Mixed,1951
+2021,West Lindsey,E07000142,Mixed,1081
+2021,Breckland,E07000143,Mixed,2051
+2021,Broadland,E07000144,Mixed,1842
+2021,Great Yarmouth,E07000145,Mixed,1575
+2021,King's Lynn and West Norfolk,E07000146,Mixed,2022
+2021,North Norfolk,E07000147,Mixed,978
+2021,Norwich,E07000148,Mixed,4519
+2021,South Norfolk,E07000149,Mixed,2094
+2021,Craven,E07000163,Mixed,569
+2021,Hambleton,E07000164,Mixed,741
+2021,Harrogate,E07000165,Mixed,2573
+2021,Richmondshire,E07000166,Mixed,462
+2021,Ryedale,E07000167,Mixed,424
+2021,Scarborough,E07000168,Mixed,1069
+2021,Selby,E07000169,Mixed,884
+2021,Ashfield,E07000170,Mixed,2059
+2021,Bassetlaw,E07000171,Mixed,1405
+2021,Broxtowe,E07000172,Mixed,2819
+2021,Gedling,E07000173,Mixed,4130
+2021,Mansfield,E07000174,Mixed,1544
+2021,Newark and Sherwood,E07000175,Mixed,1844
+2021,Rushcliffe,E07000176,Mixed,3303
+2021,Cherwell,E07000177,Mixed,4614
+2021,Oxford,E07000178,Mixed,9005
+2021,South Oxfordshire,E07000179,Mixed,3402
+2021,Vale of White Horse,E07000180,Mixed,3452
+2021,West Oxfordshire,E07000181,Mixed,2141
+2021,Mendip,E07000187,Mixed,1666
+2021,Sedgemoor,E07000188,Mixed,1431
+2021,South Somerset,E07000189,Mixed,2023
+2021,Cannock Chase,E07000192,Mixed,1422
+2021,East Staffordshire,E07000193,Mixed,2723
+2021,Lichfield,E07000194,Mixed,1987
+2021,Newcastle-under-Lyme,E07000195,Mixed,1988
+2021,South Staffordshire,E07000196,Mixed,2242
+2021,Stafford,E07000197,Mixed,2552
+2021,Staffordshire Moorlands,E07000198,Mixed,902
+2021,Tamworth,E07000199,Mixed,1472
+2021,Babergh,E07000200,Mixed,1351
+2021,Ipswich,E07000202,Mixed,6409
+2021,Mid Suffolk,E07000203,Mixed,1463
+2021,Elmbridge,E07000207,Mixed,5688
+2021,Epsom and Ewell,E07000208,Mixed,3550
+2021,Guildford,E07000209,Mixed,4386
+2021,Mole Valley,E07000210,Mixed,2194
+2021,Reigate and Banstead,E07000211,Mixed,5541
+2021,Runnymede,E07000212,Mixed,3113
+2021,Spelthorne,E07000213,Mixed,3763
+2021,Surrey Heath,E07000214,Mixed,2460
+2021,Tandridge,E07000215,Mixed,3331
+2021,Waverley,E07000216,Mixed,2846
+2021,Woking,E07000217,Mixed,3614
+2021,North Warwickshire,E07000218,Mixed,1113
+2021,Nuneaton and Bedworth,E07000219,Mixed,2449
+2021,Rugby,E07000220,Mixed,3202
+2021,Stratford-on-Avon,E07000221,Mixed,2288
+2021,Warwick,E07000222,Mixed,4479
+2021,Adur,E07000223,Mixed,1627
+2021,Arun,E07000224,Mixed,2484
+2021,Chichester,E07000225,Mixed,2047
+2021,Crawley,E07000226,Mixed,4838
+2021,Horsham,E07000227,Mixed,3130
+2021,Mid Sussex,E07000228,Mixed,3827
+2021,Worthing,E07000229,Mixed,2854
+2021,Bromsgrove,E07000234,Mixed,2414
+2021,Malvern Hills,E07000235,Mixed,1119
+2021,Redditch,E07000236,Mixed,2283
+2021,Worcester,E07000237,Mixed,2283
+2021,Wychavon,E07000238,Mixed,1600
+2021,Wyre Forest,E07000239,Mixed,1470
+2021,St Albans,E07000240,Mixed,6354
+2021,Welwyn Hatfield,E07000241,Mixed,4931
+2021,East Hertfordshire,E07000242,Mixed,4245
+2021,Stevenage,E07000243,Mixed,3216
+2021,East Suffolk,E07000244,Mixed,3707
+2021,West Suffolk,E07000245,Mixed,4880
+2021,Somerset West and Taunton,E07000246,Mixed,2019
+2021,Bolton,E08000001,Mixed,6643
+2021,Bury,E08000002,Mixed,5123
+2021,Manchester,E08000003,Mixed,29026
+2021,Oldham,E08000004,Mixed,6125
+2021,Rochdale,E08000005,Mixed,5284
+2021,Salford,E08000006,Mixed,8501
+2021,Stockport,E08000007,Mixed,7668
+2021,Tameside,E08000008,Mixed,4963
+2021,Trafford,E08000009,Mixed,8834
+2021,Wigan,E08000010,Mixed,4353
+2021,Knowsley,E08000011,Mixed,2658
+2021,Liverpool,E08000012,Mixed,16880
+2021,St. Helens,E08000013,Mixed,1971
+2021,Sefton,E08000014,Mixed,4056
+2021,Wirral,E08000015,Mixed,4930
+2021,Barnsley,E08000016,Mixed,2293
+2021,Doncaster,E08000017,Mixed,4603
+2021,Rotherham,E08000018,Mixed,3854
+2021,Sheffield,E08000019,Mixed,19704
+2021,Newcastle upon Tyne,E08000021,Mixed,6920
+2021,North Tyneside,E08000022,Mixed,2879
+2021,South Tyneside,E08000023,Mixed,1995
+2021,Sunderland,E08000024,Mixed,2505
+2021,Birmingham,E08000025,Mixed,55205
+2021,Coventry,E08000026,Mixed,11731
+2021,Dudley,E08000027,Mixed,9191
+2021,Sandwell,E08000028,Mixed,14680
+2021,Solihull,E08000029,Mixed,7496
+2021,Walsall,E08000030,Mixed,9317
+2021,Wolverhampton,E08000031,Mixed,14065
+2021,Bradford,E08000032,Mixed,15006
+2021,Calderdale,E08000033,Mixed,4027
+2021,Kirklees,E08000034,Mixed,13588
+2021,Leeds,E08000035,Mixed,27388
+2021,Wakefield,E08000036,Mixed,4938
+2021,Gateshead,E08000037,Mixed,2393
+2021,City of London,E09000001,Mixed,470
+2021,Barking and Dagenham,E09000002,Mixed,9320
+2021,Barnet,E09000003,Mixed,20889
+2021,Bexley,E09000004,Mixed,8740
+2021,Brent,E09000005,Mixed,17249
+2021,Bromley,E09000006,Mixed,17740
+2021,Camden,E09000007,Mixed,13938
+2021,Croydon,E09000008,Mixed,29745
+2021,Ealing,E09000009,Mixed,19161
+2021,Enfield,E09000010,Mixed,19558
+2021,Greenwich,E09000011,Mixed,17297
+2021,Hackney,E09000012,Mixed,17487
+2021,Hammersmith and Fulham,E09000013,Mixed,12318
+2021,Haringey,E09000014,Mixed,18556
+2021,Harrow,E09000015,Mixed,9833
+2021,Havering,E09000016,Mixed,9747
+2021,Hillingdon,E09000017,Mixed,13359
+2021,Hounslow,E09000018,Mixed,13514
+2021,Islington,E09000019,Mixed,16231
+2021,Kensington and Chelsea,E09000020,Mixed,9525
+2021,Kingston upon Thames,E09000021,Mixed,8996
+2021,Lambeth,E09000022,Mixed,25630
+2021,Lewisham,E09000023,Mixed,24253
+2021,Merton,E09000024,Mixed,12765
+2021,Newham,E09000025,Mixed,16419
+2021,Redbridge,E09000026,Mixed,12736
+2021,Richmond upon Thames,E09000027,Mixed,10662
+2021,Southwark,E09000028,Mixed,22151
+2021,Sutton,E09000029,Mixed,10162
+2021,Tower Hamlets,E09000030,Mixed,15409
+2021,Waltham Forest,E09000031,Mixed,17983
+2021,Wandsworth,E09000032,Mixed,20598
+2021,Westminster,E09000033,Mixed,13335
+2021,Isle of Anglesey,W06000001,Mixed,598
+2021,Gwynedd,W06000002,Mixed,1333
+2021,Conwy,W06000003,Mixed,1254
+2021,Denbighshire,W06000004,Mixed,1052
+2021,Flintshire,W06000005,Mixed,1446
+2021,Wrexham,W06000006,Mixed,1558
+2021,Ceredigion,W06000008,Mixed,867
+2021,Pembrokeshire,W06000009,Mixed,1162
+2021,Carmarthenshire,W06000010,Mixed,1756
+2021,Swansea,W06000011,Mixed,3808
+2021,Neath Port Talbot,W06000012,Mixed,1583
+2021,Bridgend,W06000013,Mixed,1684
+2021,Vale of Glamorgan,W06000014,Mixed,2987
+2021,Cardiff,W06000015,Mixed,14506
+2021,Rhondda Cynon Taff,W06000016,Mixed,2469
+2021,Caerphilly,W06000018,Mixed,1754
+2021,Blaenau Gwent,W06000019,Mixed,569
+2021,Torfaen,W06000020,Mixed,1005
+2021,Monmouthshire,W06000021,Mixed,1115
+2021,Newport,W06000022,Mixed,4451
+2021,Powys,W06000023,Mixed,1135
+2021,Merthyr Tydfil,W06000024,Mixed,510
+2021,Hartlepool,E06000001,White,89068
+2021,Middlesbrough,E06000002,White,118547
+2021,Redcar and Cleveland,E06000003,White,133388
+2021,Stockton-on-Tees,E06000004,White,180937
+2021,Darlington,E06000005,White,101725
+2021,Halton,E06000006,White,123976
+2021,Warrington,E06000007,White,197305
+2021,Blackburn with Darwen,E06000008,White,93392
+2021,Blackpool,E06000009,White,133550
+2021,"Kingston upon Hull, City of",E06000010,White,244989
+2021,East Riding of Yorkshire,E06000011,White,333162
+2021,North East Lincolnshire,E06000012,White,151030
+2021,North Lincolnshire,E06000013,White,160052
+2021,York,E06000014,White,188167
+2021,Derby,E06000015,White,192871
+2021,Leicester,E06000016,White,150657
+2021,Rutland,E06000017,White,38909
+2021,Nottingham,E06000018,White,213430
+2021,"Herefordshire, County of",E06000019,White,181248
+2021,Telford and Wrekin,E06000020,White,163638
+2021,Stoke-on-Trent,E06000021,White,215699
+2021,Bath and North East Somerset,E06000022,White,178308
+2021,"Bristol, City of",E06000023,White,383142
+2021,North Somerset,E06000024,White,207429
+2021,South Gloucestershire,E06000025,White,264856
+2021,Plymouth,E06000026,White,248727
+2021,Torbay,E06000027,White,133922
+2021,Swindon,E06000030,White,190142
+2021,Peterborough,E06000031,White,162581
+2021,Luton,E06000032,White,101798
+2021,Southend-on-Sea,E06000033,White,158079
+2021,Thurrock,E06000034,White,134984
+2021,Medway,E06000035,White,235747
+2021,Bracknell Forest,E06000036,White,107269
+2021,West Berkshire,E06000037,White,148384
+2021,Reading,E06000038,White,116886
+2021,Slough,E06000039,White,57134
+2021,Windsor and Maidenhead,E06000040,White,122551
+2021,Wokingham,E06000041,White,141851
+2021,Milton Keynes,E06000042,White,206114
+2021,Brighton and Hove,E06000043,White,236571
+2021,Portsmouth,E06000044,White,177277
+2021,Southampton,E06000045,White,200829
+2021,Isle of Wight,E06000046,White,136219
+2021,County Durham,E06000047,White,505471
+2021,Cheshire East,E06000049,White,376543
+2021,Cheshire West and Chester,E06000050,White,340361
+2021,Shropshire,E06000051,White,312876
+2021,Cornwall,E06000052,White,552130
+2021,Isles of Scilly,E06000053,White,2004
+2021,Wiltshire,E06000054,White,481413
+2021,Bedford,E06000055,White,140174
+2021,Central Bedfordshire,E06000056,White,265545
+2021,Northumberland,E06000057,White,313027
+2021,"Bournemouth, Christchurch and Poole",E06000058,White,365510
+2021,Dorset,E06000059,White,368415
+2021,Buckinghamshire,E06000060,White,442164
+2021,North Northamptonshire,E06000061,White,324664
+2021,West Northamptonshire,E06000062,White,365758
+2021,Cambridge,E07000008,White,108570
+2021,East Cambridgeshire,E07000009,White,82912
+2021,Fenland,E07000010,White,98280
+2021,Huntingdonshire,E07000011,White,167116
+2021,South Cambridgeshire,E07000012,White,144285
+2021,Allerdale,E07000026,White,94667
+2021,Barrow-in-Furness,E07000027,White,65412
+2021,Carlisle,E07000028,White,106508
+2021,Copeland,E07000029,White,65714
+2021,Eden,E07000030,White,53699
+2021,South Lakeland,E07000031,White,102025
+2021,Amber Valley,E07000032,White,122767
+2021,Bolsover,E07000033,White,78143
+2021,Chesterfield,E07000034,White,98857
+2021,Derbyshire Dales,E07000035,White,69940
+2021,Erewash,E07000036,White,107769
+2021,High Peak,E07000037,White,88614
+2021,North East Derbyshire,E07000038,White,99367
+2021,South Derbyshire,E07000039,White,99836
+2021,East Devon,E07000040,White,146847
+2021,Exeter,E07000041,White,118034
+2021,Mid Devon,E07000042,White,81068
+2021,North Devon,E07000043,White,95639
+2021,South Hams,E07000044,White,86427
+2021,Teignbridge,E07000045,White,131668
+2021,Torridge,E07000046,White,66920
+2021,West Devon,E07000047,White,55847
+2021,Eastbourne,E07000061,White,92342
+2021,Hastings,E07000062,White,83191
+2021,Lewes,E07000063,White,94101
+2021,Rother,E07000064,White,88993
+2021,Wealden,E07000065,White,153809
+2021,Basildon,E07000066,White,164116
+2021,Braintree,E07000067,White,146981
+2021,Brentwood,E07000068,White,68194
+2021,Castle Point,E07000069,White,84981
+2021,Chelmsford,E07000070,White,160701
+2021,Colchester,E07000071,White,167701
+2021,Epping Forest,E07000072,White,113469
+2021,Harlow,E07000073,White,77214
+2021,Maldon,E07000074,White,64129
+2021,Rochford,E07000075,White,82116
+2021,Tendring,E07000076,White,142656
+2021,Uttlesford,E07000077,White,86296
+2021,Cheltenham,E07000078,White,108559
+2021,Cotswold,E07000079,White,87510
+2021,Forest of Dean,E07000080,White,84869
+2021,Gloucester,E07000081,White,112461
+2021,Stroud,E07000082,White,116701
+2021,Tewkesbury,E07000083,White,90206
+2021,Basingstoke and Deane,E07000084,White,163840
+2021,East Hampshire,E07000085,White,119993
+2021,Eastleigh,E07000086,White,126083
+2021,Fareham,E07000087,White,109499
+2021,Gosport,E07000088,White,78136
+2021,Hart,E07000089,White,91952
+2021,Havant,E07000090,White,119127
+2021,New Forest,E07000091,White,170118
+2021,Rushmoor,E07000092,White,77219
+2021,Test Valley,E07000093,White,121457
+2021,Winchester,E07000094,White,119305
+2021,Broxbourne,E07000095,White,80301
+2021,Dacorum,E07000096,White,134602
+2021,Hertsmere,E07000098,White,83145
+2021,North Hertfordshire,E07000099,White,116620
+2021,Three Rivers,E07000102,White,72316
+2021,Watford,E07000103,White,62228
+2021,Ashford,E07000105,White,116896
+2021,Canterbury,E07000106,White,140473
+2021,Dartford,E07000107,White,86936
+2021,Dover,E07000108,White,110419
+2021,Gravesham,E07000109,White,81893
+2021,Maidstone,E07000110,White,157864
+2021,Sevenoaks,E07000111,White,111005
+2021,Folkestone and Hythe,E07000112,White,101614
+2021,Swale,E07000113,White,142341
+2021,Thanet,E07000114,White,130719
+2021,Tonbridge and Malling,E07000115,White,123287
+2021,Tunbridge Wells,E07000116,White,105562
+2021,Burnley,E07000117,White,78112
+2021,Chorley,E07000118,White,112588
+2021,Fylde,E07000119,White,78332
+2021,Hyndburn,E07000120,White,67984
+2021,Lancaster,E07000121,White,133063
+2021,Pendle,E07000122,White,67577
+2021,Preston,E07000123,White,107321
+2021,Ribble Valley,E07000124,White,59256
+2021,Rossendale,E07000125,White,65510
+2021,South Ribble,E07000126,White,105919
+2021,West Lancashire,E07000127,White,113795
+2021,Wyre,E07000128,White,109139
+2021,Blaby,E07000129,White,88753
+2021,Charnwood,E07000130,White,151459
+2021,Harborough,E07000131,White,88851
+2021,Hinckley and Bosworth,E07000132,White,107180
+2021,Melton,E07000133,White,50142
+2021,North West Leicestershire,E07000134,White,100449
+2021,Oadby and Wigston,E07000135,White,36592
+2021,Boston,E07000136,White,66733
+2021,East Lindsey,E07000137,White,139100
+2021,Lincoln,E07000138,White,95665
+2021,North Kesteven,E07000139,White,114729
+2021,South Holland,E07000140,White,91623
+2021,South Kesteven,E07000141,White,137421
+2021,West Lindsey,E07000142,White,92261
+2021,Breckland,E07000143,White,136457
+2021,Broadland,E07000144,White,126869
+2021,Great Yarmouth,E07000145,White,94361
+2021,King's Lynn and West Norfolk,E07000146,White,147563
+2021,North Norfolk,E07000147,White,101007
+2021,Norwich,E07000148,White,125421
+2021,South Norfolk,E07000149,White,135474
+2021,Craven,E07000163,White,55143
+2021,Hambleton,E07000164,White,88764
+2021,Harrogate,E07000165,White,155244
+2021,Richmondshire,E07000166,White,46989
+2021,Ryedale,E07000167,White,53701
+2021,Scarborough,E07000168,White,105460
+2021,Selby,E07000169,White,89854
+2021,Ashfield,E07000170,White,120147
+2021,Bassetlaw,E07000171,White,113620
+2021,Broxtowe,E07000172,White,98636
+2021,Gedling,E07000173,White,104918
+2021,Mansfield,E07000174,White,104712
+2021,Newark and Sherwood,E07000175,White,118366
+2021,Rushcliffe,E07000176,White,106827
+2021,Cherwell,E07000177,White,141831
+2021,Oxford,E07000178,White,114561
+2021,South Oxfordshire,E07000179,White,138785
+2021,Vale of White Horse,E07000180,White,126104
+2021,West Oxfordshire,E07000181,White,108773
+2021,Mendip,E07000187,White,112351
+2021,Sedgemoor,E07000188,White,121085
+2021,South Somerset,E07000189,White,166829
+2021,Cannock Chase,E07000192,White,97131
+2021,East Staffordshire,E07000193,White,107051
+2021,Lichfield,E07000194,White,100917
+2021,Newcastle-under-Lyme,E07000195,White,114523
+2021,South Staffordshire,E07000196,White,103570
+2021,Stafford,E07000197,White,127805
+2021,Staffordshire Moorlands,E07000198,White,93931
+2021,Tamworth,E07000199,White,75309
+2021,Babergh,E07000200,White,89269
+2021,Ipswich,E07000202,White,117757
+2021,Mid Suffolk,E07000203,White,99463
+2021,Elmbridge,E07000207,White,119500
+2021,Epsom and Ewell,E07000208,White,64312
+2021,Guildford,E07000209,White,124788
+2021,Mole Valley,E07000210,White,81046
+2021,Reigate and Banstead,E07000211,White,127334
+2021,Runnymede,E07000212,White,73557
+2021,Spelthorne,E07000213,White,81000
+2021,Surrey Heath,E07000214,White,76901
+2021,Tandridge,E07000215,White,78584
+2021,Waverley,E07000216,White,120088
+2021,Woking,E07000217,White,81529
+2021,North Warwickshire,E07000218,White,62514
+2021,Nuneaton and Bedworth,E07000219,White,116939
+2021,Rugby,E07000220,White,98013
+2021,Stratford-on-Avon,E07000221,White,128672
+2021,Warwick,E07000222,White,125534
+2021,Adur,E07000223,White,60294
+2021,Arun,E07000224,White,158002
+2021,Chichester,E07000225,White,118404
+2021,Crawley,E07000226,White,86939
+2021,Horsham,E07000227,White,137442
+2021,Mid Sussex,E07000228,White,140724
+2021,Worthing,E07000229,White,101709
+2021,Bromsgrove,E07000234,White,92309
+2021,Malvern Hills,E07000235,White,76779
+2021,Redditch,E07000236,White,78173
+2021,Worcester,E07000237,White,93478
+2021,Wychavon,E07000238,White,128325
+2021,Wyre Forest,E07000239,White,97423
+2021,St Albans,E07000240,White,123865
+2021,Welwyn Hatfield,E07000241,White,94298
+2021,East Hertfordshire,E07000242,White,138587
+2021,Stevenage,E07000243,White,74099
+2021,East Suffolk,E07000244,White,236627
+2021,West Suffolk,E07000245,White,165156
+2021,Somerset West and Taunton,E07000246,White,150583
+2021,Bolton,E08000001,White,212941
+2021,Bury,E08000002,White,160716
+2021,Manchester,E08000003,White,313632
+2021,Oldham,E08000004,White,164897
+2021,Rochdale,E08000005,White,165485
+2021,Salford,E08000006,White,222248
+2021,Stockport,E08000007,White,257530
+2021,Tameside,E08000008,White,197676
+2021,Trafford,E08000009,White,182761
+2021,Wigan,E08000010,White,312952
+2021,Knowsley,E08000011,White,147234
+2021,Liverpool,E08000012,White,408443
+2021,St. Helens,E08000013,White,176888
+2021,Sefton,E08000014,White,267540
+2021,Wirral,E08000015,White,304692
+2021,Barnsley,E08000016,White,236934
+2021,Doncaster,E08000017,White,286955
+2021,Rotherham,E08000018,White,241954
+2021,Sheffield,E08000019,White,440216
+2021,Newcastle upon Tyne,E08000021,White,240002
+2021,North Tyneside,E08000022,White,198208
+2021,South Tyneside,E08000023,White,139483
+2021,Sunderland,E08000024,White,259375
+2021,Birmingham,E08000025,White,556608
+2021,Coventry,E08000026,White,226246
+2021,Dudley,E08000027,White,274596
+2021,Sandwell,E08000028,White,195624
+2021,Solihull,E08000029,White,177668
+2021,Walsall,E08000030,White,202724
+2021,Wolverhampton,E08000031,White,159707
+2021,Bradford,E08000032,White,334004
+2021,Calderdale,E08000033,White,177836
+2021,Kirklees,E08000034,White,318969
+2021,Leeds,E08000035,White,641801
+2021,Wakefield,E08000036,White,328742
+2021,Gateshead,E08000037,White,183489
+2021,City of London,E09000001,White,5955
+2021,Barking and Dagenham,E09000002,White,98275
+2021,Barnet,E09000003,White,224762
+2021,Bexley,E09000004,White,177164
+2021,Brent,E09000005,White,117701
+2021,Bromley,E09000006,White,252295
+2021,Camden,E09000007,White,125064
+2021,Croydon,E09000008,White,188985
+2021,Ealing,E09000009,White,158463
+2021,Enfield,E09000010,White,171884
+2021,Greenwich,E09000011,White,161006
+2021,Hackney,E09000012,White,137709
+2021,Hammersmith and Fulham,E09000013,White,115679
+2021,Haringey,E09000014,White,150581
+2021,Harrow,E09000015,White,95233
+2021,Havering,E09000016,White,197314
+2021,Hillingdon,E09000017,White,147387
+2021,Hounslow,E09000018,White,127083
+2021,Islington,E09000019,White,134754
+2021,Kensington and Chelsea,E09000020,White,91394
+2021,Kingston upon Thames,E09000021,White,114831
+2021,Lambeth,E09000022,White,174778
+2021,Lewisham,E09000023,White,154749
+2021,Merton,E09000024,White,129617
+2021,Newham,E09000025,White,107947
+2021,Redbridge,E09000026,White,107974
+2021,Richmond upon Thames,E09000027,White,157111
+2021,Southwark,E09000028,White,158220
+2021,Sutton,E09000029,White,143145
+2021,Tower Hamlets,E09000030,White,122266
+2021,Waltham Forest,E09000031,White,147024
+2021,Wandsworth,E09000032,White,222090
+2021,Westminster,E09000033,White,112732
+2021,Isle of Anglesey,W06000001,White,67587
+2021,Gwynedd,W06000002,White,112987
+2021,Conwy,W06000003,White,111176
+2021,Denbighshire,W06000004,White,92488
+2021,Flintshire,W06000005,White,151232
+2021,Wrexham,W06000006,White,129677
+2021,Ceredigion,W06000008,White,68776
+2021,Pembrokeshire,W06000009,White,120375
+2021,Carmarthenshire,W06000010,White,182652
+2021,Swansea,W06000011,White,218052
+2021,Neath Port Talbot,W06000012,White,137511
+2021,Bridgend,W06000013,White,140799
+2021,Vale of Glamorgan,W06000014,White,124800
+2021,Cardiff,W06000015,White,286931
+2021,Rhondda Cynon Taff,W06000016,White,229923
+2021,Caerphilly,W06000018,White,171955
+2021,Blaenau Gwent,W06000019,White,65456
+2021,Torfaen,W06000020,White,89596
+2021,Monmouthshire,W06000021,White,90106
+2021,Newport,W06000022,White,136473
+2021,Powys,W06000023,White,130160
+2021,Merthyr Tydfil,W06000024,White,57140
+2021,Hartlepool,E06000001,Other,554
+2021,Middlesbrough,E06000002,Other,3468
+2021,Redcar and Cleveland,E06000003,Other,532
+2021,Stockton-on-Tees,E06000004,Other,1664
+2021,Darlington,E06000005,Other,932
+2021,Halton,E06000006,Other,764
+2021,Warrington,E06000007,Other,1803
+2021,Blackburn with Darwen,E06000008,Other,2169
+2021,Blackpool,E06000009,Other,892
+2021,"Kingston upon Hull, City of",E06000010,Other,4931
+2021,East Riding of Yorkshire,E06000011,Other,1276
+2021,North East Lincolnshire,E06000012,Other,1037
+2021,North Lincolnshire,E06000013,Other,1372
+2021,York,E06000014,Other,1954
+2021,Derby,E06000015,Other,7548
+2021,Leicester,E06000016,Other,15272
+2021,Rutland,E06000017,Other,211
+2021,Nottingham,E06000018,Other,10710
+2021,"Herefordshire, County of",E06000019,Other,1019
+2021,Telford and Wrekin,E06000020,Other,1643
+2021,Stoke-on-Trent,E06000021,Other,4329
+2021,Bath and North East Somerset,E06000022,Other,1610
+2021,"Bristol, City of",E06000023,Other,9050
+2021,North Somerset,E06000024,Other,1204
+2021,South Gloucestershire,E06000025,Other,2651
+2021,Plymouth,E06000026,Other,2579
+2021,Torbay,E06000027,Other,617
+2021,Swindon,E06000030,Other,3478
+2021,Peterborough,E06000031,Other,5920
+2021,Luton,E06000032,Other,7783
+2021,Southend-on-Sea,E06000033,Other,2036
+2021,Thurrock,E06000034,Other,2675
+2021,Medway,E06000035,Other,3960
+2021,Bracknell Forest,E06000036,Other,1621
+2021,West Berkshire,E06000037,Other,1186
+2021,Reading,E06000038,Other,5002
+2021,Slough,E06000039,Other,8970
+2021,Windsor and Maidenhead,E06000040,Other,3278
+2021,Wokingham,E06000041,Other,2903
+2021,Milton Keynes,E06000042,Other,5725
+2021,Brighton and Hove,E06000043,Other,8629
+2021,Portsmouth,E06000044,Other,3797
+2021,Southampton,E06000045,Other,5829
+2021,Isle of Wight,E06000046,Other,379
+2021,County Durham,E06000047,Other,2073
+2021,Cheshire East,E06000049,Other,3217
+2021,Cheshire West and Chester,E06000050,Other,2159
+2021,Shropshire,E06000051,Other,1429
+2021,Cornwall,E06000052,Other,6055
+2021,Isles of Scilly,E06000053,Other,18
+2021,Wiltshire,E06000054,Other,3549
+2021,Bedford,E06000055,Other,3353
+2021,Central Bedfordshire,E06000056,Other,2482
+2021,Northumberland,E06000057,Other,1010
+2021,"Bournemouth, Christchurch and Poole",E06000058,Other,5808
+2021,Dorset,E06000059,Other,1342
+2021,Buckinghamshire,E06000060,Other,8757
+2021,North Northamptonshire,E06000061,Other,2941
+2021,West Northamptonshire,E06000062,Other,4725
+2021,Cambridge,E07000008,Other,4507
+2021,East Cambridgeshire,E07000009,Other,575
+2021,Fenland,E07000010,Other,723
+2021,Huntingdonshire,E07000011,Other,1268
+2021,South Cambridgeshire,E07000012,Other,1823
+2021,Allerdale,E07000026,Other,235
+2021,Barrow-in-Furness,E07000027,Other,245
+2021,Carlisle,E07000028,Other,579
+2021,Copeland,E07000029,Other,180
+2021,Eden,E07000030,Other,148
+2021,South Lakeland,E07000031,Other,328
+2021,Amber Valley,E07000032,Other,300
+2021,Bolsover,E07000033,Other,242
+2021,Chesterfield,E07000034,Other,424
+2021,Derbyshire Dales,E07000035,Other,185
+2021,Erewash,E07000036,Other,432
+2021,High Peak,E07000037,Other,219
+2021,North East Derbyshire,E07000038,Other,190
+2021,South Derbyshire,E07000039,Other,740
+2021,East Devon,E07000040,Other,449
+2021,Exeter,E07000041,Other,1853
+2021,Mid Devon,E07000042,Other,223
+2021,North Devon,E07000043,Other,339
+2021,South Hams,E07000044,Other,390
+2021,Teignbridge,E07000045,Other,350
+2021,Torridge,E07000046,Other,133
+2021,West Devon,E07000047,Other,162
+2021,Eastbourne,E07000061,Other,1684
+2021,Hastings,E07000062,Other,1367
+2021,Lewes,E07000063,Other,726
+2021,Rother,E07000064,Other,468
+2021,Wealden,E07000065,Other,738
+2021,Basildon,E07000066,Other,1605
+2021,Braintree,E07000067,Other,815
+2021,Brentwood,E07000068,Other,826
+2021,Castle Point,E07000069,Other,426
+2021,Chelmsford,E07000070,Other,1696
+2021,Colchester,E07000071,Other,2845
+2021,Epping Forest,E07000072,Other,3005
+2021,Harlow,E07000073,Other,1686
+2021,Maldon,E07000074,Other,208
+2021,Rochford,E07000075,Other,296
+2021,Tendring,E07000076,Other,540
+2021,Uttlesford,E07000077,Other,601
+2021,Cheltenham,E07000078,Other,1225
+2021,Cotswold,E07000079,Other,330
+2021,Forest of Dean,E07000080,Other,343
+2021,Gloucester,E07000081,Other,1570
+2021,Stroud,E07000082,Other,448
+2021,Tewkesbury,E07000083,Other,458
+2021,Basingstoke and Deane,E07000084,Other,2019
+2021,East Hampshire,E07000085,Other,642
+2021,Eastleigh,E07000086,Other,988
+2021,Fareham,E07000087,Other,502
+2021,Gosport,E07000088,Other,450
+2021,Hart,E07000089,Other,783
+2021,Havant,E07000090,Other,507
+2021,New Forest,E07000091,Other,643
+2021,Rushmoor,E07000092,Other,2773
+2021,Test Valley,E07000093,Other,980
+2021,Winchester,E07000094,Other,840
+2021,Broxbourne,E07000095,Other,4531
+2021,Dacorum,E07000096,Other,1854
+2021,Hertsmere,E07000098,Other,4143
+2021,North Hertfordshire,E07000099,Other,1486
+2021,Three Rivers,E07000102,Other,1568
+2021,Watford,E07000103,Other,3648
+2021,Ashford,E07000105,Other,1882
+2021,Canterbury,E07000106,Other,2357
+2021,Dartford,E07000107,Other,2385
+2021,Dover,E07000108,Other,999
+2021,Gravesham,E07000109,Other,3230
+2021,Maidstone,E07000110,Other,2085
+2021,Sevenoaks,E07000111,Other,913
+2021,Folkestone and Hythe,E07000112,Other,1084
+2021,Swale,E07000113,Other,796
+2021,Thanet,E07000114,Other,1708
+2021,Tonbridge and Malling,E07000115,Other,781
+2021,Tunbridge Wells,E07000116,Other,1106
+2021,Burnley,E07000117,Other,778
+2021,Chorley,E07000118,Other,515
+2021,Fylde,E07000119,Other,381
+2021,Hyndburn,E07000120,Other,537
+2021,Lancaster,E07000121,Other,1302
+2021,Pendle,E07000122,Other,876
+2021,Preston,E07000123,Other,2842
+2021,Ribble Valley,E07000124,Other,183
+2021,Rossendale,E07000125,Other,267
+2021,South Ribble,E07000126,Other,362
+2021,West Lancashire,E07000127,Other,467
+2021,Wyre,E07000128,Other,290
+2021,Blaby,E07000129,Other,1315
+2021,Charnwood,E07000130,Other,2158
+2021,Harborough,E07000131,Other,772
+2021,Hinckley and Bosworth,E07000132,Other,632
+2021,Melton,E07000133,Other,160
+2021,North West Leicestershire,E07000134,Other,481
+2021,Oadby and Wigston,E07000135,Other,1897
+2021,Boston,E07000136,Other,847
+2021,East Lindsey,E07000137,Other,285
+2021,Lincoln,E07000138,Other,1268
+2021,North Kesteven,E07000139,Other,399
+2021,South Holland,E07000140,Other,581
+2021,South Kesteven,E07000141,Other,629
+2021,West Lindsey,E07000142,Other,342
+2021,Breckland,E07000143,Other,809
+2021,Broadland,E07000144,Other,497
+2021,Great Yarmouth,E07000145,Other,774
+2021,King's Lynn and West Norfolk,E07000146,Other,1012
+2021,North Norfolk,E07000147,Other,245
+2021,Norwich,E07000148,Other,2539
+2021,South Norfolk,E07000149,Other,654
+2021,Craven,E07000163,Other,156
+2021,Hambleton,E07000164,Other,279
+2021,Harrogate,E07000165,Other,868
+2021,Richmondshire,E07000166,Other,544
+2021,Ryedale,E07000167,Other,164
+2021,Scarborough,E07000168,Other,504
+2021,Selby,E07000169,Other,328
+2021,Ashfield,E07000170,Other,550
+2021,Bassetlaw,E07000171,Other,587
+2021,Broxtowe,E07000172,Other,1466
+2021,Gedling,E07000173,Other,1009
+2021,Mansfield,E07000174,Other,818
+2021,Newark and Sherwood,E07000175,Other,534
+2021,Rushcliffe,E07000176,Other,1077
+2021,Cherwell,E07000177,Other,2019
+2021,Oxford,E07000178,Other,5948
+2021,South Oxfordshire,E07000179,Other,1171
+2021,Vale of White Horse,E07000180,Other,1552
+2021,West Oxfordshire,E07000181,Other,664
+2021,Mendip,E07000187,Other,405
+2021,Sedgemoor,E07000188,Other,596
+2021,South Somerset,E07000189,Other,672
+2021,Cannock Chase,E07000192,Other,290
+2021,East Staffordshire,E07000193,Other,1319
+2021,Lichfield,E07000194,Other,435
+2021,Newcastle-under-Lyme,E07000195,Other,857
+2021,South Staffordshire,E07000196,Other,524
+2021,Stafford,E07000197,Other,908
+2021,Staffordshire Moorlands,E07000198,Other,165
+2021,Tamworth,E07000199,Other,288
+2021,Babergh,E07000200,Other,344
+2021,Ipswich,E07000202,Other,2984
+2021,Mid Suffolk,E07000203,Other,401
+2021,Elmbridge,E07000207,Other,2785
+2021,Epsom and Ewell,E07000208,Other,2273
+2021,Guildford,E07000209,Other,2693
+2021,Mole Valley,E07000210,Other,804
+2021,Reigate and Banstead,E07000211,Other,2173
+2021,Runnymede,E07000212,Other,1678
+2021,Spelthorne,E07000213,Other,2503
+2021,Surrey Heath,E07000214,Other,1610
+2021,Tandridge,E07000215,Other,762
+2021,Waverley,E07000216,Other,780
+2021,Woking,E07000217,Other,2180
+2021,North Warwickshire,E07000218,Other,201
+2021,Nuneaton and Bedworth,E07000219,Other,1582
+2021,Rugby,E07000220,Other,1310
+2021,Stratford-on-Avon,E07000221,Other,716
+2021,Warwick,E07000222,Other,2422
+2021,Adur,E07000223,Other,697
+2021,Arun,E07000224,Other,914
+2021,Chichester,E07000225,Other,669
+2021,Crawley,E07000226,Other,3148
+2021,Horsham,E07000227,Other,918
+2021,Mid Sussex,E07000228,Other,1173
+2021,Worthing,E07000229,Other,1107
+2021,Bromsgrove,E07000234,Other,535
+2021,Malvern Hills,E07000235,Other,276
+2021,Redditch,E07000236,Other,529
+2021,Worcester,E07000237,Other,1036
+2021,Wychavon,E07000238,Other,599
+2021,Wyre Forest,E07000239,Other,382
+2021,St Albans,E07000240,Other,2615
+2021,Welwyn Hatfield,E07000241,Other,2704
+2021,East Hertfordshire,E07000242,Other,1357
+2021,Stevenage,E07000243,Other,1143
+2021,East Suffolk,E07000244,Other,922
+2021,West Suffolk,E07000245,Other,2308
+2021,Somerset West and Taunton,E07000246,Other,794
+2021,Bolton,E08000001,Other,5542
+2021,Bury,E08000002,Other,3729
+2021,Manchester,E08000003,Other,28278
+2021,Oldham,E08000004,Other,3291
+2021,Rochdale,E08000005,Other,3669
+2021,Salford,E08000006,Other,7762
+2021,Stockport,E08000007,Other,4692
+2021,Tameside,E08000008,Other,1958
+2021,Trafford,E08000009,Other,5784
+2021,Wigan,E08000010,Other,2292
+2021,Knowsley,E08000011,Other,852
+2021,Liverpool,E08000012,Other,16034
+2021,St. Helens,E08000013,Other,1034
+2021,Sefton,E08000014,Other,1834
+2021,Wirral,E08000015,Other,1886
+2021,Barnsley,E08000016,Other,1333
+2021,Doncaster,E08000017,Other,3718
+2021,Rotherham,E08000018,Other,2806
+2021,Sheffield,E08000019,Other,17531
+2021,Newcastle upon Tyne,E08000021,Other,9156
+2021,North Tyneside,E08000022,Other,1204
+2021,South Tyneside,E08000023,Other,1196
+2021,Sunderland,E08000024,Other,1424
+2021,Birmingham,E08000025,Other,51965
+2021,Coventry,E08000026,Other,12706
+2021,Dudley,E08000027,Other,4484
+2021,Sandwell,E08000028,Other,13725
+2021,Solihull,E08000029,Other,3276
+2021,Walsall,E08000030,Other,5862
+2021,Wolverhampton,E08000031,Other,9417
+2021,Bradford,E08000032,Other,10760
+2021,Calderdale,E08000033,Other,1603
+2021,Kirklees,E08000034,Other,6506
+2021,Leeds,E08000035,Other,18885
+2021,Wakefield,E08000036,Other,2541
+2021,Gateshead,E08000037,Other,3128
+2021,City of London,E09000001,Other,482
+2021,Barking and Dagenham,E09000002,Other,7886
+2021,Barnet,E09000003,Other,38070
+2021,Bexley,E09000004,Other,6062
+2021,Brent,E09000005,Other,33861
+2021,Bromley,E09000006,Other,7500
+2021,Camden,E09000007,Other,14200
+2021,Croydon,E09000008,Other,15066
+2021,Ealing,E09000009,Other,38760
+2021,Enfield,E09000010,Other,40058
+2021,Greenwich,E09000011,Other,12132
+2021,Hackney,E09000012,Other,22421
+2021,Hammersmith and Fulham,E09000013,Other,13400
+2021,Haringey,E09000014,Other,25555
+2021,Harrow,E09000015,Other,18836
+2021,Havering,E09000016,Other,5274
+2021,Hillingdon,E09000017,Other,19268
+2021,Hounslow,E09000018,Other,20928
+2021,Islington,E09000019,Other,15330
+2021,Kensington and Chelsea,E09000020,Other,14150
+2021,Kingston upon Thames,E09000021,Other,9559
+2021,Lambeth,E09000022,Other,18046
+2021,Lewisham,E09000023,Other,14151
+2021,Merton,E09000024,Other,9899
+2021,Newham,E09000025,Other,17175
+2021,Redbridge,E09000026,Other,16622
+2021,Richmond upon Thames,E09000027,Other,6350
+2021,Southwark,E09000028,Other,19430
+2021,Sutton,E09000029,Other,7077
+2021,Tower Hamlets,E09000030,Other,12082
+2021,Waltham Forest,E09000031,Other,16229
+2021,Wandsworth,E09000032,Other,13442
+2021,Westminster,E09000033,Other,27471
+2021,Isle of Anglesey,W06000001,Other,160
+2021,Gwynedd,W06000002,Other,591
+2021,Conwy,W06000003,Other,391
+2021,Denbighshire,W06000004,Other,362
+2021,Flintshire,W06000005,Other,535
+2021,Wrexham,W06000006,Other,763
+2021,Ceredigion,W06000008,Other,368
+2021,Pembrokeshire,W06000009,Other,419
+2021,Carmarthenshire,W06000010,Other,714
+2021,Swansea,W06000011,Other,3383
+2021,Neath Port Talbot,W06000012,Other,421
+2021,Bridgend,W06000013,Other,426
+2021,Vale of Glamorgan,W06000014,Other,721
+2021,Cardiff,W06000015,Other,11994
+2021,Rhondda Cynon Taff,W06000016,Other,758
+2021,Caerphilly,W06000018,Other,379
+2021,Blaenau Gwent,W06000019,Other,142
+2021,Torfaen,W06000020,Other,245
+2021,Monmouthshire,W06000021,Other,324
+2021,Newport,W06000022,Other,2737
+2021,Powys,W06000023,Other,406
+2021,Merthyr Tydfil,W06000024,Other,227
+2021,Hartlepool,E06000001,Economic Total,74685
+2021,Middlesbrough,E06000002,Economic Total,113939
+2021,Redcar and Cleveland,E06000003,Economic Total,112340
+2021,Stockton-on-Tees,E06000004,Economic Total,158008
+2021,Darlington,E06000005,Economic Total,88103
+2021,Halton,E06000006,Economic Total,103948
+2021,Warrington,E06000007,Economic Total,172722
+2021,Blackburn with Darwen,E06000008,Economic Total,119509
+2021,Blackpool,E06000009,Economic Total,116338
+2021,"Kingston upon Hull, City of",E06000010,Economic Total,213875
+2021,East Riding of Yorkshire,E06000011,Economic Total,288142
+2021,North East Lincolnshire,E06000012,Economic Total,127521
+2021,North Lincolnshire,E06000013,Economic Total,139465
+2021,York,E06000014,Economic Total,172082
+2021,Derby,E06000015,Economic Total,209193
+2021,Leicester,E06000016,Economic Total,291012
+2021,Rutland,E06000017,Economic Total,34297
+2021,Nottingham,E06000018,Economic Total,264321
+2021,"Herefordshire, County of",E06000019,Economic Total,157132
+2021,Telford and Wrekin,E06000020,Economic Total,148670
+2021,Stoke-on-Trent,E06000021,Economic Total,205899
+2021,Bath and North East Somerset,E06000022,Economic Total,161616
+2021,"Bristol, City of",E06000023,Economic Total,389708
+2021,North Somerset,E06000024,Economic Total,178567
+2021,South Gloucestershire,E06000025,Economic Total,237366
+2021,Plymouth,E06000026,Economic Total,218624
+2021,Torbay,E06000027,Economic Total,117030
+2021,Swindon,E06000030,Economic Total,187151
+2021,Peterborough,E06000031,Economic Total,167574
+2021,Luton,E06000032,Economic Total,172695
+2021,Southend-on-Sea,E06000033,Economic Total,146410
+2021,Thurrock,E06000034,Economic Total,136364
+2021,Medway,E06000035,Economic Total,222755
+2021,Bracknell Forest,E06000036,Economic Total,99934
+2021,West Berkshire,E06000037,Economic Total,130737
+2021,Reading,E06000038,Economic Total,141357
+2021,Slough,E06000039,Economic Total,118933
+2021,Windsor and Maidenhead,E06000040,Economic Total,123676
+2021,Wokingham,E06000041,Economic Total,140821
+2021,Milton Keynes,E06000042,Economic Total,224835
+2021,Brighton and Hove,E06000043,Economic Total,235365
+2021,Portsmouth,E06000044,Economic Total,170818
+2021,Southampton,E06000045,Economic Total,204369
+2021,Isle of Wight,E06000046,Economic Total,119584
+2021,County Durham,E06000047,Economic Total,433958
+2021,Cheshire East,E06000049,Economic Total,329474
+2021,Cheshire West and Chester,E06000050,Economic Total,295358
+2021,Shropshire,E06000051,Economic Total,272245
+2021,Cornwall,E06000052,Economic Total,477425
+2021,Isles of Scilly,E06000053,Economic Total,1729
+2021,Wiltshire,E06000054,Economic Total,419114
+2021,Bedford,E06000055,Economic Total,148118
+2021,Central Bedfordshire,E06000056,Economic Total,236760
+2021,Northumberland,E06000057,Economic Total,268850
+2021,"Bournemouth, Christchurch and Poole",E06000058,Economic Total,334908
+2021,Dorset,E06000059,Economic Total,321900
+2021,Buckinghamshire,E06000060,Economic Total,443394
+2021,North Northamptonshire,E06000061,Economic Total,289187
+2021,West Northamptonshire,E06000062,Economic Total,343503
+2021,Cambridge,E07000008,Economic Total,124765
+2021,East Cambridgeshire,E07000009,Economic Total,71429
+2021,Fenland,E07000010,Economic Total,84835
+2021,Huntingdonshire,E07000011,Economic Total,148261
+2021,South Cambridgeshire,E07000012,Economic Total,130361
+2021,Allerdale,E07000026,Economic Total,80510
+2021,Barrow-in-Furness,E07000027,Economic Total,55834
+2021,Carlisle,E07000028,Economic Total,91343
+2021,Copeland,E07000029,Economic Total,56009
+2021,Eden,E07000030,Economic Total,46635
+2021,South Lakeland,E07000031,Economic Total,89703
+2021,Amber Valley,E07000032,Economic Total,105066
+2021,Bolsover,E07000033,Economic Total,66278
+2021,Chesterfield,E07000034,Economic Total,86004
+2021,Derbyshire Dales,E07000035,Economic Total,61061
+2021,Erewash,E07000036,Economic Total,93526
+2021,High Peak,E07000037,Economic Total,75662
+2021,North East Derbyshire,E07000038,Economic Total,85275
+2021,South Derbyshire,E07000039,Economic Total,86956
+2021,East Devon,E07000040,Economic Total,127388
+2021,Exeter,E07000041,Economic Total,111331
+2021,Mid Devon,E07000042,Economic Total,68203
+2021,North Devon,E07000043,Economic Total,82194
+2021,South Hams,E07000044,Economic Total,74968
+2021,Teignbridge,E07000045,Economic Total,113461
+2021,Torridge,E07000046,Economic Total,57560
+2021,West Devon,E07000047,Economic Total,48362
+2021,Eastbourne,E07000061,Economic Total,84573
+2021,Hastings,E07000062,Economic Total,74702
+2021,Lewes,E07000063,Economic Total,83221
+2021,Rother,E07000064,Economic Total,79489
+2021,Wealden,E07000065,Economic Total,133648
+2021,Basildon,E07000066,Economic Total,148662
+2021,Braintree,E07000067,Economic Total,126567
+2021,Brentwood,E07000068,Economic Total,62866
+2021,Castle Point,E07000069,Economic Total,74405
+2021,Chelmsford,E07000070,Economic Total,147737
+2021,Colchester,E07000071,Economic Total,156342
+2021,Epping Forest,E07000072,Economic Total,109932
+2021,Harlow,E07000073,Economic Total,73102
+2021,Maldon,E07000074,Economic Total,55426
+2021,Rochford,E07000075,Economic Total,70713
+2021,Tendring,E07000076,Economic Total,124890
+2021,Uttlesford,E07000077,Economic Total,73519
+2021,Cheltenham,E07000078,Economic Total,98436
+2021,Cotswold,E07000079,Economic Total,76315
+2021,Forest of Dean,E07000080,Economic Total,73046
+2021,Gloucester,E07000081,Economic Total,106939
+2021,Stroud,E07000082,Economic Total,100197
+2021,Tewkesbury,E07000083,Economic Total,77353
+2021,Basingstoke and Deane,E07000084,Economic Total,149807
+2021,East Hampshire,E07000085,Economic Total,103829
+2021,Eastleigh,E07000086,Economic Total,110330
+2021,Fareham,E07000087,Economic Total,95636
+2021,Gosport,E07000088,Economic Total,67213
+2021,Hart,E07000089,Economic Total,80326
+2021,Havant,E07000090,Economic Total,102866
+2021,New Forest,E07000091,Economic Total,148742
+2021,Rushmoor,E07000092,Economic Total,80872
+2021,Test Valley,E07000093,Economic Total,106753
+2021,Winchester,E07000094,Economic Total,104750
+2021,Broxbourne,E07000095,Economic Total,79437
+2021,Dacorum,E07000096,Economic Total,123783
+2021,Hertsmere,E07000098,Economic Total,86193
+2021,North Hertfordshire,E07000099,Economic Total,107743
+2021,Three Rivers,E07000102,Economic Total,75002
+2021,Watford,E07000103,Economic Total,80963
+2021,Ashford,E07000105,Economic Total,106770
+2021,Canterbury,E07000106,Economic Total,132778
+2021,Dartford,E07000107,Economic Total,90698
+2021,Dover,E07000108,Economic Total,96135
+2021,Gravesham,E07000109,Economic Total,84556
+2021,Maidstone,E07000110,Economic Total,142136
+2021,Sevenoaks,E07000111,Economic Total,96603
+2021,Folkestone and Hythe,E07000112,Economic Total,91555
+2021,Swale,E07000113,Economic Total,121998
+2021,Thanet,E07000114,Economic Total,115413
+2021,Tonbridge and Malling,E07000115,Economic Total,105526
+2021,Tunbridge Wells,E07000116,Economic Total,92402
+2021,Burnley,E07000117,Economic Total,75200
+2021,Chorley,E07000118,Economic Total,96370
+2021,Fylde,E07000119,Economic Total,69251
+2021,Hyndburn,E07000120,Economic Total,65631
+2021,Lancaster,E07000121,Economic Total,119638
+2021,Pendle,E07000122,Economic Total,75224
+2021,Preston,E07000123,Economic Total,118670
+2021,Ribble Valley,E07000124,Economic Total,51465
+2021,Rossendale,E07000125,Economic Total,57301
+2021,South Ribble,E07000126,Economic Total,91498
+2021,West Lancashire,E07000127,Economic Total,98334
+2021,Wyre,E07000128,Economic Total,94352
+2021,Blaby,E07000129,Economic Total,83666
+2021,Charnwood,E07000130,Economic Total,153100
+2021,Harborough,E07000131,Economic Total,80427
+2021,Hinckley and Bosworth,E07000132,Economic Total,93916
+2021,Melton,E07000133,Economic Total,42948
+2021,North West Leicestershire,E07000134,Economic Total,86165
+2021,Oadby and Wigston,E07000135,Economic Total,47210
+2021,Boston,E07000136,Economic Total,57584
+2021,East Lindsey,E07000137,Economic Total,121420
+2021,Lincoln,E07000138,Economic Total,87064
+2021,North Kesteven,E07000139,Economic Total,98017
+2021,South Holland,E07000140,Economic Total,78998
+2021,South Kesteven,E07000141,Economic Total,118011
+2021,West Lindsey,E07000142,Economic Total,79120
+2021,Breckland,E07000143,Economic Total,117855
+2021,Broadland,E07000144,Economic Total,110505
+2021,Great Yarmouth,E07000145,Economic Total,82719
+2021,King's Lynn and West Norfolk,E07000146,Economic Total,128888
+2021,North Norfolk,E07000147,Economic Total,89143
+2021,Norwich,E07000148,Economic Total,120763
+2021,South Norfolk,E07000149,Economic Total,117219
+2021,Craven,E07000163,Economic Total,48283
+2021,Hambleton,E07000164,Economic Total,76985
+2021,Harrogate,E07000165,Economic Total,135306
+2021,Richmondshire,E07000166,Economic Total,41736
+2021,Ryedale,E07000167,Economic Total,46325
+2021,Scarborough,E07000168,Economic Total,92109
+2021,Selby,E07000169,Economic Total,75430
+2021,Ashfield,E07000170,Economic Total,102843
+2021,Bassetlaw,E07000171,Economic Total,97370
+2021,Broxtowe,E07000172,Economic Total,92538
+2021,Gedling,E07000173,Economic Total,96462
+2021,Mansfield,E07000174,Economic Total,90170
+2021,Newark and Sherwood,E07000175,Economic Total,101968
+2021,Rushcliffe,E07000176,Economic Total,97724
+2021,Cherwell,E07000177,Economic Total,130586
+2021,Oxford,E07000178,Economic Total,136718
+2021,South Oxfordshire,E07000179,Economic Total,121491
+2021,Vale of White Horse,E07000180,Economic Total,112425
+2021,West Oxfordshire,E07000181,Economic Total,93810
+2021,Mendip,E07000187,Economic Total,96052
+2021,Sedgemoor,E07000188,Economic Total,103782
+2021,South Somerset,E07000189,Economic Total,143817
+2021,Cannock Chase,E07000192,Economic Total,82478
+2021,East Staffordshire,E07000193,Economic Total,100507
+2021,Lichfield,E07000194,Economic Total,88597
+2021,Newcastle-under-Lyme,E07000195,Economic Total,103184
+2021,South Staffordshire,E07000196,Economic Total,93372
+2021,Stafford,E07000197,Economic Total,113614
+2021,Staffordshire Moorlands,E07000198,Economic Total,80856
+2021,Tamworth,E07000199,Economic Total,63793
+2021,Babergh,E07000200,Economic Total,77378
+2021,Ipswich,E07000202,Economic Total,111832
+2021,Mid Suffolk,E07000203,Economic Total,86305
+2021,Elmbridge,E07000207,Economic Total,108774
+2021,Epsom and Ewell,E07000208,Economic Total,64607
+2021,Guildford,E07000209,Economic Total,119356
+2021,Mole Valley,E07000210,Economic Total,72339
+2021,Reigate and Banstead,E07000211,Economic Total,120127
+2021,Runnymede,E07000212,Economic Total,72719
+2021,Spelthorne,E07000213,Economic Total,83363
+2021,Surrey Heath,E07000214,Economic Total,73785
+2021,Tandridge,E07000215,Economic Total,70827
+2021,Waverley,E07000216,Economic Total,103639
+2021,Woking,E07000217,Economic Total,82984
+2021,North Warwickshire,E07000218,Economic Total,53898
+2021,Nuneaton and Bedworth,E07000219,Economic Total,108590
+2021,Rugby,E07000220,Economic Total,92188
+2021,Stratford-on-Avon,E07000221,Economic Total,112639
+2021,Warwick,E07000222,Economic Total,123254
+2021,Adur,E07000223,Economic Total,52954
+2021,Arun,E07000224,Economic Total,139553
+2021,Chichester,E07000225,Economic Total,104709
+2021,Crawley,E07000226,Economic Total,93567
+2021,Horsham,E07000227,Economic Total,120663
+2021,Mid Sussex,E07000228,Economic Total,123317
+2021,Worthing,E07000229,Economic Total,92355
+2021,Bromsgrove,E07000234,Economic Total,81102
+2021,Malvern Hills,E07000235,Economic Total,67122
+2021,Redditch,E07000236,Economic Total,70250
+2021,Worcester,E07000237,Economic Total,85605
+2021,Wychavon,E07000238,Economic Total,110717
+2021,Wyre Forest,E07000239,Economic Total,84565
+2021,St Albans,E07000240,Economic Total,116090
+2021,Welwyn Hatfield,E07000241,Economic Total,97484
+2021,East Hertfordshire,E07000242,Economic Total,121151
+2021,Stevenage,E07000243,Economic Total,71239
+2021,East Suffolk,E07000244,Economic Total,206721
+2021,West Suffolk,E07000245,Economic Total,148130
+2021,Somerset West and Taunton,E07000246,Economic Total,131294
+2021,Bolton,E08000001,Economic Total,232293
+2021,Bury,E08000002,Economic Total,154871
+2021,Manchester,E08000003,Economic Total,437958
+2021,Oldham,E08000004,Economic Total,187035
+2021,Rochdale,E08000005,Economic Total,174947
+2021,Salford,E08000006,Economic Total,216921
+2021,Stockport,E08000007,Economic Total,238927
+2021,Tameside,E08000008,Economic Total,185136
+2021,Trafford,E08000009,Economic Total,186150
+2021,Wigan,E08000010,Economic Total,268694
+2021,Knowsley,E08000011,Economic Total,124297
+2021,Liverpool,E08000012,Economic Total,403028
+2021,St. Helens,E08000013,Economic Total,150572
+2021,Sefton,E08000014,Economic Total,232389
+2021,Wirral,E08000015,Economic Total,262111
+2021,Barnsley,E08000016,Economic Total,199792
+2021,Doncaster,E08000017,Economic Total,250926
+2021,Rotherham,E08000018,Economic Total,215571
+2021,Sheffield,E08000019,Economic Total,456247
+2021,Newcastle upon Tyne,E08000021,Economic Total,248447
+2021,North Tyneside,E08000022,Economic Total,171513
+2021,South Tyneside,E08000023,Economic Total,121291
+2021,Sunderland,E08000024,Economic Total,226074
+2021,Birmingham,E08000025,Economic Total,889622
+2021,Coventry,E08000026,Economic Total,276871
+2021,Dudley,E08000027,Economic Total,262488
+2021,Sandwell,E08000028,Economic Total,266026
+2021,Solihull,E08000029,Economic Total,174501
+2021,Walsall,E08000030,Economic Total,223097
+2021,Wolverhampton,E08000031,Economic Total,208444
+2021,Bradford,E08000032,Economic Total,421574
+2021,Calderdale,E08000033,Economic Total,166634
+2021,Kirklees,E08000034,Economic Total,346271
+2021,Leeds,E08000035,Economic Total,658470
+2021,Wakefield,E08000036,Economic Total,287538
+2021,Gateshead,E08000037,Economic Total,161749
+2021,City of London,E09000001,Economic Total,8004
+2021,Barking and Dagenham,E09000002,Economic Total,161746
+2021,Barnet,E09000003,Economic Total,309355
+2021,Bexley,E09000004,Economic Total,195827
+2021,Brent,E09000005,Economic Total,275142
+2021,Bromley,E09000006,Economic Total,265088
+2021,Camden,E09000007,Economic Total,177908
+2021,Croydon,E09000008,Economic Total,310396
+2021,Ealing,E09000009,Economic Total,295371
+2021,Enfield,E09000010,Economic Total,257182
+2021,Greenwich,E09000011,Economic Total,229749
+2021,Hackney,E09000012,Economic Total,209466
+2021,Hammersmith and Fulham,E09000013,Economic Total,154632
+2021,Haringey,E09000014,Economic Total,216000
+2021,Harrow,E09000015,Economic Total,209623
+2021,Havering,E09000016,Economic Total,209730
+2021,Hillingdon,E09000017,Economic Total,241879
+2021,Hounslow,E09000018,Economic Total,228675
+2021,Islington,E09000019,Economic Total,183627
+2021,Kensington and Chelsea,E09000020,Economic Total,123089
+2021,Kingston upon Thames,E09000021,Economic Total,135467
+2021,Lambeth,E09000022,Economic Total,268942
+2021,Lewisham,E09000023,Economic Total,242417
+2021,Merton,E09000024,Economic Total,172772
+2021,Newham,E09000025,Economic Total,276173
+2021,Redbridge,E09000026,Economic Total,242020
+2021,Richmond upon Thames,E09000027,Economic Total,155835
+2021,Southwark,E09000028,Economic Total,256139
+2021,Sutton,E09000029,Economic Total,165659
+2021,Tower Hamlets,E09000030,Economic Total,252879
+2021,Waltham Forest,E09000031,Economic Total,222184
+2021,Wandsworth,E09000032,Economic Total,273559
+2021,Westminster,E09000033,Economic Total,177470
+2021,Isle of Anglesey,W06000001,Economic Total,57148
+2021,Gwynedd,W06000002,Economic Total,97968
+2021,Conwy,W06000003,Economic Total,96360
+2021,Denbighshire,W06000004,Economic Total,78908
+2021,Flintshire,W06000005,Economic Total,127578
+2021,Wrexham,W06000006,Economic Total,110274
+2021,Ceredigion,W06000008,Economic Total,61392
+2021,Pembrokeshire,W06000009,Economic Total,102551
+2021,Carmarthenshire,W06000010,Economic Total,155487
+2021,Swansea,W06000011,Economic Total,197857
+2021,Neath Port Talbot,W06000012,Economic Total,117182
+2021,Bridgend,W06000013,Economic Total,119482
+2021,Vale of Glamorgan,W06000014,Economic Total,107457
+2021,Cardiff,W06000015,Economic Total,296314
+2021,Rhondda Cynon Taff,W06000016,Economic Total,193843
+2021,Caerphilly,W06000018,Economic Total,143484
+2021,Blaenau Gwent,W06000019,Economic Total,55141
+2021,Torfaen,W06000020,Economic Total,75112
+2021,Monmouthshire,W06000021,Economic Total,78238
+2021,Newport,W06000022,Economic Total,127420
+2021,Powys,W06000023,Economic Total,112536
+2021,Merthyr Tydfil,W06000024,Economic Total,47676
+2021,Hartlepool,E06000001,Economically active,40751
+2021,Middlesbrough,E06000002,Economically active,62248
+2021,Redcar and Cleveland,E06000003,Economically active,59624
+2021,Stockton-on-Tees,E06000004,Economically active,92342
+2021,Darlington,E06000005,Economically active,52329
+2021,Halton,E06000006,Economically active,62047
+2021,Warrington,E06000007,Economically active,107975
+2021,Blackburn with Darwen,E06000008,Economically active,68111
+2021,Blackpool,E06000009,Economically active,64351
+2021,"Kingston upon Hull, City of",E06000010,Economically active,128155
+2021,East Riding of Yorkshire,E06000011,Economically active,162798
+2021,North East Lincolnshire,E06000012,Economically active,73041
+2021,North Lincolnshire,E06000013,Economically active,80446
+2021,York,E06000014,Economically active,101232
+2021,Derby,E06000015,Economically active,124347
+2021,Leicester,E06000016,Economically active,169572
+2021,Rutland,E06000017,Economically active,19425
+2021,Nottingham,E06000018,Economically active,142935
+2021,"Herefordshire, County of",E06000019,Economically active,92163
+2021,Telford and Wrekin,E06000020,Economically active,90380
+2021,Stoke-on-Trent,E06000021,Economically active,119972
+2021,Bath and North East Somerset,E06000022,Economically active,94452
+2021,"Bristol, City of",E06000023,Economically active,252652
+2021,North Somerset,E06000024,Economically active,106639
+2021,South Gloucestershire,E06000025,Economically active,153466
+2021,Plymouth,E06000026,Economically active,128144
+2021,Torbay,E06000027,Economically active,62379
+2021,Swindon,E06000030,Economically active,123902
+2021,Peterborough,E06000031,Economically active,107102
+2021,Luton,E06000032,Economically active,107846
+2021,Southend-on-Sea,E06000033,Economically active,88636
+2021,Thurrock,E06000034,Economically active,91113
+2021,Medway,E06000035,Economically active,140571
+2021,Bracknell Forest,E06000036,Economically active,69400
+2021,West Berkshire,E06000037,Economically active,85510
+2021,Reading,E06000038,Economically active,94693
+2021,Slough,E06000039,Economically active,79719
+2021,Windsor and Maidenhead,E06000040,Economically active,80096
+2021,Wokingham,E06000041,Economically active,93243
+2021,Milton Keynes,E06000042,Economically active,151684
+2021,Brighton and Hove,E06000043,Economically active,150125
+2021,Portsmouth,E06000044,Economically active,105376
+2021,Southampton,E06000045,Economically active,126584
+2021,Isle of Wight,E06000046,Economically active,61399
+2021,County Durham,E06000047,Economically active,235484
+2021,Cheshire East,E06000049,Economically active,200289
+2021,Cheshire West and Chester,E06000050,Economically active,177228
+2021,Shropshire,E06000051,Economically active,158910
+2021,Cornwall,E06000052,Economically active,266622
+2021,Isles of Scilly,E06000053,Economically active,1128
+2021,Wiltshire,E06000054,Economically active,262075
+2021,Bedford,E06000055,Economically active,95811
+2021,Central Bedfordshire,E06000056,Economically active,157292
+2021,Northumberland,E06000057,Economically active,148602
+2021,"Bournemouth, Christchurch and Poole",E06000058,Economically active,197215
+2021,Dorset,E06000059,Economically active,174681
+2021,Buckinghamshire,E06000060,Economically active,285487
+2021,North Northamptonshire,E06000061,Economically active,186661
+2021,West Northamptonshire,E06000062,Economically active,226381
+2021,Cambridge,E07000008,Economically active,74213
+2021,East Cambridgeshire,E07000009,Economically active,46215
+2021,Fenland,E07000010,Economically active,49392
+2021,Huntingdonshire,E07000011,Economically active,94850
+2021,South Cambridgeshire,E07000012,Economically active,85049
+2021,Allerdale,E07000026,Economically active,46015
+2021,Barrow-in-Furness,E07000027,Economically active,32692
+2021,Carlisle,E07000028,Economically active,55272
+2021,Copeland,E07000029,Economically active,31946
+2021,Eden,E07000030,Economically active,28183
+2021,South Lakeland,E07000031,Economically active,51636
+2021,Amber Valley,E07000032,Economically active,62625
+2021,Bolsover,E07000033,Economically active,39653
+2021,Chesterfield,E07000034,Economically active,49883
+2021,Derbyshire Dales,E07000035,Economically active,34373
+2021,Erewash,E07000036,Economically active,57478
+2021,High Peak,E07000037,Economically active,46481
+2021,North East Derbyshire,E07000038,Economically active,48471
+2021,South Derbyshire,E07000039,Economically active,55907
+2021,East Devon,E07000040,Economically active,69189
+2021,Exeter,E07000041,Economically active,63256
+2021,Mid Devon,E07000042,Economically active,41654
+2021,North Devon,E07000043,Economically active,47138
+2021,South Hams,E07000044,Economically active,42013
+2021,Teignbridge,E07000045,Economically active,64536
+2021,Torridge,E07000046,Economically active,31418
+2021,West Devon,E07000047,Economically active,26317
+2021,Eastbourne,E07000061,Economically active,46757
+2021,Hastings,E07000062,Economically active,43772
+2021,Lewes,E07000063,Economically active,46800
+2021,Rother,E07000064,Economically active,39914
+2021,Wealden,E07000065,Economically active,77504
+2021,Basildon,E07000066,Economically active,93971
+2021,Braintree,E07000067,Economically active,79834
+2021,Brentwood,E07000068,Economically active,39506
+2021,Castle Point,E07000069,Economically active,42904
+2021,Chelmsford,E07000070,Economically active,93844
+2021,Colchester,E07000071,Economically active,97495
+2021,Epping Forest,E07000072,Economically active,69230
+2021,Harlow,E07000073,Economically active,48826
+2021,Maldon,E07000074,Economically active,32581
+2021,Rochford,E07000075,Economically active,42485
+2021,Tendring,E07000076,Economically active,62132
+2021,Uttlesford,E07000077,Economically active,47470
+2021,Cheltenham,E07000078,Economically active,61873
+2021,Cotswold,E07000079,Economically active,45652
+2021,Forest of Dean,E07000080,Economically active,41777
+2021,Gloucester,E07000081,Economically active,68956
+2021,Stroud,E07000082,Economically active,62038
+2021,Tewkesbury,E07000083,Economically active,48226
+2021,Basingstoke and Deane,E07000084,Economically active,101108
+2021,East Hampshire,E07000085,Economically active,64115
+2021,Eastleigh,E07000086,Economically active,72212
+2021,Fareham,E07000087,Economically active,57693
+2021,Gosport,E07000088,Economically active,40568
+2021,Hart,E07000089,Economically active,52411
+2021,Havant,E07000090,Economically active,59350
+2021,New Forest,E07000091,Economically active,81777
+2021,Rushmoor,E07000092,Economically active,55548
+2021,Test Valley,E07000093,Economically active,68171
+2021,Winchester,E07000094,Economically active,63289
+2021,Broxbourne,E07000095,Economically active,50969
+2021,Dacorum,E07000096,Economically active,80791
+2021,Hertsmere,E07000098,Economically active,55526
+2021,North Hertfordshire,E07000099,Economically active,70011
+2021,Three Rivers,E07000102,Economically active,49093
+2021,Watford,E07000103,Economically active,55941
+2021,Ashford,E07000105,Economically active,66680
+2021,Canterbury,E07000106,Economically active,71404
+2021,Dartford,E07000107,Economically active,61827
+2021,Dover,E07000108,Economically active,53982
+2021,Gravesham,E07000109,Economically active,53012
+2021,Maidstone,E07000110,Economically active,90263
+2021,Sevenoaks,E07000111,Economically active,58728
+2021,Folkestone and Hythe,E07000112,Economically active,50765
+2021,Swale,E07000113,Economically active,73117
+2021,Thanet,E07000114,Economically active,63337
+2021,Tonbridge and Malling,E07000115,Economically active,66991
+2021,Tunbridge Wells,E07000116,Economically active,58284
+2021,Burnley,E07000117,Economically active,42735
+2021,Chorley,E07000118,Economically active,59510
+2021,Fylde,E07000119,Economically active,37339
+2021,Hyndburn,E07000120,Economically active,37843
+2021,Lancaster,E07000121,Economically active,65780
+2021,Pendle,E07000122,Economically active,42012
+2021,Preston,E07000123,Economically active,71191
+2021,Ribble Valley,E07000124,Economically active,31251
+2021,Rossendale,E07000125,Economically active,34680
+2021,South Ribble,E07000126,Economically active,56754
+2021,West Lancashire,E07000127,Economically active,56523
+2021,Wyre,E07000128,Economically active,50307
+2021,Blaby,E07000129,Economically active,53511
+2021,Charnwood,E07000130,Economically active,89169
+2021,Harborough,E07000131,Economically active,50315
+2021,Hinckley and Bosworth,E07000132,Economically active,57944
+2021,Melton,E07000133,Economically active,26369
+2021,North West Leicestershire,E07000134,Economically active,54001
+2021,Oadby and Wigston,E07000135,Economically active,27441
+2021,Boston,E07000136,Economically active,35260
+2021,East Lindsey,E07000137,Economically active,59088
+2021,Lincoln,E07000138,Economically active,50590
+2021,North Kesteven,E07000139,Economically active,58978
+2021,South Holland,E07000140,Economically active,47209
+2021,South Kesteven,E07000141,Economically active,71185
+2021,West Lindsey,E07000142,Economically active,44159
+2021,Breckland,E07000143,Economically active,68440
+2021,Broadland,E07000144,Economically active,64827
+2021,Great Yarmouth,E07000145,Economically active,44475
+2021,King's Lynn and West Norfolk,E07000146,Economically active,72399
+2021,North Norfolk,E07000147,Economically active,43616
+2021,Norwich,E07000148,Economically active,71055
+2021,South Norfolk,E07000149,Economically active,70090
+2021,Craven,E07000163,Economically active,27943
+2021,Hambleton,E07000164,Economically active,44737
+2021,Harrogate,E07000165,Economically active,82286
+2021,Richmondshire,E07000166,Economically active,25526
+2021,Ryedale,E07000167,Economically active,26772
+2021,Scarborough,E07000168,Economically active,48974
+2021,Selby,E07000169,Economically active,47832
+2021,Ashfield,E07000170,Economically active,61531
+2021,Bassetlaw,E07000171,Economically active,57282
+2021,Broxtowe,E07000172,Economically active,54415
+2021,Gedling,E07000173,Economically active,58689
+2021,Mansfield,E07000174,Economically active,53882
+2021,Newark and Sherwood,E07000175,Economically active,59562
+2021,Rushcliffe,E07000176,Economically active,59116
+2021,Cherwell,E07000177,Economically active,88197
+2021,Oxford,E07000178,Economically active,77669
+2021,South Oxfordshire,E07000179,Economically active,79136
+2021,Vale of White Horse,E07000180,Economically active,73280
+2021,West Oxfordshire,E07000181,Economically active,60809
+2021,Mendip,E07000187,Economically active,57860
+2021,Sedgemoor,E07000188,Economically active,61679
+2021,South Somerset,E07000189,Economically active,84072
+2021,Cannock Chase,E07000192,Economically active,51378
+2021,East Staffordshire,E07000193,Economically active,62173
+2021,Lichfield,E07000194,Economically active,52639
+2021,Newcastle-under-Lyme,E07000195,Economically active,59643
+2021,South Staffordshire,E07000196,Economically active,52966
+2021,Stafford,E07000197,Economically active,68385
+2021,Staffordshire Moorlands,E07000198,Economically active,46650
+2021,Tamworth,E07000199,Economically active,40229
+2021,Babergh,E07000200,Economically active,44824
+2021,Ipswich,E07000202,Economically active,71116
+2021,Mid Suffolk,E07000203,Economically active,51759
+2021,Elmbridge,E07000207,Economically active,70000
+2021,Epsom and Ewell,E07000208,Economically active,41717
+2021,Guildford,E07000209,Economically active,73429
+2021,Mole Valley,E07000210,Economically active,44028
+2021,Reigate and Banstead,E07000211,Economically active,78471
+2021,Runnymede,E07000212,Economically active,45103
+2021,Spelthorne,E07000213,Economically active,54555
+2021,Surrey Heath,E07000214,Economically active,47447
+2021,Tandridge,E07000215,Economically active,44452
+2021,Waverley,E07000216,Economically active,63121
+2021,Woking,E07000217,Economically active,55238
+2021,North Warwickshire,E07000218,Economically active,33210
+2021,Nuneaton and Bedworth,E07000219,Economically active,66590
+2021,Rugby,E07000220,Economically active,60387
+2021,Stratford-on-Avon,E07000221,Economically active,68512
+2021,Warwick,E07000222,Economically active,76199
+2021,Adur,E07000223,Economically active,31271
+2021,Arun,E07000224,Economically active,76832
+2021,Chichester,E07000225,Economically active,59081
+2021,Crawley,E07000226,Economically active,63548
+2021,Horsham,E07000227,Economically active,75077
+2021,Mid Sussex,E07000228,Economically active,79510
+2021,Worthing,E07000229,Economically active,56302
+2021,Bromsgrove,E07000234,Economically active,49278
+2021,Malvern Hills,E07000235,Economically active,37354
+2021,Redditch,E07000236,Economically active,44849
+2021,Worcester,E07000237,Economically active,54601
+2021,Wychavon,E07000238,Economically active,66063
+2021,Wyre Forest,E07000239,Economically active,48237
+2021,St Albans,E07000240,Economically active,75854
+2021,Welwyn Hatfield,E07000241,Economically active,61950
+2021,East Hertfordshire,E07000242,Economically active,79595
+2021,Stevenage,E07000243,Economically active,47817
+2021,East Suffolk,E07000244,Economically active,111807
+2021,West Suffolk,E07000245,Economically active,93203
+2021,Somerset West and Taunton,E07000246,Economically active,76213
+2021,Bolton,E08000001,Economically active,134542
+2021,Bury,E08000002,Economically active,93461
+2021,Manchester,E08000003,Economically active,259288
+2021,Oldham,E08000004,Economically active,105966
+2021,Rochdale,E08000005,Economically active,101069
+2021,Salford,E08000006,Economically active,137780
+2021,Stockport,E08000007,Economically active,146544
+2021,Tameside,E08000008,Economically active,112079
+2021,Trafford,E08000009,Economically active,117117
+2021,Wigan,E08000010,Economically active,162896
+2021,Knowsley,E08000011,Economically active,73881
+2021,Liverpool,E08000012,Economically active,224956
+2021,St. Helens,E08000013,Economically active,87330
+2021,Sefton,E08000014,Economically active,131658
+2021,Wirral,E08000015,Economically active,147023
+2021,Barnsley,E08000016,Economically active,117520
+2021,Doncaster,E08000017,Economically active,146264
+2021,Rotherham,E08000018,Economically active,124654
+2021,Sheffield,E08000019,Economically active,260057
+2021,Newcastle upon Tyne,E08000021,Economically active,136892
+2021,North Tyneside,E08000022,Economically active,102868
+2021,South Tyneside,E08000023,Economically active,67794
+2021,Sunderland,E08000024,Economically active,125948
+2021,Birmingham,E08000025,Economically active,494724
+2021,Coventry,E08000026,Economically active,163686
+2021,Dudley,E08000027,Economically active,154502
+2021,Sandwell,E08000028,Economically active,155194
+2021,Solihull,E08000029,Economically active,103460
+2021,Walsall,E08000030,Economically active,128492
+2021,Wolverhampton,E08000031,Economically active,122990
+2021,Bradford,E08000032,Economically active,239279
+2021,Calderdale,E08000033,Economically active,98755
+2021,Kirklees,E08000034,Economically active,202190
+2021,Leeds,E08000035,Economically active,401119
+2021,Wakefield,E08000036,Economically active,173152
+2021,Gateshead,E08000037,Economically active,93515
+2021,City of London,E09000001,Economically active,5678
+2021,Barking and Dagenham,E09000002,Economically active,103667
+2021,Barnet,E09000003,Economically active,199761
+2021,Bexley,E09000004,Economically active,125346
+2021,Brent,E09000005,Economically active,175982
+2021,Bromley,E09000006,Economically active,171090
+2021,Camden,E09000007,Economically active,111524
+2021,Croydon,E09000008,Economically active,204136
+2021,Ealing,E09000009,Economically active,190291
+2021,Enfield,E09000010,Economically active,156015
+2021,Greenwich,E09000011,Economically active,155202
+2021,Hackney,E09000012,Economically active,145767
+2021,Hammersmith and Fulham,E09000013,Economically active,105772
+2021,Haringey,E09000014,Economically active,146328
+2021,Harrow,E09000015,Economically active,133542
+2021,Havering,E09000016,Economically active,132432
+2021,Hillingdon,E09000017,Economically active,154438
+2021,Hounslow,E09000018,Economically active,150604
+2021,Islington,E09000019,Economically active,124914
+2021,Kensington and Chelsea,E09000020,Economically active,75072
+2021,Kingston upon Thames,E09000021,Economically active,89385
+2021,Lambeth,E09000022,Economically active,197141
+2021,Lewisham,E09000023,Economically active,169579
+2021,Merton,E09000024,Economically active,118900
+2021,Newham,E09000025,Economically active,180739
+2021,Redbridge,E09000026,Economically active,152466
+2021,Richmond upon Thames,E09000027,Economically active,102821
+2021,Southwark,E09000028,Economically active,181218
+2021,Sutton,E09000029,Economically active,109810
+2021,Tower Hamlets,E09000030,Economically active,170536
+2021,Waltham Forest,E09000031,Economically active,151835
+2021,Wandsworth,E09000032,Economically active,201428
+2021,Westminster,E09000033,Economically active,110288
+2021,Isle of Anglesey,W06000001,Economically active,30865
+2021,Gwynedd,W06000002,Economically active,54973
+2021,Conwy,W06000003,Economically active,51587
+2021,Denbighshire,W06000004,Economically active,43036
+2021,Flintshire,W06000005,Economically active,77353
+2021,Wrexham,W06000006,Economically active,65049
+2021,Ceredigion,W06000008,Economically active,31964
+2021,Pembrokeshire,W06000009,Economically active,55534
+2021,Carmarthenshire,W06000010,Economically active,85874
+2021,Swansea,W06000011,Economically active,107375
+2021,Neath Port Talbot,W06000012,Economically active,62441
+2021,Bridgend,W06000013,Economically active,67479
+2021,Vale of Glamorgan,W06000014,Economically active,62959
+2021,Cardiff,W06000015,Economically active,172734
+2021,Rhondda Cynon Taff,W06000016,Economically active,109606
+2021,Caerphilly,W06000018,Economically active,81829
+2021,Blaenau Gwent,W06000019,Economically active,30651
+2021,Torfaen,W06000020,Economically active,42941
+2021,Monmouthshire,W06000021,Economically active,44558
+2021,Newport,W06000022,Economically active,77297
+2021,Powys,W06000023,Economically active,64052
+2021,Merthyr Tydfil,W06000024,Economically active,27183
+2021,Hartlepool,E06000001,Economically active: In employment,37749
+2021,Middlesbrough,E06000002,Economically active: In employment,56433
+2021,Redcar and Cleveland,E06000003,Economically active: In employment,55620
+2021,Stockton-on-Tees,E06000004,Economically active: In employment,86442
+2021,Darlington,E06000005,Economically active: In employment,49296
+2021,Halton,E06000006,Economically active: In employment,58706
+2021,Warrington,E06000007,Economically active: In employment,103195
+2021,Blackburn with Darwen,E06000008,Economically active: In employment,63558
+2021,Blackpool,E06000009,Economically active: In employment,59361
+2021,"Kingston upon Hull, City of",E06000010,Economically active: In employment,117788
+2021,East Riding of Yorkshire,E06000011,Economically active: In employment,156120
+2021,North East Lincolnshire,E06000012,Economically active: In employment,68850
+2021,North Lincolnshire,E06000013,Economically active: In employment,76221
+2021,York,E06000014,Economically active: In employment,96197
+2021,Derby,E06000015,Economically active: In employment,116202
+2021,Leicester,E06000016,Economically active: In employment,154932
+2021,Rutland,E06000017,Economically active: In employment,18783
+2021,Nottingham,E06000018,Economically active: In employment,128866
+2021,"Herefordshire, County of",E06000019,Economically active: In employment,88510
+2021,Telford and Wrekin,E06000020,Economically active: In employment,85495
+2021,Stoke-on-Trent,E06000021,Economically active: In employment,112580
+2021,Bath and North East Somerset,E06000022,Economically active: In employment,89810
+2021,"Bristol, City of",E06000023,Economically active: In employment,238510
+2021,North Somerset,E06000024,Economically active: In employment,102702
+2021,South Gloucestershire,E06000025,Economically active: In employment,147612
+2021,Plymouth,E06000026,Economically active: In employment,121018
+2021,Torbay,E06000027,Economically active: In employment,58935
+2021,Swindon,E06000030,Economically active: In employment,117866
+2021,Peterborough,E06000031,Economically active: In employment,100969
+2021,Luton,E06000032,Economically active: In employment,98718
+2021,Southend-on-Sea,E06000033,Economically active: In employment,83259
+2021,Thurrock,E06000034,Economically active: In employment,85948
+2021,Medway,E06000035,Economically active: In employment,132604
+2021,Bracknell Forest,E06000036,Economically active: In employment,66397
+2021,West Berkshire,E06000037,Economically active: In employment,82308
+2021,Reading,E06000038,Economically active: In employment,88864
+2021,Slough,E06000039,Economically active: In employment,73699
+2021,Windsor and Maidenhead,E06000040,Economically active: In employment,76302
+2021,Wokingham,E06000041,Economically active: In employment,89467
+2021,Milton Keynes,E06000042,Economically active: In employment,143379
+2021,Brighton and Hove,E06000043,Economically active: In employment,139289
+2021,Portsmouth,E06000044,Economically active: In employment,97785
+2021,Southampton,E06000045,Economically active: In employment,118228
+2021,Isle of Wight,E06000046,Economically active: In employment,57909
+2021,County Durham,E06000047,Economically active: In employment,222215
+2021,Cheshire East,E06000049,Economically active: In employment,192487
+2021,Cheshire West and Chester,E06000050,Economically active: In employment,169088
+2021,Shropshire,E06000051,Economically active: In employment,152422
+2021,Cornwall,E06000052,Economically active: In employment,254247
+2021,Isles of Scilly,E06000053,Economically active: In employment,1113
+2021,Wiltshire,E06000054,Economically active: In employment,252345
+2021,Bedford,E06000055,Economically active: In employment,90865
+2021,Central Bedfordshire,E06000056,Economically active: In employment,151077
+2021,Northumberland,E06000057,Economically active: In employment,140780
+2021,"Bournemouth, Christchurch and Poole",E06000058,Economically active: In employment,186030
+2021,Dorset,E06000059,Economically active: In employment,167777
+2021,Buckinghamshire,E06000060,Economically active: In employment,273235
+2021,North Northamptonshire,E06000061,Economically active: In employment,178857
+2021,West Northamptonshire,E06000062,Economically active: In employment,215996
+2021,Cambridge,E07000008,Economically active: In employment,70598
+2021,East Cambridgeshire,E07000009,Economically active: In employment,44695
+2021,Fenland,E07000010,Economically active: In employment,47109
+2021,Huntingdonshire,E07000011,Economically active: In employment,91391
+2021,South Cambridgeshire,E07000012,Economically active: In employment,82267
+2021,Allerdale,E07000026,Economically active: In employment,44235
+2021,Barrow-in-Furness,E07000027,Economically active: In employment,31183
+2021,Carlisle,E07000028,Economically active: In employment,52950
+2021,Copeland,E07000029,Economically active: In employment,30571
+2021,Eden,E07000030,Economically active: In employment,27335
+2021,South Lakeland,E07000031,Economically active: In employment,50137
+2021,Amber Valley,E07000032,Economically active: In employment,60171
+2021,Bolsover,E07000033,Economically active: In employment,38100
+2021,Chesterfield,E07000034,Economically active: In employment,47532
+2021,Derbyshire Dales,E07000035,Economically active: In employment,33229
+2021,Erewash,E07000036,Economically active: In employment,54966
+2021,High Peak,E07000037,Economically active: In employment,44616
+2021,North East Derbyshire,E07000038,Economically active: In employment,46564
+2021,South Derbyshire,E07000039,Economically active: In employment,53907
+2021,East Devon,E07000040,Economically active: In employment,66727
+2021,Exeter,E07000041,Economically active: In employment,59701
+2021,Mid Devon,E07000042,Economically active: In employment,40279
+2021,North Devon,E07000043,Economically active: In employment,45166
+2021,South Hams,E07000044,Economically active: In employment,40585
+2021,Teignbridge,E07000045,Economically active: In employment,62137
+2021,Torridge,E07000046,Economically active: In employment,30054
+2021,West Devon,E07000047,Economically active: In employment,25384
+2021,Eastbourne,E07000061,Economically active: In employment,43831
+2021,Hastings,E07000062,Economically active: In employment,40897
+2021,Lewes,E07000063,Economically active: In employment,44506
+2021,Rother,E07000064,Economically active: In employment,37934
+2021,Wealden,E07000065,Economically active: In employment,74543
+2021,Basildon,E07000066,Economically active: In employment,89010
+2021,Braintree,E07000067,Economically active: In employment,76282
+2021,Brentwood,E07000068,Economically active: In employment,37900
+2021,Castle Point,E07000069,Economically active: In employment,41002
+2021,Chelmsford,E07000070,Economically active: In employment,89861
+2021,Colchester,E07000071,Economically active: In employment,92015
+2021,Epping Forest,E07000072,Economically active: In employment,65796
+2021,Harlow,E07000073,Economically active: In employment,45981
+2021,Maldon,E07000074,Economically active: In employment,31254
+2021,Rochford,E07000075,Economically active: In employment,40661
+2021,Tendring,E07000076,Economically active: In employment,58280
+2021,Uttlesford,E07000077,Economically active: In employment,45740
+2021,Cheltenham,E07000078,Economically active: In employment,59157
+2021,Cotswold,E07000079,Economically active: In employment,44079
+2021,Forest of Dean,E07000080,Economically active: In employment,39989
+2021,Gloucester,E07000081,Economically active: In employment,65621
+2021,Stroud,E07000082,Economically active: In employment,59919
+2021,Tewkesbury,E07000083,Economically active: In employment,46524
+2021,Basingstoke and Deane,E07000084,Economically active: In employment,96973
+2021,East Hampshire,E07000085,Economically active: In employment,61732
+2021,Eastleigh,E07000086,Economically active: In employment,69514
+2021,Fareham,E07000087,Economically active: In employment,55629
+2021,Gosport,E07000088,Economically active: In employment,38486
+2021,Hart,E07000089,Economically active: In employment,50444
+2021,Havant,E07000090,Economically active: In employment,56369
+2021,New Forest,E07000091,Economically active: In employment,78700
+2021,Rushmoor,E07000092,Economically active: In employment,53017
+2021,Test Valley,E07000093,Economically active: In employment,65862
+2021,Winchester,E07000094,Economically active: In employment,60573
+2021,Broxbourne,E07000095,Economically active: In employment,48306
+2021,Dacorum,E07000096,Economically active: In employment,77199
+2021,Hertsmere,E07000098,Economically active: In employment,52767
+2021,North Hertfordshire,E07000099,Economically active: In employment,67162
+2021,Three Rivers,E07000102,Economically active: In employment,46947
+2021,Watford,E07000103,Economically active: In employment,52859
+2021,Ashford,E07000105,Economically active: In employment,63616
+2021,Canterbury,E07000106,Economically active: In employment,66169
+2021,Dartford,E07000107,Economically active: In employment,58823
+2021,Dover,E07000108,Economically active: In employment,50929
+2021,Gravesham,E07000109,Economically active: In employment,49761
+2021,Maidstone,E07000110,Economically active: In employment,86409
+2021,Sevenoaks,E07000111,Economically active: In employment,56384
+2021,Folkestone and Hythe,E07000112,Economically active: In employment,47819
+2021,Swale,E07000113,Economically active: In employment,69201
+2021,Thanet,E07000114,Economically active: In employment,59189
+2021,Tonbridge and Malling,E07000115,Economically active: In employment,64426
+2021,Tunbridge Wells,E07000116,Economically active: In employment,55898
+2021,Burnley,E07000117,Economically active: In employment,40035
+2021,Chorley,E07000118,Economically active: In employment,57244
+2021,Fylde,E07000119,Economically active: In employment,35718
+2021,Hyndburn,E07000120,Economically active: In employment,35627
+2021,Lancaster,E07000121,Economically active: In employment,62399
+2021,Pendle,E07000122,Economically active: In employment,39625
+2021,Preston,E07000123,Economically active: In employment,66634
+2021,Ribble Valley,E07000124,Economically active: In employment,30385
+2021,Rossendale,E07000125,Economically active: In employment,33118
+2021,South Ribble,E07000126,Economically active: In employment,54709
+2021,West Lancashire,E07000127,Economically active: In employment,53547
+2021,Wyre,E07000128,Economically active: In employment,47835
+2021,Blaby,E07000129,Economically active: In employment,51446
+2021,Charnwood,E07000130,Economically active: In employment,84799
+2021,Harborough,E07000131,Economically active: In employment,48770
+2021,Hinckley and Bosworth,E07000132,Economically active: In employment,55885
+2021,Melton,E07000133,Economically active: In employment,25468
+2021,North West Leicestershire,E07000134,Economically active: In employment,51961
+2021,Oadby and Wigston,E07000135,Economically active: In employment,25989
+2021,Boston,E07000136,Economically active: In employment,33631
+2021,East Lindsey,E07000137,Economically active: In employment,55579
+2021,Lincoln,E07000138,Economically active: In employment,46715
+2021,North Kesteven,E07000139,Economically active: In employment,56894
+2021,South Holland,E07000140,Economically active: In employment,45234
+2021,South Kesteven,E07000141,Economically active: In employment,68195
+2021,West Lindsey,E07000142,Economically active: In employment,42138
+2021,Breckland,E07000143,Economically active: In employment,65638
+2021,Broadland,E07000144,Economically active: In employment,62589
+2021,Great Yarmouth,E07000145,Economically active: In employment,41139
+2021,King's Lynn and West Norfolk,E07000146,Economically active: In employment,69220
+2021,North Norfolk,E07000147,Economically active: In employment,41657
+2021,Norwich,E07000148,Economically active: In employment,65720
+2021,South Norfolk,E07000149,Economically active: In employment,67749
+2021,Craven,E07000163,Economically active: In employment,27131
+2021,Hambleton,E07000164,Economically active: In employment,43405
+2021,Harrogate,E07000165,Economically active: In employment,79686
+2021,Richmondshire,E07000166,Economically active: In employment,24675
+2021,Ryedale,E07000167,Economically active: In employment,25961
+2021,Scarborough,E07000168,Economically active: In employment,46549
+2021,Selby,E07000169,Economically active: In employment,46121
+2021,Ashfield,E07000170,Economically active: In employment,58427
+2021,Bassetlaw,E07000171,Economically active: In employment,54920
+2021,Broxtowe,E07000172,Economically active: In employment,51915
+2021,Gedling,E07000173,Economically active: In employment,56186
+2021,Mansfield,E07000174,Economically active: In employment,51367
+2021,Newark and Sherwood,E07000175,Economically active: In employment,57114
+2021,Rushcliffe,E07000176,Economically active: In employment,56978
+2021,Cherwell,E07000177,Economically active: In employment,84970
+2021,Oxford,E07000178,Economically active: In employment,73326
+2021,South Oxfordshire,E07000179,Economically active: In employment,76476
+2021,Vale of White Horse,E07000180,Economically active: In employment,70863
+2021,West Oxfordshire,E07000181,Economically active: In employment,58926
+2021,Mendip,E07000187,Economically active: In employment,55671
+2021,Sedgemoor,E07000188,Economically active: In employment,59148
+2021,South Somerset,E07000189,Economically active: In employment,80935
+2021,Cannock Chase,E07000192,Economically active: In employment,48877
+2021,East Staffordshire,E07000193,Economically active: In employment,59316
+2021,Lichfield,E07000194,Economically active: In employment,50473
+2021,Newcastle-under-Lyme,E07000195,Economically active: In employment,56683
+2021,South Staffordshire,E07000196,Economically active: In employment,50699
+2021,Stafford,E07000197,Economically active: In employment,65765
+2021,Staffordshire Moorlands,E07000198,Economically active: In employment,45037
+2021,Tamworth,E07000199,Economically active: In employment,38161
+2021,Babergh,E07000200,Economically active: In employment,42956
+2021,Ipswich,E07000202,Economically active: In employment,67026
+2021,Mid Suffolk,E07000203,Economically active: In employment,50024
+2021,Elmbridge,E07000207,Economically active: In employment,66980
+2021,Epsom and Ewell,E07000208,Economically active: In employment,39910
+2021,Guildford,E07000209,Economically active: In employment,69774
+2021,Mole Valley,E07000210,Economically active: In employment,42342
+2021,Reigate and Banstead,E07000211,Economically active: In employment,75124
+2021,Runnymede,E07000212,Economically active: In employment,42456
+2021,Spelthorne,E07000213,Economically active: In employment,51540
+2021,Surrey Heath,E07000214,Economically active: In employment,45364
+2021,Tandridge,E07000215,Economically active: In employment,42576
+2021,Waverley,E07000216,Economically active: In employment,60725
+2021,Woking,E07000217,Economically active: In employment,52744
+2021,North Warwickshire,E07000218,Economically active: In employment,31754
+2021,Nuneaton and Bedworth,E07000219,Economically active: In employment,63115
+2021,Rugby,E07000220,Economically active: In employment,58107
+2021,Stratford-on-Avon,E07000221,Economically active: In employment,66236
+2021,Warwick,E07000222,Economically active: In employment,72748
+2021,Adur,E07000223,Economically active: In employment,29825
+2021,Arun,E07000224,Economically active: In employment,73190
+2021,Chichester,E07000225,Economically active: In employment,56365
+2021,Crawley,E07000226,Economically active: In employment,58899
+2021,Horsham,E07000227,Economically active: In employment,72167
+2021,Mid Sussex,E07000228,Economically active: In employment,76573
+2021,Worthing,E07000229,Economically active: In employment,53557
+2021,Bromsgrove,E07000234,Economically active: In employment,47288
+2021,Malvern Hills,E07000235,Economically active: In employment,35802
+2021,Redditch,E07000236,Economically active: In employment,42692
+2021,Worcester,E07000237,Economically active: In employment,51627
+2021,Wychavon,E07000238,Economically active: In employment,63660
+2021,Wyre Forest,E07000239,Economically active: In employment,45789
+2021,St Albans,E07000240,Economically active: In employment,72870
+2021,Welwyn Hatfield,E07000241,Economically active: In employment,58149
+2021,East Hertfordshire,E07000242,Economically active: In employment,76526
+2021,Stevenage,E07000243,Economically active: In employment,45463
+2021,East Suffolk,E07000244,Economically active: In employment,106367
+2021,West Suffolk,E07000245,Economically active: In employment,89622
+2021,Somerset West and Taunton,E07000246,Economically active: In employment,73293
+2021,Bolton,E08000001,Economically active: In employment,125439
+2021,Bury,E08000002,Economically active: In employment,88481
+2021,Manchester,E08000003,Economically active: In employment,234284
+2021,Oldham,E08000004,Economically active: In employment,98206
+2021,Rochdale,E08000005,Economically active: In employment,94459
+2021,Salford,E08000006,Economically active: In employment,127605
+2021,Stockport,E08000007,Economically active: In employment,139806
+2021,Tameside,E08000008,Economically active: In employment,105655
+2021,Trafford,E08000009,Economically active: In employment,111557
+2021,Wigan,E08000010,Economically active: In employment,154614
+2021,Knowsley,E08000011,Economically active: In employment,69490
+2021,Liverpool,E08000012,Economically active: In employment,205750
+2021,St. Helens,E08000013,Economically active: In employment,82624
+2021,Sefton,E08000014,Economically active: In employment,124596
+2021,Wirral,E08000015,Economically active: In employment,139503
+2021,Barnsley,E08000016,Economically active: In employment,111680
+2021,Doncaster,E08000017,Economically active: In employment,137859
+2021,Rotherham,E08000018,Economically active: In employment,117801
+2021,Sheffield,E08000019,Economically active: In employment,242006
+2021,Newcastle upon Tyne,E08000021,Economically active: In employment,125075
+2021,North Tyneside,E08000022,Economically active: In employment,97266
+2021,South Tyneside,E08000023,Economically active: In employment,62508
+2021,Sunderland,E08000024,Economically active: In employment,117154
+2021,Birmingham,E08000025,Economically active: In employment,442417
+2021,Coventry,E08000026,Economically active: In employment,150141
+2021,Dudley,E08000027,Economically active: In employment,144640
+2021,Sandwell,E08000028,Economically active: In employment,141070
+2021,Solihull,E08000029,Economically active: In employment,97939
+2021,Walsall,E08000030,Economically active: In employment,118530
+2021,Wolverhampton,E08000031,Economically active: In employment,111311
+2021,Bradford,E08000032,Economically active: In employment,221136
+2021,Calderdale,E08000033,Economically active: In employment,93382
+2021,Kirklees,E08000034,Economically active: In employment,190084
+2021,Leeds,E08000035,Economically active: In employment,374063
+2021,Wakefield,E08000036,Economically active: In employment,164641
+2021,Gateshead,E08000037,Economically active: In employment,87519
+2021,City of London,E09000001,Economically active: In employment,5351
+2021,Barking and Dagenham,E09000002,Economically active: In employment,94591
+2021,Barnet,E09000003,Economically active: In employment,186176
+2021,Bexley,E09000004,Economically active: In employment,117983
+2021,Brent,E09000005,Economically active: In employment,160998
+2021,Bromley,E09000006,Economically active: In employment,162122
+2021,Camden,E09000007,Economically active: In employment,102511
+2021,Croydon,E09000008,Economically active: In employment,189405
+2021,Ealing,E09000009,Economically active: In employment,175026
+2021,Enfield,E09000010,Economically active: In employment,143864
+2021,Greenwich,E09000011,Economically active: In employment,142935
+2021,Hackney,E09000012,Economically active: In employment,134308
+2021,Hammersmith and Fulham,E09000013,Economically active: In employment,98098
+2021,Haringey,E09000014,Economically active: In employment,134381
+2021,Harrow,E09000015,Economically active: In employment,125039
+2021,Havering,E09000016,Economically active: In employment,124781
+2021,Hillingdon,E09000017,Economically active: In employment,142806
+2021,Hounslow,E09000018,Economically active: In employment,138794
+2021,Islington,E09000019,Economically active: In employment,114971
+2021,Kensington and Chelsea,E09000020,Economically active: In employment,69440
+2021,Kingston upon Thames,E09000021,Economically active: In employment,84148
+2021,Lambeth,E09000022,Economically active: In employment,182817
+2021,Lewisham,E09000023,Economically active: In employment,155716
+2021,Merton,E09000024,Economically active: In employment,112065
+2021,Newham,E09000025,Economically active: In employment,163445
+2021,Redbridge,E09000026,Economically active: In employment,141630
+2021,Richmond upon Thames,E09000027,Economically active: In employment,97566
+2021,Southwark,E09000028,Economically active: In employment,166951
+2021,Sutton,E09000029,Economically active: In employment,104226
+2021,Tower Hamlets,E09000030,Economically active: In employment,155390
+2021,Waltham Forest,E09000031,Economically active: In employment,140374
+2021,Wandsworth,E09000032,Economically active: In employment,190441
+2021,Westminster,E09000033,Economically active: In employment,101745
+2021,Isle of Anglesey,W06000001,Economically active: In employment,29203
+2021,Gwynedd,W06000002,Economically active: In employment,51817
+2021,Conwy,W06000003,Economically active: In employment,48719
+2021,Denbighshire,W06000004,Economically active: In employment,40846
+2021,Flintshire,W06000005,Economically active: In employment,73820
+2021,Wrexham,W06000006,Economically active: In employment,61805
+2021,Ceredigion,W06000008,Economically active: In employment,30119
+2021,Pembrokeshire,W06000009,Economically active: In employment,52765
+2021,Carmarthenshire,W06000010,Economically active: In employment,81952
+2021,Swansea,W06000011,Economically active: In employment,100613
+2021,Neath Port Talbot,W06000012,Economically active: In employment,59191
+2021,Bridgend,W06000013,Economically active: In employment,63984
+2021,Vale of Glamorgan,W06000014,Economically active: In employment,59915
+2021,Cardiff,W06000015,Economically active: In employment,160440
+2021,Rhondda Cynon Taff,W06000016,Economically active: In employment,103389
+2021,Caerphilly,W06000018,Economically active: In employment,77439
+2021,Blaenau Gwent,W06000019,Economically active: In employment,28796
+2021,Torfaen,W06000020,Economically active: In employment,40654
+2021,Monmouthshire,W06000021,Economically active: In employment,42829
+2021,Newport,W06000022,Economically active: In employment,72787
+2021,Powys,W06000023,Economically active: In employment,61726
+2021,Merthyr Tydfil,W06000024,Economically active: In employment,25634
+2021,Hartlepool,E06000001,Economically active: Unemployed,3002
+2021,Middlesbrough,E06000002,Economically active: Unemployed,5815
+2021,Redcar and Cleveland,E06000003,Economically active: Unemployed,4004
+2021,Stockton-on-Tees,E06000004,Economically active: Unemployed,5900
+2021,Darlington,E06000005,Economically active: Unemployed,3033
+2021,Halton,E06000006,Economically active: Unemployed,3341
+2021,Warrington,E06000007,Economically active: Unemployed,4780
+2021,Blackburn with Darwen,E06000008,Economically active: Unemployed,4553
+2021,Blackpool,E06000009,Economically active: Unemployed,4990
+2021,"Kingston upon Hull, City of",E06000010,Economically active: Unemployed,10367
+2021,East Riding of Yorkshire,E06000011,Economically active: Unemployed,6678
+2021,North East Lincolnshire,E06000012,Economically active: Unemployed,4191
+2021,North Lincolnshire,E06000013,Economically active: Unemployed,4225
+2021,York,E06000014,Economically active: Unemployed,5035
+2021,Derby,E06000015,Economically active: Unemployed,8145
+2021,Leicester,E06000016,Economically active: Unemployed,14640
+2021,Rutland,E06000017,Economically active: Unemployed,642
+2021,Nottingham,E06000018,Economically active: Unemployed,14069
+2021,"Herefordshire, County of",E06000019,Economically active: Unemployed,3653
+2021,Telford and Wrekin,E06000020,Economically active: Unemployed,4885
+2021,Stoke-on-Trent,E06000021,Economically active: Unemployed,7392
+2021,Bath and North East Somerset,E06000022,Economically active: Unemployed,4642
+2021,"Bristol, City of",E06000023,Economically active: Unemployed,14142
+2021,North Somerset,E06000024,Economically active: Unemployed,3937
+2021,South Gloucestershire,E06000025,Economically active: Unemployed,5854
+2021,Plymouth,E06000026,Economically active: Unemployed,7126
+2021,Torbay,E06000027,Economically active: Unemployed,3444
+2021,Swindon,E06000030,Economically active: Unemployed,6036
+2021,Peterborough,E06000031,Economically active: Unemployed,6133
+2021,Luton,E06000032,Economically active: Unemployed,9128
+2021,Southend-on-Sea,E06000033,Economically active: Unemployed,5377
+2021,Thurrock,E06000034,Economically active: Unemployed,5165
+2021,Medway,E06000035,Economically active: Unemployed,7967
+2021,Bracknell Forest,E06000036,Economically active: Unemployed,3003
+2021,West Berkshire,E06000037,Economically active: Unemployed,3202
+2021,Reading,E06000038,Economically active: Unemployed,5829
+2021,Slough,E06000039,Economically active: Unemployed,6020
+2021,Windsor and Maidenhead,E06000040,Economically active: Unemployed,3794
+2021,Wokingham,E06000041,Economically active: Unemployed,3776
+2021,Milton Keynes,E06000042,Economically active: Unemployed,8305
+2021,Brighton and Hove,E06000043,Economically active: Unemployed,10836
+2021,Portsmouth,E06000044,Economically active: Unemployed,7591
+2021,Southampton,E06000045,Economically active: Unemployed,8356
+2021,Isle of Wight,E06000046,Economically active: Unemployed,3490
+2021,County Durham,E06000047,Economically active: Unemployed,13269
+2021,Cheshire East,E06000049,Economically active: Unemployed,7802
+2021,Cheshire West and Chester,E06000050,Economically active: Unemployed,8140
+2021,Shropshire,E06000051,Economically active: Unemployed,6488
+2021,Cornwall,E06000052,Economically active: Unemployed,12375
+2021,Isles of Scilly,E06000053,Economically active: Unemployed,15
+2021,Wiltshire,E06000054,Economically active: Unemployed,9730
+2021,Bedford,E06000055,Economically active: Unemployed,4946
+2021,Central Bedfordshire,E06000056,Economically active: Unemployed,6215
+2021,Northumberland,E06000057,Economically active: Unemployed,7822
+2021,"Bournemouth, Christchurch and Poole",E06000058,Economically active: Unemployed,11185
+2021,Dorset,E06000059,Economically active: Unemployed,6904
+2021,Buckinghamshire,E06000060,Economically active: Unemployed,12252
+2021,North Northamptonshire,E06000061,Economically active: Unemployed,7804
+2021,West Northamptonshire,E06000062,Economically active: Unemployed,10385
+2021,Cambridge,E07000008,Economically active: Unemployed,3615
+2021,East Cambridgeshire,E07000009,Economically active: Unemployed,1520
+2021,Fenland,E07000010,Economically active: Unemployed,2283
+2021,Huntingdonshire,E07000011,Economically active: Unemployed,3459
+2021,South Cambridgeshire,E07000012,Economically active: Unemployed,2782
+2021,Allerdale,E07000026,Economically active: Unemployed,1780
+2021,Barrow-in-Furness,E07000027,Economically active: Unemployed,1509
+2021,Carlisle,E07000028,Economically active: Unemployed,2322
+2021,Copeland,E07000029,Economically active: Unemployed,1375
+2021,Eden,E07000030,Economically active: Unemployed,848
+2021,South Lakeland,E07000031,Economically active: Unemployed,1499
+2021,Amber Valley,E07000032,Economically active: Unemployed,2454
+2021,Bolsover,E07000033,Economically active: Unemployed,1553
+2021,Chesterfield,E07000034,Economically active: Unemployed,2351
+2021,Derbyshire Dales,E07000035,Economically active: Unemployed,1144
+2021,Erewash,E07000036,Economically active: Unemployed,2512
+2021,High Peak,E07000037,Economically active: Unemployed,1865
+2021,North East Derbyshire,E07000038,Economically active: Unemployed,1907
+2021,South Derbyshire,E07000039,Economically active: Unemployed,2000
+2021,East Devon,E07000040,Economically active: Unemployed,2462
+2021,Exeter,E07000041,Economically active: Unemployed,3555
+2021,Mid Devon,E07000042,Economically active: Unemployed,1375
+2021,North Devon,E07000043,Economically active: Unemployed,1972
+2021,South Hams,E07000044,Economically active: Unemployed,1428
+2021,Teignbridge,E07000045,Economically active: Unemployed,2399
+2021,Torridge,E07000046,Economically active: Unemployed,1364
+2021,West Devon,E07000047,Economically active: Unemployed,933
+2021,Eastbourne,E07000061,Economically active: Unemployed,2926
+2021,Hastings,E07000062,Economically active: Unemployed,2875
+2021,Lewes,E07000063,Economically active: Unemployed,2294
+2021,Rother,E07000064,Economically active: Unemployed,1980
+2021,Wealden,E07000065,Economically active: Unemployed,2961
+2021,Basildon,E07000066,Economically active: Unemployed,4961
+2021,Braintree,E07000067,Economically active: Unemployed,3552
+2021,Brentwood,E07000068,Economically active: Unemployed,1606
+2021,Castle Point,E07000069,Economically active: Unemployed,1902
+2021,Chelmsford,E07000070,Economically active: Unemployed,3983
+2021,Colchester,E07000071,Economically active: Unemployed,5480
+2021,Epping Forest,E07000072,Economically active: Unemployed,3434
+2021,Harlow,E07000073,Economically active: Unemployed,2845
+2021,Maldon,E07000074,Economically active: Unemployed,1327
+2021,Rochford,E07000075,Economically active: Unemployed,1824
+2021,Tendring,E07000076,Economically active: Unemployed,3852
+2021,Uttlesford,E07000077,Economically active: Unemployed,1730
+2021,Cheltenham,E07000078,Economically active: Unemployed,2716
+2021,Cotswold,E07000079,Economically active: Unemployed,1573
+2021,Forest of Dean,E07000080,Economically active: Unemployed,1788
+2021,Gloucester,E07000081,Economically active: Unemployed,3335
+2021,Stroud,E07000082,Economically active: Unemployed,2119
+2021,Tewkesbury,E07000083,Economically active: Unemployed,1702
+2021,Basingstoke and Deane,E07000084,Economically active: Unemployed,4135
+2021,East Hampshire,E07000085,Economically active: Unemployed,2383
+2021,Eastleigh,E07000086,Economically active: Unemployed,2698
+2021,Fareham,E07000087,Economically active: Unemployed,2064
+2021,Gosport,E07000088,Economically active: Unemployed,2082
+2021,Hart,E07000089,Economically active: Unemployed,1967
+2021,Havant,E07000090,Economically active: Unemployed,2981
+2021,New Forest,E07000091,Economically active: Unemployed,3077
+2021,Rushmoor,E07000092,Economically active: Unemployed,2531
+2021,Test Valley,E07000093,Economically active: Unemployed,2309
+2021,Winchester,E07000094,Economically active: Unemployed,2716
+2021,Broxbourne,E07000095,Economically active: Unemployed,2663
+2021,Dacorum,E07000096,Economically active: Unemployed,3592
+2021,Hertsmere,E07000098,Economically active: Unemployed,2759
+2021,North Hertfordshire,E07000099,Economically active: Unemployed,2849
+2021,Three Rivers,E07000102,Economically active: Unemployed,2146
+2021,Watford,E07000103,Economically active: Unemployed,3082
+2021,Ashford,E07000105,Economically active: Unemployed,3064
+2021,Canterbury,E07000106,Economically active: Unemployed,5235
+2021,Dartford,E07000107,Economically active: Unemployed,3004
+2021,Dover,E07000108,Economically active: Unemployed,3053
+2021,Gravesham,E07000109,Economically active: Unemployed,3251
+2021,Maidstone,E07000110,Economically active: Unemployed,3854
+2021,Sevenoaks,E07000111,Economically active: Unemployed,2344
+2021,Folkestone and Hythe,E07000112,Economically active: Unemployed,2946
+2021,Swale,E07000113,Economically active: Unemployed,3916
+2021,Thanet,E07000114,Economically active: Unemployed,4148
+2021,Tonbridge and Malling,E07000115,Economically active: Unemployed,2565
+2021,Tunbridge Wells,E07000116,Economically active: Unemployed,2386
+2021,Burnley,E07000117,Economically active: Unemployed,2700
+2021,Chorley,E07000118,Economically active: Unemployed,2266
+2021,Fylde,E07000119,Economically active: Unemployed,1621
+2021,Hyndburn,E07000120,Economically active: Unemployed,2216
+2021,Lancaster,E07000121,Economically active: Unemployed,3381
+2021,Pendle,E07000122,Economically active: Unemployed,2387
+2021,Preston,E07000123,Economically active: Unemployed,4557
+2021,Ribble Valley,E07000124,Economically active: Unemployed,866
+2021,Rossendale,E07000125,Economically active: Unemployed,1562
+2021,South Ribble,E07000126,Economically active: Unemployed,2045
+2021,West Lancashire,E07000127,Economically active: Unemployed,2976
+2021,Wyre,E07000128,Economically active: Unemployed,2472
+2021,Blaby,E07000129,Economically active: Unemployed,2065
+2021,Charnwood,E07000130,Economically active: Unemployed,4370
+2021,Harborough,E07000131,Economically active: Unemployed,1545
+2021,Hinckley and Bosworth,E07000132,Economically active: Unemployed,2059
+2021,Melton,E07000133,Economically active: Unemployed,901
+2021,North West Leicestershire,E07000134,Economically active: Unemployed,2040
+2021,Oadby and Wigston,E07000135,Economically active: Unemployed,1452
+2021,Boston,E07000136,Economically active: Unemployed,1629
+2021,East Lindsey,E07000137,Economically active: Unemployed,3509
+2021,Lincoln,E07000138,Economically active: Unemployed,3875
+2021,North Kesteven,E07000139,Economically active: Unemployed,2084
+2021,South Holland,E07000140,Economically active: Unemployed,1975
+2021,South Kesteven,E07000141,Economically active: Unemployed,2990
+2021,West Lindsey,E07000142,Economically active: Unemployed,2021
+2021,Breckland,E07000143,Economically active: Unemployed,2802
+2021,Broadland,E07000144,Economically active: Unemployed,2238
+2021,Great Yarmouth,E07000145,Economically active: Unemployed,3336
+2021,King's Lynn and West Norfolk,E07000146,Economically active: Unemployed,3179
+2021,North Norfolk,E07000147,Economically active: Unemployed,1959
+2021,Norwich,E07000148,Economically active: Unemployed,5335
+2021,South Norfolk,E07000149,Economically active: Unemployed,2341
+2021,Craven,E07000163,Economically active: Unemployed,812
+2021,Hambleton,E07000164,Economically active: Unemployed,1332
+2021,Harrogate,E07000165,Economically active: Unemployed,2600
+2021,Richmondshire,E07000166,Economically active: Unemployed,851
+2021,Ryedale,E07000167,Economically active: Unemployed,811
+2021,Scarborough,E07000168,Economically active: Unemployed,2425
+2021,Selby,E07000169,Economically active: Unemployed,1711
+2021,Ashfield,E07000170,Economically active: Unemployed,3104
+2021,Bassetlaw,E07000171,Economically active: Unemployed,2362
+2021,Broxtowe,E07000172,Economically active: Unemployed,2500
+2021,Gedling,E07000173,Economically active: Unemployed,2503
+2021,Mansfield,E07000174,Economically active: Unemployed,2515
+2021,Newark and Sherwood,E07000175,Economically active: Unemployed,2448
+2021,Rushcliffe,E07000176,Economically active: Unemployed,2138
+2021,Cherwell,E07000177,Economically active: Unemployed,3227
+2021,Oxford,E07000178,Economically active: Unemployed,4343
+2021,South Oxfordshire,E07000179,Economically active: Unemployed,2660
+2021,Vale of White Horse,E07000180,Economically active: Unemployed,2417
+2021,West Oxfordshire,E07000181,Economically active: Unemployed,1883
+2021,Mendip,E07000187,Economically active: Unemployed,2189
+2021,Sedgemoor,E07000188,Economically active: Unemployed,2531
+2021,South Somerset,E07000189,Economically active: Unemployed,3137
+2021,Cannock Chase,E07000192,Economically active: Unemployed,2501
+2021,East Staffordshire,E07000193,Economically active: Unemployed,2857
+2021,Lichfield,E07000194,Economically active: Unemployed,2166
+2021,Newcastle-under-Lyme,E07000195,Economically active: Unemployed,2960
+2021,South Staffordshire,E07000196,Economically active: Unemployed,2267
+2021,Stafford,E07000197,Economically active: Unemployed,2620
+2021,Staffordshire Moorlands,E07000198,Economically active: Unemployed,1613
+2021,Tamworth,E07000199,Economically active: Unemployed,2068
+2021,Babergh,E07000200,Economically active: Unemployed,1868
+2021,Ipswich,E07000202,Economically active: Unemployed,4090
+2021,Mid Suffolk,E07000203,Economically active: Unemployed,1735
+2021,Elmbridge,E07000207,Economically active: Unemployed,3020
+2021,Epsom and Ewell,E07000208,Economically active: Unemployed,1807
+2021,Guildford,E07000209,Economically active: Unemployed,3655
+2021,Mole Valley,E07000210,Economically active: Unemployed,1686
+2021,Reigate and Banstead,E07000211,Economically active: Unemployed,3347
+2021,Runnymede,E07000212,Economically active: Unemployed,2647
+2021,Spelthorne,E07000213,Economically active: Unemployed,3015
+2021,Surrey Heath,E07000214,Economically active: Unemployed,2083
+2021,Tandridge,E07000215,Economically active: Unemployed,1876
+2021,Waverley,E07000216,Economically active: Unemployed,2396
+2021,Woking,E07000217,Economically active: Unemployed,2494
+2021,North Warwickshire,E07000218,Economically active: Unemployed,1456
+2021,Nuneaton and Bedworth,E07000219,Economically active: Unemployed,3475
+2021,Rugby,E07000220,Economically active: Unemployed,2280
+2021,Stratford-on-Avon,E07000221,Economically active: Unemployed,2276
+2021,Warwick,E07000222,Economically active: Unemployed,3451
+2021,Adur,E07000223,Economically active: Unemployed,1446
+2021,Arun,E07000224,Economically active: Unemployed,3642
+2021,Chichester,E07000225,Economically active: Unemployed,2716
+2021,Crawley,E07000226,Economically active: Unemployed,4649
+2021,Horsham,E07000227,Economically active: Unemployed,2910
+2021,Mid Sussex,E07000228,Economically active: Unemployed,2937
+2021,Worthing,E07000229,Economically active: Unemployed,2745
+2021,Bromsgrove,E07000234,Economically active: Unemployed,1990
+2021,Malvern Hills,E07000235,Economically active: Unemployed,1552
+2021,Redditch,E07000236,Economically active: Unemployed,2157
+2021,Worcester,E07000237,Economically active: Unemployed,2974
+2021,Wychavon,E07000238,Economically active: Unemployed,2403
+2021,Wyre Forest,E07000239,Economically active: Unemployed,2448
+2021,St Albans,E07000240,Economically active: Unemployed,2984
+2021,Welwyn Hatfield,E07000241,Economically active: Unemployed,3801
+2021,East Hertfordshire,E07000242,Economically active: Unemployed,3069
+2021,Stevenage,E07000243,Economically active: Unemployed,2354
+2021,East Suffolk,E07000244,Economically active: Unemployed,5440
+2021,West Suffolk,E07000245,Economically active: Unemployed,3581
+2021,Somerset West and Taunton,E07000246,Economically active: Unemployed,2920
+2021,Bolton,E08000001,Economically active: Unemployed,9103
+2021,Bury,E08000002,Economically active: Unemployed,4980
+2021,Manchester,E08000003,Economically active: Unemployed,25004
+2021,Oldham,E08000004,Economically active: Unemployed,7760
+2021,Rochdale,E08000005,Economically active: Unemployed,6610
+2021,Salford,E08000006,Economically active: Unemployed,10175
+2021,Stockport,E08000007,Economically active: Unemployed,6738
+2021,Tameside,E08000008,Economically active: Unemployed,6424
+2021,Trafford,E08000009,Economically active: Unemployed,5560
+2021,Wigan,E08000010,Economically active: Unemployed,8282
+2021,Knowsley,E08000011,Economically active: Unemployed,4391
+2021,Liverpool,E08000012,Economically active: Unemployed,19206
+2021,St. Helens,E08000013,Economically active: Unemployed,4706
+2021,Sefton,E08000014,Economically active: Unemployed,7062
+2021,Wirral,E08000015,Economically active: Unemployed,7520
+2021,Barnsley,E08000016,Economically active: Unemployed,5840
+2021,Doncaster,E08000017,Economically active: Unemployed,8405
+2021,Rotherham,E08000018,Economically active: Unemployed,6853
+2021,Sheffield,E08000019,Economically active: Unemployed,18051
+2021,Newcastle upon Tyne,E08000021,Economically active: Unemployed,11817
+2021,North Tyneside,E08000022,Economically active: Unemployed,5602
+2021,South Tyneside,E08000023,Economically active: Unemployed,5286
+2021,Sunderland,E08000024,Economically active: Unemployed,8794
+2021,Birmingham,E08000025,Economically active: Unemployed,52307
+2021,Coventry,E08000026,Economically active: Unemployed,13545
+2021,Dudley,E08000027,Economically active: Unemployed,9862
+2021,Sandwell,E08000028,Economically active: Unemployed,14124
+2021,Solihull,E08000029,Economically active: Unemployed,5521
+2021,Walsall,E08000030,Economically active: Unemployed,9962
+2021,Wolverhampton,E08000031,Economically active: Unemployed,11679
+2021,Bradford,E08000032,Economically active: Unemployed,18143
+2021,Calderdale,E08000033,Economically active: Unemployed,5373
+2021,Kirklees,E08000034,Economically active: Unemployed,12106
+2021,Leeds,E08000035,Economically active: Unemployed,27056
+2021,Wakefield,E08000036,Economically active: Unemployed,8511
+2021,Gateshead,E08000037,Economically active: Unemployed,5996
+2021,City of London,E09000001,Economically active: Unemployed,327
+2021,Barking and Dagenham,E09000002,Economically active: Unemployed,9076
+2021,Barnet,E09000003,Economically active: Unemployed,13585
+2021,Bexley,E09000004,Economically active: Unemployed,7363
+2021,Brent,E09000005,Economically active: Unemployed,14984
+2021,Bromley,E09000006,Economically active: Unemployed,8968
+2021,Camden,E09000007,Economically active: Unemployed,9013
+2021,Croydon,E09000008,Economically active: Unemployed,14731
+2021,Ealing,E09000009,Economically active: Unemployed,15265
+2021,Enfield,E09000010,Economically active: Unemployed,12151
+2021,Greenwich,E09000011,Economically active: Unemployed,12267
+2021,Hackney,E09000012,Economically active: Unemployed,11459
+2021,Hammersmith and Fulham,E09000013,Economically active: Unemployed,7674
+2021,Haringey,E09000014,Economically active: Unemployed,11947
+2021,Harrow,E09000015,Economically active: Unemployed,8503
+2021,Havering,E09000016,Economically active: Unemployed,7651
+2021,Hillingdon,E09000017,Economically active: Unemployed,11632
+2021,Hounslow,E09000018,Economically active: Unemployed,11810
+2021,Islington,E09000019,Economically active: Unemployed,9943
+2021,Kensington and Chelsea,E09000020,Economically active: Unemployed,5632
+2021,Kingston upon Thames,E09000021,Economically active: Unemployed,5237
+2021,Lambeth,E09000022,Economically active: Unemployed,14324
+2021,Lewisham,E09000023,Economically active: Unemployed,13863
+2021,Merton,E09000024,Economically active: Unemployed,6835
+2021,Newham,E09000025,Economically active: Unemployed,17294
+2021,Redbridge,E09000026,Economically active: Unemployed,10836
+2021,Richmond upon Thames,E09000027,Economically active: Unemployed,5255
+2021,Southwark,E09000028,Economically active: Unemployed,14267
+2021,Sutton,E09000029,Economically active: Unemployed,5584
+2021,Tower Hamlets,E09000030,Economically active: Unemployed,15146
+2021,Waltham Forest,E09000031,Economically active: Unemployed,11461
+2021,Wandsworth,E09000032,Economically active: Unemployed,10987
+2021,Westminster,E09000033,Economically active: Unemployed,8543
+2021,Isle of Anglesey,W06000001,Economically active: Unemployed,1662
+2021,Gwynedd,W06000002,Economically active: Unemployed,3156
+2021,Conwy,W06000003,Economically active: Unemployed,2868
+2021,Denbighshire,W06000004,Economically active: Unemployed,2190
+2021,Flintshire,W06000005,Economically active: Unemployed,3533
+2021,Wrexham,W06000006,Economically active: Unemployed,3244
+2021,Ceredigion,W06000008,Economically active: Unemployed,1845
+2021,Pembrokeshire,W06000009,Economically active: Unemployed,2769
+2021,Carmarthenshire,W06000010,Economically active: Unemployed,3922
+2021,Swansea,W06000011,Economically active: Unemployed,6762
+2021,Neath Port Talbot,W06000012,Economically active: Unemployed,3250
+2021,Bridgend,W06000013,Economically active: Unemployed,3495
+2021,Vale of Glamorgan,W06000014,Economically active: Unemployed,3044
+2021,Cardiff,W06000015,Economically active: Unemployed,12294
+2021,Rhondda Cynon Taff,W06000016,Economically active: Unemployed,6217
+2021,Caerphilly,W06000018,Economically active: Unemployed,4390
+2021,Blaenau Gwent,W06000019,Economically active: Unemployed,1855
+2021,Torfaen,W06000020,Economically active: Unemployed,2287
+2021,Monmouthshire,W06000021,Economically active: Unemployed,1729
+2021,Newport,W06000022,Economically active: Unemployed,4510
+2021,Powys,W06000023,Economically active: Unemployed,2326
+2021,Merthyr Tydfil,W06000024,Economically active: Unemployed,1549
+2021,Hartlepool,E06000001,Economically inactive,33934
+2021,Middlesbrough,E06000002,Economically inactive,51691
+2021,Redcar and Cleveland,E06000003,Economically inactive,52716
+2021,Stockton-on-Tees,E06000004,Economically inactive,65666
+2021,Darlington,E06000005,Economically inactive,35774
+2021,Halton,E06000006,Economically inactive,41901
+2021,Warrington,E06000007,Economically inactive,64747
+2021,Blackburn with Darwen,E06000008,Economically inactive,51398
+2021,Blackpool,E06000009,Economically inactive,51987
+2021,"Kingston upon Hull, City of",E06000010,Economically inactive,85720
+2021,East Riding of Yorkshire,E06000011,Economically inactive,125344
+2021,North East Lincolnshire,E06000012,Economically inactive,54480
+2021,North Lincolnshire,E06000013,Economically inactive,59019
+2021,York,E06000014,Economically inactive,70850
+2021,Derby,E06000015,Economically inactive,84846
+2021,Leicester,E06000016,Economically inactive,121440
+2021,Rutland,E06000017,Economically inactive,14872
+2021,Nottingham,E06000018,Economically inactive,121386
+2021,"Herefordshire, County of",E06000019,Economically inactive,64969
+2021,Telford and Wrekin,E06000020,Economically inactive,58290
+2021,Stoke-on-Trent,E06000021,Economically inactive,85927
+2021,Bath and North East Somerset,E06000022,Economically inactive,67164
+2021,"Bristol, City of",E06000023,Economically inactive,137056
+2021,North Somerset,E06000024,Economically inactive,71928
+2021,South Gloucestershire,E06000025,Economically inactive,83900
+2021,Plymouth,E06000026,Economically inactive,90480
+2021,Torbay,E06000027,Economically inactive,54651
+2021,Swindon,E06000030,Economically inactive,63249
+2021,Peterborough,E06000031,Economically inactive,60472
+2021,Luton,E06000032,Economically inactive,64849
+2021,Southend-on-Sea,E06000033,Economically inactive,57774
+2021,Thurrock,E06000034,Economically inactive,45251
+2021,Medway,E06000035,Economically inactive,82184
+2021,Bracknell Forest,E06000036,Economically inactive,30534
+2021,West Berkshire,E06000037,Economically inactive,45227
+2021,Reading,E06000038,Economically inactive,46664
+2021,Slough,E06000039,Economically inactive,39214
+2021,Windsor and Maidenhead,E06000040,Economically inactive,43580
+2021,Wokingham,E06000041,Economically inactive,47578
+2021,Milton Keynes,E06000042,Economically inactive,73151
+2021,Brighton and Hove,E06000043,Economically inactive,85240
+2021,Portsmouth,E06000044,Economically inactive,65442
+2021,Southampton,E06000045,Economically inactive,77785
+2021,Isle of Wight,E06000046,Economically inactive,58185
+2021,County Durham,E06000047,Economically inactive,198474
+2021,Cheshire East,E06000049,Economically inactive,129185
+2021,Cheshire West and Chester,E06000050,Economically inactive,118130
+2021,Shropshire,E06000051,Economically inactive,113335
+2021,Cornwall,E06000052,Economically inactive,210803
+2021,Isles of Scilly,E06000053,Economically inactive,601
+2021,Wiltshire,E06000054,Economically inactive,157039
+2021,Bedford,E06000055,Economically inactive,52307
+2021,Central Bedfordshire,E06000056,Economically inactive,79468
+2021,Northumberland,E06000057,Economically inactive,120248
+2021,"Bournemouth, Christchurch and Poole",E06000058,Economically inactive,137693
+2021,Dorset,E06000059,Economically inactive,147219
+2021,Buckinghamshire,E06000060,Economically inactive,157907
+2021,North Northamptonshire,E06000061,Economically inactive,102526
+2021,West Northamptonshire,E06000062,Economically inactive,117122
+2021,Cambridge,E07000008,Economically inactive,50552
+2021,East Cambridgeshire,E07000009,Economically inactive,25214
+2021,Fenland,E07000010,Economically inactive,35443
+2021,Huntingdonshire,E07000011,Economically inactive,53411
+2021,South Cambridgeshire,E07000012,Economically inactive,45312
+2021,Allerdale,E07000026,Economically inactive,34495
+2021,Barrow-in-Furness,E07000027,Economically inactive,23142
+2021,Carlisle,E07000028,Economically inactive,36071
+2021,Copeland,E07000029,Economically inactive,24063
+2021,Eden,E07000030,Economically inactive,18452
+2021,South Lakeland,E07000031,Economically inactive,38067
+2021,Amber Valley,E07000032,Economically inactive,42441
+2021,Bolsover,E07000033,Economically inactive,26625
+2021,Chesterfield,E07000034,Economically inactive,36121
+2021,Derbyshire Dales,E07000035,Economically inactive,26688
+2021,Erewash,E07000036,Economically inactive,36048
+2021,High Peak,E07000037,Economically inactive,29181
+2021,North East Derbyshire,E07000038,Economically inactive,36804
+2021,South Derbyshire,E07000039,Economically inactive,31049
+2021,East Devon,E07000040,Economically inactive,58199
+2021,Exeter,E07000041,Economically inactive,48075
+2021,Mid Devon,E07000042,Economically inactive,26549
+2021,North Devon,E07000043,Economically inactive,35056
+2021,South Hams,E07000044,Economically inactive,32955
+2021,Teignbridge,E07000045,Economically inactive,48925
+2021,Torridge,E07000046,Economically inactive,26142
+2021,West Devon,E07000047,Economically inactive,22045
+2021,Eastbourne,E07000061,Economically inactive,37816
+2021,Hastings,E07000062,Economically inactive,30930
+2021,Lewes,E07000063,Economically inactive,36421
+2021,Rother,E07000064,Economically inactive,39575
+2021,Wealden,E07000065,Economically inactive,56144
+2021,Basildon,E07000066,Economically inactive,54691
+2021,Braintree,E07000067,Economically inactive,46733
+2021,Brentwood,E07000068,Economically inactive,23360
+2021,Castle Point,E07000069,Economically inactive,31501
+2021,Chelmsford,E07000070,Economically inactive,53893
+2021,Colchester,E07000071,Economically inactive,58847
+2021,Epping Forest,E07000072,Economically inactive,40702
+2021,Harlow,E07000073,Economically inactive,24276
+2021,Maldon,E07000074,Economically inactive,22845
+2021,Rochford,E07000075,Economically inactive,28228
+2021,Tendring,E07000076,Economically inactive,62758
+2021,Uttlesford,E07000077,Economically inactive,26049
+2021,Cheltenham,E07000078,Economically inactive,36563
+2021,Cotswold,E07000079,Economically inactive,30663
+2021,Forest of Dean,E07000080,Economically inactive,31269
+2021,Gloucester,E07000081,Economically inactive,37983
+2021,Stroud,E07000082,Economically inactive,38159
+2021,Tewkesbury,E07000083,Economically inactive,29127
+2021,Basingstoke and Deane,E07000084,Economically inactive,48699
+2021,East Hampshire,E07000085,Economically inactive,39714
+2021,Eastleigh,E07000086,Economically inactive,38118
+2021,Fareham,E07000087,Economically inactive,37943
+2021,Gosport,E07000088,Economically inactive,26645
+2021,Hart,E07000089,Economically inactive,27915
+2021,Havant,E07000090,Economically inactive,43516
+2021,New Forest,E07000091,Economically inactive,66965
+2021,Rushmoor,E07000092,Economically inactive,25324
+2021,Test Valley,E07000093,Economically inactive,38582
+2021,Winchester,E07000094,Economically inactive,41461
+2021,Broxbourne,E07000095,Economically inactive,28468
+2021,Dacorum,E07000096,Economically inactive,42992
+2021,Hertsmere,E07000098,Economically inactive,30667
+2021,North Hertfordshire,E07000099,Economically inactive,37732
+2021,Three Rivers,E07000102,Economically inactive,25909
+2021,Watford,E07000103,Economically inactive,25022
+2021,Ashford,E07000105,Economically inactive,40090
+2021,Canterbury,E07000106,Economically inactive,61374
+2021,Dartford,E07000107,Economically inactive,28871
+2021,Dover,E07000108,Economically inactive,42153
+2021,Gravesham,E07000109,Economically inactive,31544
+2021,Maidstone,E07000110,Economically inactive,51873
+2021,Sevenoaks,E07000111,Economically inactive,37875
+2021,Folkestone and Hythe,E07000112,Economically inactive,40790
+2021,Swale,E07000113,Economically inactive,48881
+2021,Thanet,E07000114,Economically inactive,52076
+2021,Tonbridge and Malling,E07000115,Economically inactive,38535
+2021,Tunbridge Wells,E07000116,Economically inactive,34118
+2021,Burnley,E07000117,Economically inactive,32465
+2021,Chorley,E07000118,Economically inactive,36860
+2021,Fylde,E07000119,Economically inactive,31912
+2021,Hyndburn,E07000120,Economically inactive,27788
+2021,Lancaster,E07000121,Economically inactive,53858
+2021,Pendle,E07000122,Economically inactive,33212
+2021,Preston,E07000123,Economically inactive,47479
+2021,Ribble Valley,E07000124,Economically inactive,20214
+2021,Rossendale,E07000125,Economically inactive,22621
+2021,South Ribble,E07000126,Economically inactive,34744
+2021,West Lancashire,E07000127,Economically inactive,41811
+2021,Wyre,E07000128,Economically inactive,44045
+2021,Blaby,E07000129,Economically inactive,30155
+2021,Charnwood,E07000130,Economically inactive,63931
+2021,Harborough,E07000131,Economically inactive,30112
+2021,Hinckley and Bosworth,E07000132,Economically inactive,35972
+2021,Melton,E07000133,Economically inactive,16579
+2021,North West Leicestershire,E07000134,Economically inactive,32164
+2021,Oadby and Wigston,E07000135,Economically inactive,19769
+2021,Boston,E07000136,Economically inactive,22324
+2021,East Lindsey,E07000137,Economically inactive,62332
+2021,Lincoln,E07000138,Economically inactive,36474
+2021,North Kesteven,E07000139,Economically inactive,39039
+2021,South Holland,E07000140,Economically inactive,31789
+2021,South Kesteven,E07000141,Economically inactive,46826
+2021,West Lindsey,E07000142,Economically inactive,34961
+2021,Breckland,E07000143,Economically inactive,49415
+2021,Broadland,E07000144,Economically inactive,45678
+2021,Great Yarmouth,E07000145,Economically inactive,38244
+2021,King's Lynn and West Norfolk,E07000146,Economically inactive,56489
+2021,North Norfolk,E07000147,Economically inactive,45527
+2021,Norwich,E07000148,Economically inactive,49708
+2021,South Norfolk,E07000149,Economically inactive,47129
+2021,Craven,E07000163,Economically inactive,20340
+2021,Hambleton,E07000164,Economically inactive,32248
+2021,Harrogate,E07000165,Economically inactive,53020
+2021,Richmondshire,E07000166,Economically inactive,16210
+2021,Ryedale,E07000167,Economically inactive,19553
+2021,Scarborough,E07000168,Economically inactive,43135
+2021,Selby,E07000169,Economically inactive,27598
+2021,Ashfield,E07000170,Economically inactive,41312
+2021,Bassetlaw,E07000171,Economically inactive,40088
+2021,Broxtowe,E07000172,Economically inactive,38123
+2021,Gedling,E07000173,Economically inactive,37773
+2021,Mansfield,E07000174,Economically inactive,36288
+2021,Newark and Sherwood,E07000175,Economically inactive,42406
+2021,Rushcliffe,E07000176,Economically inactive,38608
+2021,Cherwell,E07000177,Economically inactive,42389
+2021,Oxford,E07000178,Economically inactive,59049
+2021,South Oxfordshire,E07000179,Economically inactive,42355
+2021,Vale of White Horse,E07000180,Economically inactive,39145
+2021,West Oxfordshire,E07000181,Economically inactive,33001
+2021,Mendip,E07000187,Economically inactive,38192
+2021,Sedgemoor,E07000188,Economically inactive,42103
+2021,South Somerset,E07000189,Economically inactive,59745
+2021,Cannock Chase,E07000192,Economically inactive,31100
+2021,East Staffordshire,E07000193,Economically inactive,38334
+2021,Lichfield,E07000194,Economically inactive,35958
+2021,Newcastle-under-Lyme,E07000195,Economically inactive,43541
+2021,South Staffordshire,E07000196,Economically inactive,40406
+2021,Stafford,E07000197,Economically inactive,45229
+2021,Staffordshire Moorlands,E07000198,Economically inactive,34206
+2021,Tamworth,E07000199,Economically inactive,23564
+2021,Babergh,E07000200,Economically inactive,32554
+2021,Ipswich,E07000202,Economically inactive,40716
+2021,Mid Suffolk,E07000203,Economically inactive,34546
+2021,Elmbridge,E07000207,Economically inactive,38774
+2021,Epsom and Ewell,E07000208,Economically inactive,22890
+2021,Guildford,E07000209,Economically inactive,45927
+2021,Mole Valley,E07000210,Economically inactive,28311
+2021,Reigate and Banstead,E07000211,Economically inactive,41656
+2021,Runnymede,E07000212,Economically inactive,27616
+2021,Spelthorne,E07000213,Economically inactive,28808
+2021,Surrey Heath,E07000214,Economically inactive,26338
+2021,Tandridge,E07000215,Economically inactive,26375
+2021,Waverley,E07000216,Economically inactive,40518
+2021,Woking,E07000217,Economically inactive,27746
+2021,North Warwickshire,E07000218,Economically inactive,20688
+2021,Nuneaton and Bedworth,E07000219,Economically inactive,42000
+2021,Rugby,E07000220,Economically inactive,31801
+2021,Stratford-on-Avon,E07000221,Economically inactive,44127
+2021,Warwick,E07000222,Economically inactive,47055
+2021,Adur,E07000223,Economically inactive,21683
+2021,Arun,E07000224,Economically inactive,62721
+2021,Chichester,E07000225,Economically inactive,45628
+2021,Crawley,E07000226,Economically inactive,30019
+2021,Horsham,E07000227,Economically inactive,45586
+2021,Mid Sussex,E07000228,Economically inactive,43807
+2021,Worthing,E07000229,Economically inactive,36053
+2021,Bromsgrove,E07000234,Economically inactive,31824
+2021,Malvern Hills,E07000235,Economically inactive,29768
+2021,Redditch,E07000236,Economically inactive,25401
+2021,Worcester,E07000237,Economically inactive,31004
+2021,Wychavon,E07000238,Economically inactive,44654
+2021,Wyre Forest,E07000239,Economically inactive,36328
+2021,St Albans,E07000240,Economically inactive,40236
+2021,Welwyn Hatfield,E07000241,Economically inactive,35534
+2021,East Hertfordshire,E07000242,Economically inactive,41556
+2021,Stevenage,E07000243,Economically inactive,23422
+2021,East Suffolk,E07000244,Economically inactive,94914
+2021,West Suffolk,E07000245,Economically inactive,54927
+2021,Somerset West and Taunton,E07000246,Economically inactive,55081
+2021,Bolton,E08000001,Economically inactive,97751
+2021,Bury,E08000002,Economically inactive,61410
+2021,Manchester,E08000003,Economically inactive,178670
+2021,Oldham,E08000004,Economically inactive,81069
+2021,Rochdale,E08000005,Economically inactive,73878
+2021,Salford,E08000006,Economically inactive,79141
+2021,Stockport,E08000007,Economically inactive,92383
+2021,Tameside,E08000008,Economically inactive,73057
+2021,Trafford,E08000009,Economically inactive,69033
+2021,Wigan,E08000010,Economically inactive,105798
+2021,Knowsley,E08000011,Economically inactive,50416
+2021,Liverpool,E08000012,Economically inactive,178072
+2021,St. Helens,E08000013,Economically inactive,63242
+2021,Sefton,E08000014,Economically inactive,100731
+2021,Wirral,E08000015,Economically inactive,115088
+2021,Barnsley,E08000016,Economically inactive,82272
+2021,Doncaster,E08000017,Economically inactive,104662
+2021,Rotherham,E08000018,Economically inactive,90917
+2021,Sheffield,E08000019,Economically inactive,196190
+2021,Newcastle upon Tyne,E08000021,Economically inactive,111555
+2021,North Tyneside,E08000022,Economically inactive,68645
+2021,South Tyneside,E08000023,Economically inactive,53497
+2021,Sunderland,E08000024,Economically inactive,100126
+2021,Birmingham,E08000025,Economically inactive,394898
+2021,Coventry,E08000026,Economically inactive,113185
+2021,Dudley,E08000027,Economically inactive,107986
+2021,Sandwell,E08000028,Economically inactive,110832
+2021,Solihull,E08000029,Economically inactive,71041
+2021,Walsall,E08000030,Economically inactive,94605
+2021,Wolverhampton,E08000031,Economically inactive,85454
+2021,Bradford,E08000032,Economically inactive,182295
+2021,Calderdale,E08000033,Economically inactive,67879
+2021,Kirklees,E08000034,Economically inactive,144081
+2021,Leeds,E08000035,Economically inactive,257351
+2021,Wakefield,E08000036,Economically inactive,114386
+2021,Gateshead,E08000037,Economically inactive,68234
+2021,City of London,E09000001,Economically inactive,2326
+2021,Barking and Dagenham,E09000002,Economically inactive,58079
+2021,Barnet,E09000003,Economically inactive,109594
+2021,Bexley,E09000004,Economically inactive,70481
+2021,Brent,E09000005,Economically inactive,99160
+2021,Bromley,E09000006,Economically inactive,93998
+2021,Camden,E09000007,Economically inactive,66384
+2021,Croydon,E09000008,Economically inactive,106260
+2021,Ealing,E09000009,Economically inactive,105080
+2021,Enfield,E09000010,Economically inactive,101167
+2021,Greenwich,E09000011,Economically inactive,74547
+2021,Hackney,E09000012,Economically inactive,63699
+2021,Hammersmith and Fulham,E09000013,Economically inactive,48860
+2021,Haringey,E09000014,Economically inactive,69672
+2021,Harrow,E09000015,Economically inactive,76081
+2021,Havering,E09000016,Economically inactive,77298
+2021,Hillingdon,E09000017,Economically inactive,87441
+2021,Hounslow,E09000018,Economically inactive,78071
+2021,Islington,E09000019,Economically inactive,58713
+2021,Kensington and Chelsea,E09000020,Economically inactive,48017
+2021,Kingston upon Thames,E09000021,Economically inactive,46082
+2021,Lambeth,E09000022,Economically inactive,71801
+2021,Lewisham,E09000023,Economically inactive,72838
+2021,Merton,E09000024,Economically inactive,53872
+2021,Newham,E09000025,Economically inactive,95434
+2021,Redbridge,E09000026,Economically inactive,89554
+2021,Richmond upon Thames,E09000027,Economically inactive,53014
+2021,Southwark,E09000028,Economically inactive,74921
+2021,Sutton,E09000029,Economically inactive,55849
+2021,Tower Hamlets,E09000030,Economically inactive,82343
+2021,Waltham Forest,E09000031,Economically inactive,70349
+2021,Wandsworth,E09000032,Economically inactive,72131
+2021,Westminster,E09000033,Economically inactive,67182
+2021,Isle of Anglesey,W06000001,Economically inactive,26283
+2021,Gwynedd,W06000002,Economically inactive,42995
+2021,Conwy,W06000003,Economically inactive,44773
+2021,Denbighshire,W06000004,Economically inactive,35872
+2021,Flintshire,W06000005,Economically inactive,50225
+2021,Wrexham,W06000006,Economically inactive,45225
+2021,Ceredigion,W06000008,Economically inactive,29428
+2021,Pembrokeshire,W06000009,Economically inactive,47017
+2021,Carmarthenshire,W06000010,Economically inactive,69613
+2021,Swansea,W06000011,Economically inactive,90482
+2021,Neath Port Talbot,W06000012,Economically inactive,54741
+2021,Bridgend,W06000013,Economically inactive,52003
+2021,Vale of Glamorgan,W06000014,Economically inactive,44498
+2021,Cardiff,W06000015,Economically inactive,123580
+2021,Rhondda Cynon Taff,W06000016,Economically inactive,84237
+2021,Caerphilly,W06000018,Economically inactive,61655
+2021,Blaenau Gwent,W06000019,Economically inactive,24490
+2021,Torfaen,W06000020,Economically inactive,32171
+2021,Monmouthshire,W06000021,Economically inactive,33680
+2021,Newport,W06000022,Economically inactive,50123
+2021,Powys,W06000023,Economically inactive,48484
+2021,Merthyr Tydfil,W06000024,Economically inactive,20493

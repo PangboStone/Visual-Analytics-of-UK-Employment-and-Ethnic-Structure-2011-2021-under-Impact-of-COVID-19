@@ -1,0 +1,89 @@
+region,category,metric,value,geography code
+England and Wales,Total economically active,residual,65552,K04000001
+East of England,Total economically active,residual,-89580,E12000006
+East Midlands,Total economically active,residual,-18265,E12000004
+Greater London,Total economically active,residual,46145,E12000007
+North East England,Total economically active,residual,2523,E12000001
+North West England,Total economically active,residual,-58825,E12000002
+South East England,Total economically active,residual,-47197,E12000008
+South West England,Total economically active,residual,-866,E12000009
+Wales,Total economically active,residual,-27514,W92000004
+West Midlands,Total economically active,residual,-131153,E12000005
+Yorkshire and The Humber,Total economically active,residual,-5693,E12000003
+England and Wales,Total in employment,residual,499629,K04000001
+East of England,Total in employment,residual,-62933,E12000006
+East Midlands,Total in employment,residual,-1552,E12000004
+Greater London,Total in employment,residual,134694,E12000007
+North East England,Total in employment,residual,9917,E12000001
+North West England,Total in employment,residual,14262,E12000002
+South East England,Total in employment,residual,56867,E12000008
+South West England,Total in employment,residual,24432,E12000009
+Wales,Total in employment,residual,3282,W92000004
+West Midlands,Total in employment,residual,-62395,E12000005
+Yorkshire and The Humber,Total in employment,residual,3999,E12000003
+England and Wales,Total unemployed,residual,-741790,K04000001
+East of England,Total unemployed,residual,-68661,E12000006
+East Midlands,Total unemployed,residual,-66253,E12000004
+Greater London,Total unemployed,residual,-145783,E12000007
+North East England,Total unemployed,residual,-34576,E12000001
+North West England,Total unemployed,residual,-108938,E12000002
+South East England,Total unemployed,residual,-149666,E12000008
+South West England,Total unemployed,residual,-63758,E12000009
+Wales,Total unemployed,residual,-37805,W92000004
+West Midlands,Total unemployed,residual,-89678,E12000005
+Yorkshire and The Humber,Total unemployed,residual,-63671,E12000003
+England and Wales,Total economically inactive,residual,-649314,K04000001
+East of England,Total economically inactive,residual,-43640,E12000006
+East Midlands,Total economically inactive,residual,-124381,E12000004
+Greater London,Total economically inactive,residual,10826,E12000007
+North East England,Total economically inactive,residual,-64245,E12000001
+North West England,Total economically inactive,residual,-191514,E12000002
+South East England,Total economically inactive,residual,-147272,E12000008
+South West England,Total economically inactive,residual,-128541,E12000009
+Wales,Total economically inactive,residual,-87089,W92000004
+West Midlands,Total economically inactive,residual,-57933,E12000005
+Yorkshire and The Humber,Total economically inactive,residual,-87177,E12000003
+England and Wales,Total economically active,relative_error,0.002144054,K04000001
+East of England,Total economically active,relative_error,-0.027090494,E12000006
+East Midlands,Total economically active,relative_error,-0.007416584,E12000004
+Greater London,Total economically active,relative_error,0.009362576,E12000007
+North East England,Total economically active,relative_error,0.002016377,E12000001
+North West England,Total economically active,relative_error,-0.015994803,E12000002
+South East England,Total economically active,relative_error,-0.009736048,E12000008
+South West England,Total economically active,relative_error,-0.00029558,E12000009
+Wales,Total economically active,relative_error,-0.018332755,W92000004
+West Midlands,Total economically active,relative_error,-0.043811057,E12000005
+Yorkshire and The Humber,Total economically active,relative_error,-0.002128336,E12000003
+England and Wales,Total in employment,relative_error,0.017083723,K04000001
+East of England,Total in employment,relative_error,-0.019692212,E12000006
+East Midlands,Total in employment,relative_error,-0.000657691,E12000004
+Greater London,Total in employment,relative_error,0.028963711,E12000007
+North East England,Total in employment,relative_error,0.008393148,E12000001
+North West England,Total in employment,relative_error,0.004058513,E12000002
+South East England,Total in employment,relative_error,0.012233632,E12000008
+South West England,Total in employment,relative_error,0.008616783,E12000009
+Wales,Total in employment,relative_error,0.002271716,W92000004
+West Midlands,Total in employment,relative_error,-0.021888497,E12000005
+Yorkshire and The Humber,Total in employment,relative_error,0.001559009,E12000003
+England and Wales,Total unemployed,relative_error,-0.558596577,K04000001
+East of England,Total unemployed,relative_error,-0.619331968,E12000006
+East Midlands,Total unemployed,relative_error,-0.643520407,E12000004
+Greater London,Total unemployed,relative_error,-0.5239752,E12000007
+North East England,Total unemployed,relative_error,-0.496104455,E12000001
+North West England,Total unemployed,relative_error,-0.665632008,E12000002
+South East England,Total unemployed,relative_error,-0.751184501,E12000008
+South West England,Total unemployed,relative_error,-0.675145072,E12000009
+Wales,Total unemployed,relative_error,-0.674018078,W92000004
+West Midlands,Total unemployed,relative_error,-0.6270268,E12000005
+Yorkshire and The Humber,Total unemployed,relative_error,-0.580045368,E12000003
+England and Wales,Total economically inactive,relative_error,-0.03717385,K04000001
+East of England,Total economically inactive,relative_error,-0.024393666,E12000006
+East Midlands,Total economically inactive,relative_error,-0.083731241,E12000004
+Greater London,Total economically inactive,relative_error,0.005077752,E12000007
+North East England,Total economically inactive,relative_error,-0.071163911,E12000001
+North West England,Total economically inactive,relative_error,-0.083616145,E12000002
+South East England,Total economically inactive,relative_error,-0.056521816,E12000008
+South West England,Total economically inactive,relative_error,-0.074029557,E12000009
+Wales,Total economically inactive,relative_error,-0.08465286,W92000004
+West Midlands,Total economically inactive,relative_error,-0.032925831,E12000005
+Yorkshire and The Humber,Total economically inactive,relative_error,-0.050186262,E12000003
