@@ -1,0 +1,991 @@
+Region,Type,Economic Activity:,Year,Value
+country:England and Wales,real,All persons,2012,45335992
+country:England and Wales,real,All persons,2013,45658841
+country:England and Wales,real,All persons,2014,46022183
+country:England and Wales,real,All persons,2015,46387737
+country:England and Wales,real,All persons,2016,46702359
+country:England and Wales,real,All persons,2017,46955842
+country:England and Wales,real,All persons,2018,47213538
+country:England and Wales,real,All persons,2019,47554741
+country:England and Wales,real,All persons,2021,48040816
+gor:North East,real,All persons,2012,2111539
+gor:North East,real,All persons,2013,2118858
+gor:North East,real,All persons,2014,2124769
+gor:North East,real,All persons,2015,2131027
+gor:North East,real,All persons,2016,2138022
+gor:North East,real,All persons,2017,2141516
+gor:North East,real,All persons,2018,2144119
+gor:North East,real,All persons,2019,2133956
+gor:North East,real,All persons,2021,2154029
+gor:North West,real,All persons,2012,5680935
+gor:North West,real,All persons,2013,5698110
+gor:North West,real,All persons,2014,5723181
+gor:North West,real,All persons,2015,5755001
+gor:North West,real,All persons,2016,5782588
+gor:North West,real,All persons,2017,5797989
+gor:North West,real,All persons,2018,5809784
+gor:North West,real,All persons,2019,5891502
+gor:North West,real,All persons,2021,5968152
+gor:Yorkshire and The Humber,real,All persons,2012,4258996
+gor:Yorkshire and The Humber,real,All persons,2013,4275666
+gor:Yorkshire and The Humber,real,All persons,2014,4295268
+gor:Yorkshire and The Humber,real,All persons,2015,4319495
+gor:Yorkshire and The Humber,real,All persons,2016,4340365
+gor:Yorkshire and The Humber,real,All persons,2017,4354587
+gor:Yorkshire and The Humber,real,All persons,2018,4367610
+gor:Yorkshire and The Humber,real,All persons,2019,4375410
+gor:Yorkshire and The Humber,real,All persons,2021,4411929
+gor:East Midlands,real,All persons,2012,3677056
+gor:East Midlands,real,All persons,2013,3705179
+gor:East Midlands,real,All persons,2014,3737668
+gor:East Midlands,real,All persons,2015,3772119
+gor:East Midlands,real,All persons,2016,3807850
+gor:East Midlands,real,All persons,2017,3830941
+gor:East Midlands,real,All persons,2018,3843585
+gor:East Midlands,real,All persons,2019,3902669
+gor:East Midlands,real,All persons,2021,3948203
+gor:West Midlands,real,All persons,2012,4489858
+gor:West Midlands,real,All persons,2013,4517662
+gor:West Midlands,real,All persons,2014,4549143
+gor:West Midlands,real,All persons,2015,4585904
+gor:West Midlands,real,All persons,2016,4625778
+gor:West Midlands,real,All persons,2017,4651218
+gor:West Midlands,real,All persons,2018,4666548
+gor:West Midlands,real,All persons,2019,4703674
+gor:West Midlands,real,All persons,2021,4753105
+gor:East,real,All persons,2012,4731953
+gor:East,real,All persons,2013,4774345
+gor:East,real,All persons,2014,4821677
+gor:East,real,All persons,2015,4861962
+gor:East,real,All persons,2016,4893557
+gor:East,real,All persons,2017,4923229
+gor:East,real,All persons,2018,4957365
+gor:East,real,All persons,2019,5023498
+gor:East,real,All persons,2021,5095684
+gor:London,real,All persons,2012,6609804
+gor:London,real,All persons,2013,6690387
+gor:London,real,All persons,2014,6782008
+gor:London,real,All persons,2015,6867837
+gor:London,real,All persons,2016,6924520
+gor:London,real,All persons,2017,6988170
+gor:London,real,All persons,2018,7076856
+gor:London,real,All persons,2019,7073026
+gor:London,real,All persons,2021,7060711
+gor:South East,real,All persons,2012,6959009
+gor:South East,real,All persons,2013,7017700
+gor:South East,real,All persons,2014,7080787
+gor:South East,real,All persons,2015,7140319
+gor:South East,real,All persons,2016,7190935
+gor:South East,real,All persons,2017,7231941
+gor:South East,real,All persons,2018,7278564
+gor:South East,real,All persons,2019,7351970
+gor:South East,real,All persons,2021,7453233
+gor:South West,real,All persons,2012,4328884
+gor:South West,real,All persons,2013,4363436
+gor:South West,real,All persons,2014,4401747
+gor:South West,real,All persons,2015,4439561
+gor:South West,real,All persons,2016,4473265
+gor:South West,real,All persons,2017,4500636
+gor:South West,real,All persons,2018,4523884
+gor:South West,real,All persons,2019,4591367
+gor:South West,real,All persons,2021,4666181
+gor:Wales,real,All persons,2012,2487958
+gor:Wales,real,All persons,2013,2497498
+gor:Wales,real,All persons,2014,2505935
+gor:Wales,real,All persons,2015,2514512
+gor:Wales,real,All persons,2016,2525479
+gor:Wales,real,All persons,2017,2535615
+gor:Wales,real,All persons,2018,2545223
+gor:Wales,real,All persons,2019,2507669
+gor:Wales,real,All persons,2021,2529589
+country:England and Wales,real,Total economically active,2012,28882311
+country:England and Wales,real,Total economically active,2013,29022827
+country:England and Wales,real,Total economically active,2014,29176654
+country:England and Wales,real,Total economically active,2015,29543103
+country:England and Wales,real,Total economically active,2016,29773055
+country:England and Wales,real,Total economically active,2017,29969991
+country:England and Wales,real,Total economically active,2018,30291964
+country:England and Wales,real,Total economically active,2019,30706707
+country:England and Wales,real,Total economically active,2021,30573860
+gor:North East,real,Total economically active,2012,1264157
+gor:North East,real,Total economically active,2013,1266315
+gor:North East,real,Total economically active,2014,1279519
+gor:North East,real,Total economically active,2015,1309201
+gor:North East,real,Total economically active,2016,1279790
+gor:North East,real,Total economically active,2017,1284533
+gor:North East,real,Total economically active,2018,1280324
+gor:North East,real,Total economically active,2019,1270762
+gor:North East,real,Total economically active,2021,1251254
+gor:North West,real,Total economically active,2012,3518222
+gor:North West,real,Total economically active,2013,3453832
+gor:North West,real,Total economically active,2014,3523663
+gor:North West,real,Total economically active,2015,3566386
+gor:North West,real,Total economically active,2016,3584862
+gor:North West,real,Total economically active,2017,3560637
+gor:North West,real,Total economically active,2018,3634517
+gor:North West,real,Total economically active,2019,3746873
+gor:North West,real,Total economically active,2021,3677757
+gor:Yorkshire and The Humber,real,Total economically active,2012,2666975
+gor:Yorkshire and The Humber,real,Total economically active,2013,2695436
+gor:Yorkshire and The Humber,real,Total economically active,2014,2671118
+gor:Yorkshire and The Humber,real,Total economically active,2015,2684677
+gor:Yorkshire and The Humber,real,Total economically active,2016,2718392
+gor:Yorkshire and The Humber,real,Total economically active,2017,2675780
+gor:Yorkshire and The Humber,real,Total economically active,2018,2729828
+gor:Yorkshire and The Humber,real,Total economically active,2019,2688721
+gor:Yorkshire and The Humber,real,Total economically active,2021,2674860
+gor:East Midlands,real,Total economically active,2012,2305667
+gor:East Midlands,real,Total economically active,2013,2327459
+gor:East Midlands,real,Total economically active,2014,2369368
+gor:East Midlands,real,Total economically active,2015,2357194
+gor:East Midlands,real,Total economically active,2016,2401449
+gor:East Midlands,real,Total economically active,2017,2394197
+gor:East Midlands,real,Total economically active,2018,2425089
+gor:East Midlands,real,Total economically active,2019,2534609
+gor:East Midlands,real,Total economically active,2021,2462724
+gor:West Midlands,real,Total economically active,2012,2834729
+gor:West Midlands,real,Total economically active,2013,2785708
+gor:West Midlands,real,Total economically active,2014,2780537
+gor:West Midlands,real,Total economically active,2015,2783999
+gor:West Midlands,real,Total economically active,2016,2877225
+gor:West Midlands,real,Total economically active,2017,2871577
+gor:West Midlands,real,Total economically active,2018,2899922
+gor:West Midlands,real,Total economically active,2019,2968047
+gor:West Midlands,real,Total economically active,2021,2993605
+gor:East,real,Total economically active,2012,3078336
+gor:East,real,Total economically active,2013,3093702
+gor:East,real,Total economically active,2014,3102778
+gor:East,real,Total economically active,2015,3159865
+gor:East,real,Total economically active,2016,3147704
+gor:East,real,Total economically active,2017,3174266
+gor:East,real,Total economically active,2018,3194086
+gor:East,real,Total economically active,2019,3279862
+gor:East,real,Total economically active,2021,3306695
+gor:London,real,Total economically active,2012,4463544
+gor:London,real,Total economically active,2013,4543834
+gor:London,real,Total economically active,2014,4613037
+gor:London,real,Total economically active,2015,4717952
+gor:London,real,Total economically active,2016,4768759
+gor:London,real,Total economically active,2017,4829772
+gor:London,real,Total economically active,2018,4889059
+gor:London,real,Total economically active,2019,4920858
+gor:London,real,Total economically active,2021,4928665
+gor:South East,real,Total economically active,2012,4553581
+gor:South East,real,Total economically active,2013,4607595
+gor:South East,real,Total economically active,2014,4614648
+gor:South East,real,Total economically active,2015,4642666
+gor:South East,real,Total economically active,2016,4678336
+gor:South East,real,Total economically active,2017,4778923
+gor:South East,real,Total economically active,2018,4745230
+gor:South East,real,Total economically active,2019,4873992
+gor:South East,real,Total economically active,2021,4847655
+gor:South West,real,Total economically active,2012,2706211
+gor:South West,real,Total economically active,2013,2740258
+gor:South West,real,Total economically active,2014,2744370
+gor:South West,real,Total economically active,2015,2815817
+gor:South West,real,Total economically active,2016,2811224
+gor:South West,real,Total economically active,2017,2878848
+gor:South West,real,Total economically active,2018,2897237
+gor:South West,real,Total economically active,2019,2924983
+gor:South West,real,Total economically active,2021,2929834
+gor:Wales,real,Total economically active,2012,1490889
+gor:Wales,real,Total economically active,2013,1508687
+gor:Wales,real,Total economically active,2014,1477616
+gor:Wales,real,Total economically active,2015,1505345
+gor:Wales,real,Total economically active,2016,1505315
+gor:Wales,real,Total economically active,2017,1521459
+gor:Wales,real,Total economically active,2018,1596671
+gor:Wales,real,Total economically active,2019,1497999
+gor:Wales,real,Total economically active,2021,1500811
+country:England and Wales,real,Total in employment,2012,26619507
+country:England and Wales,real,Total in employment,2013,26927052
+country:England and Wales,real,Total in employment,2014,27504754
+country:England and Wales,real,Total in employment,2015,28064737
+country:England and Wales,real,Total in employment,2016,28366268
+country:England and Wales,real,Total in employment,2017,28665007
+country:England and Wales,real,Total in employment,2018,29058896
+country:England and Wales,real,Total in employment,2019,29538974
+country:England and Wales,real,Total in employment,2021,29245908
+gor:North East,real,Total in employment,2012,1141051
+gor:North East,real,Total in employment,2013,1139767
+gor:North East,real,Total in employment,2014,1177373
+gor:North East,real,Total in employment,2015,1204422
+gor:North East,real,Total in employment,2016,1191654
+gor:North East,real,Total in employment,2017,1217161
+gor:North East,real,Total in employment,2018,1211360
+gor:North East,real,Total in employment,2019,1193220
+gor:North East,real,Total in employment,2021,1181559
+gor:North West,real,Total in employment,2012,3226642
+gor:North West,real,Total in employment,2013,3180525
+gor:North West,real,Total in employment,2014,3294956
+gor:North West,real,Total in employment,2015,3392777
+gor:North West,real,Total in employment,2016,3403824
+gor:North West,real,Total in employment,2017,3412349
+gor:North West,real,Total in employment,2018,3491379
+gor:North West,real,Total in employment,2019,3591484
+gor:North West,real,Total in employment,2021,3514095
+gor:Yorkshire and The Humber,real,Total in employment,2012,2424862
+gor:Yorkshire and The Humber,real,Total in employment,2013,2459718
+gor:Yorkshire and The Humber,real,Total in employment,2014,2503617
+gor:Yorkshire and The Humber,real,Total in employment,2015,2516788
+gor:Yorkshire and The Humber,real,Total in employment,2016,2583371
+gor:Yorkshire and The Humber,real,Total in employment,2017,2541278
+gor:Yorkshire and The Humber,real,Total in employment,2018,2587567
+gor:Yorkshire and The Humber,real,Total in employment,2019,2569666
+gor:Yorkshire and The Humber,real,Total in employment,2021,2565091
+gor:East Midlands,real,Total in employment,2012,2130870
+gor:East Midlands,real,Total in employment,2013,2170524
+gor:East Midlands,real,Total in employment,2014,2258809
+gor:East Midlands,real,Total in employment,2015,2253312
+gor:East Midlands,real,Total in employment,2016,2290161
+gor:East Midlands,real,Total in employment,2017,2295459
+gor:East Midlands,real,Total in employment,2018,2303915
+gor:East Midlands,real,Total in employment,2019,2444547
+gor:East Midlands,real,Total in employment,2021,2359770
+gor:West Midlands,real,Total in employment,2012,2582967
+gor:West Midlands,real,Total in employment,2013,2550601
+gor:West Midlands,real,Total in employment,2014,2611707
+gor:West Midlands,real,Total in employment,2015,2642211
+gor:West Midlands,real,Total in employment,2016,2714691
+gor:West Midlands,real,Total in employment,2017,2724279
+gor:West Midlands,real,Total in employment,2018,2748893
+gor:West Midlands,real,Total in employment,2019,2839016
+gor:West Midlands,real,Total in employment,2021,2850584
+gor:East,real,Total in employment,2012,2869615
+gor:East,real,Total in employment,2013,2917786
+gor:East,real,Total in employment,2014,2948988
+gor:East,real,Total in employment,2015,3039490
+gor:East,real,Total in employment,2016,3009241
+gor:East,real,Total in employment,2017,3039489
+gor:East,real,Total in employment,2018,3103414
+gor:East,real,Total in employment,2019,3168784
+gor:East,real,Total in employment,2021,3195832
+gor:London,real,Total in employment,2012,4072083
+gor:London,real,Total in employment,2013,4169461
+gor:London,real,Total in employment,2014,4311967
+gor:London,real,Total in employment,2015,4418409
+gor:London,real,Total in employment,2016,4502827
+gor:London,real,Total in employment,2017,4587723
+gor:London,real,Total in employment,2018,4671397
+gor:London,real,Total in employment,2019,4709719
+gor:London,real,Total in employment,2021,4650440
+gor:South East,real,Total in employment,2012,4252883
+gor:South East,real,Total in employment,2013,4371187
+gor:South East,real,Total in employment,2014,4399575
+gor:South East,real,Total in employment,2015,4461421
+gor:South East,real,Total in employment,2016,4519899
+gor:South East,real,Total in employment,2017,4628562
+gor:South East,real,Total in employment,2018,4600415
+gor:South East,real,Total in employment,2019,4724217
+gor:South East,real,Total in employment,2021,4648415
+gor:South West,real,Total in employment,2012,2555649
+gor:South West,real,Total in employment,2013,2565128
+gor:South West,real,Total in employment,2014,2619704
+gor:South West,real,Total in employment,2015,2710045
+gor:South West,real,Total in employment,2016,2712800
+gor:South West,real,Total in employment,2017,2775173
+gor:South West,real,Total in employment,2018,2809986
+gor:South West,real,Total in employment,2019,2844296
+gor:South West,real,Total in employment,2021,2835397
+gor:Wales,real,Total in employment,2012,1362884
+gor:Wales,real,Total in employment,2013,1402356
+gor:Wales,real,Total in employment,2014,1378058
+gor:Wales,real,Total in employment,2015,1425862
+gor:Wales,real,Total in employment,2016,1437801
+gor:Wales,real,Total in employment,2017,1443534
+gor:Wales,real,Total in employment,2018,1530569
+gor:Wales,real,Total in employment,2019,1454023
+gor:Wales,real,Total in employment,2021,1444723
+country:England and Wales,real,Total unemployed,2012,2262804
+country:England and Wales,real,Total unemployed,2013,2095774
+country:England and Wales,real,Total unemployed,2014,1671900
+country:England and Wales,real,Total unemployed,2015,1478366
+country:England and Wales,real,Total unemployed,2016,1406787
+country:England and Wales,real,Total unemployed,2017,1304984
+country:England and Wales,real,Total unemployed,2018,1233068
+country:England and Wales,real,Total unemployed,2019,1167733
+country:England and Wales,real,Total unemployed,2021,1327953
+gor:North East,real,Total unemployed,2012,123105
+gor:North East,real,Total unemployed,2013,126547
+gor:North East,real,Total unemployed,2014,102146
+gor:North East,real,Total unemployed,2015,104779
+gor:North East,real,Total unemployed,2016,88136
+gor:North East,real,Total unemployed,2017,67371
+gor:North East,real,Total unemployed,2018,68964
+gor:North East,real,Total unemployed,2019,77542
+gor:North East,real,Total unemployed,2021,69695
+gor:North West,real,Total unemployed,2012,291580
+gor:North West,real,Total unemployed,2013,273307
+gor:North West,real,Total unemployed,2014,228707
+gor:North West,real,Total unemployed,2015,173609
+gor:North West,real,Total unemployed,2016,181038
+gor:North West,real,Total unemployed,2017,148288
+gor:North West,real,Total unemployed,2018,143139
+gor:North West,real,Total unemployed,2019,155388
+gor:North West,real,Total unemployed,2021,163661
+gor:Yorkshire and The Humber,real,Total unemployed,2012,242113
+gor:Yorkshire and The Humber,real,Total unemployed,2013,235719
+gor:Yorkshire and The Humber,real,Total unemployed,2014,167501
+gor:Yorkshire and The Humber,real,Total unemployed,2015,167889
+gor:Yorkshire and The Humber,real,Total unemployed,2016,135021
+gor:Yorkshire and The Humber,real,Total unemployed,2017,134503
+gor:Yorkshire and The Humber,real,Total unemployed,2018,142261
+gor:Yorkshire and The Humber,real,Total unemployed,2019,119054
+gor:Yorkshire and The Humber,real,Total unemployed,2021,109769
+gor:East Midlands,real,Total unemployed,2012,174796
+gor:East Midlands,real,Total unemployed,2013,156935
+gor:East Midlands,real,Total unemployed,2014,110559
+gor:East Midlands,real,Total unemployed,2015,103882
+gor:East Midlands,real,Total unemployed,2016,111288
+gor:East Midlands,real,Total unemployed,2017,98738
+gor:East Midlands,real,Total unemployed,2018,121174
+gor:East Midlands,real,Total unemployed,2019,90062
+gor:East Midlands,real,Total unemployed,2021,102954
+gor:West Midlands,real,Total unemployed,2012,251762
+gor:West Midlands,real,Total unemployed,2013,235107
+gor:West Midlands,real,Total unemployed,2014,168831
+gor:West Midlands,real,Total unemployed,2015,141787
+gor:West Midlands,real,Total unemployed,2016,162534
+gor:West Midlands,real,Total unemployed,2017,147298
+gor:West Midlands,real,Total unemployed,2018,151029
+gor:West Midlands,real,Total unemployed,2019,129031
+gor:West Midlands,real,Total unemployed,2021,143021
+gor:East,real,Total unemployed,2012,208721
+gor:East,real,Total unemployed,2013,175916
+gor:East,real,Total unemployed,2014,153790
+gor:East,real,Total unemployed,2015,120375
+gor:East,real,Total unemployed,2016,138464
+gor:East,real,Total unemployed,2017,134778
+gor:East,real,Total unemployed,2018,90671
+gor:East,real,Total unemployed,2019,111078
+gor:East,real,Total unemployed,2021,110863
+gor:London,real,Total unemployed,2012,391461
+gor:London,real,Total unemployed,2013,374374
+gor:London,real,Total unemployed,2014,301070
+gor:London,real,Total unemployed,2015,299543
+gor:London,real,Total unemployed,2016,265932
+gor:London,real,Total unemployed,2017,242048
+gor:London,real,Total unemployed,2018,217662
+gor:London,real,Total unemployed,2019,211139
+gor:London,real,Total unemployed,2021,278225
+gor:South East,real,Total unemployed,2012,300698
+gor:South East,real,Total unemployed,2013,236407
+gor:South East,real,Total unemployed,2014,215073
+gor:South East,real,Total unemployed,2015,181246
+gor:South East,real,Total unemployed,2016,158437
+gor:South East,real,Total unemployed,2017,150361
+gor:South East,real,Total unemployed,2018,144815
+gor:South East,real,Total unemployed,2019,149776
+gor:South East,real,Total unemployed,2021,199240
+gor:South West,real,Total unemployed,2012,150562
+gor:South West,real,Total unemployed,2013,175130
+gor:South West,real,Total unemployed,2014,124666
+gor:South West,real,Total unemployed,2015,105772
+gor:South West,real,Total unemployed,2016,98424
+gor:South West,real,Total unemployed,2017,103675
+gor:South West,real,Total unemployed,2018,87251
+gor:South West,real,Total unemployed,2019,80687
+gor:South West,real,Total unemployed,2021,94436
+gor:Wales,real,Total unemployed,2012,128005
+gor:Wales,real,Total unemployed,2013,106332
+gor:Wales,real,Total unemployed,2014,99559
+gor:Wales,real,Total unemployed,2015,79483
+gor:Wales,real,Total unemployed,2016,67514
+gor:Wales,real,Total unemployed,2017,77924
+gor:Wales,real,Total unemployed,2018,66102
+gor:Wales,real,Total unemployed,2019,43976
+gor:Wales,real,Total unemployed,2021,56089
+country:England and Wales,real,Total economically inactive,2012,16453681
+country:England and Wales,real,Total economically inactive,2013,16636014
+country:England and Wales,real,Total economically inactive,2014,16845529
+country:England and Wales,real,Total economically inactive,2015,16844634
+country:England and Wales,real,Total economically inactive,2016,16929304
+country:England and Wales,real,Total economically inactive,2017,16985851
+country:England and Wales,real,Total economically inactive,2018,16921574
+country:England and Wales,real,Total economically inactive,2019,16848034
+country:England and Wales,real,Total economically inactive,2021,17466956
+gor:North East,real,Total economically inactive,2012,847382
+gor:North East,real,Total economically inactive,2013,852543
+gor:North East,real,Total economically inactive,2014,845250
+gor:North East,real,Total economically inactive,2015,821826
+gor:North East,real,Total economically inactive,2016,858232
+gor:North East,real,Total economically inactive,2017,856983
+gor:North East,real,Total economically inactive,2018,863795
+gor:North East,real,Total economically inactive,2019,863194
+gor:North East,real,Total economically inactive,2021,902775
+gor:North West,real,Total economically inactive,2012,2162713
+gor:North West,real,Total economically inactive,2013,2244278
+gor:North West,real,Total economically inactive,2014,2199518
+gor:North West,real,Total economically inactive,2015,2188615
+gor:North West,real,Total economically inactive,2016,2197726
+gor:North West,real,Total economically inactive,2017,2237352
+gor:North West,real,Total economically inactive,2018,2175267
+gor:North West,real,Total economically inactive,2019,2144629
+gor:North West,real,Total economically inactive,2021,2290395
+gor:Yorkshire and The Humber,real,Total economically inactive,2012,1592021
+gor:Yorkshire and The Humber,real,Total economically inactive,2013,1580230
+gor:Yorkshire and The Humber,real,Total economically inactive,2014,1624150
+gor:Yorkshire and The Humber,real,Total economically inactive,2015,1634818
+gor:Yorkshire and The Humber,real,Total economically inactive,2016,1621973
+gor:Yorkshire and The Humber,real,Total economically inactive,2017,1678807
+gor:Yorkshire and The Humber,real,Total economically inactive,2018,1637782
+gor:Yorkshire and The Humber,real,Total economically inactive,2019,1686689
+gor:Yorkshire and The Humber,real,Total economically inactive,2021,1737069
+gor:East Midlands,real,Total economically inactive,2012,1371389
+gor:East Midlands,real,Total economically inactive,2013,1377720
+gor:East Midlands,real,Total economically inactive,2014,1368300
+gor:East Midlands,real,Total economically inactive,2015,1414925
+gor:East Midlands,real,Total economically inactive,2016,1406401
+gor:East Midlands,real,Total economically inactive,2017,1436744
+gor:East Midlands,real,Total economically inactive,2018,1418496
+gor:East Midlands,real,Total economically inactive,2019,1368060
+gor:East Midlands,real,Total economically inactive,2021,1485479
+gor:West Midlands,real,Total economically inactive,2012,1655129
+gor:West Midlands,real,Total economically inactive,2013,1731954
+gor:West Midlands,real,Total economically inactive,2014,1768606
+gor:West Midlands,real,Total economically inactive,2015,1801905
+gor:West Midlands,real,Total economically inactive,2016,1748553
+gor:West Midlands,real,Total economically inactive,2017,1779641
+gor:West Midlands,real,Total economically inactive,2018,1766626
+gor:West Midlands,real,Total economically inactive,2019,1735627
+gor:West Midlands,real,Total economically inactive,2021,1759500
+gor:East,real,Total economically inactive,2012,1653617
+gor:East,real,Total economically inactive,2013,1680643
+gor:East,real,Total economically inactive,2014,1718899
+gor:East,real,Total economically inactive,2015,1702097
+gor:East,real,Total economically inactive,2016,1745853
+gor:East,real,Total economically inactive,2017,1748963
+gor:East,real,Total economically inactive,2018,1763279
+gor:East,real,Total economically inactive,2019,1743636
+gor:East,real,Total economically inactive,2021,1788989
+gor:London,real,Total economically inactive,2012,2146260
+gor:London,real,Total economically inactive,2013,2146553
+gor:London,real,Total economically inactive,2014,2168971
+gor:London,real,Total economically inactive,2015,2149885
+gor:London,real,Total economically inactive,2016,2155761
+gor:London,real,Total economically inactive,2017,2158398
+gor:London,real,Total economically inactive,2018,2187797
+gor:London,real,Total economically inactive,2019,2152168
+gor:London,real,Total economically inactive,2021,2132046
+gor:South East,real,Total economically inactive,2012,2405428
+gor:South East,real,Total economically inactive,2013,2410105
+gor:South East,real,Total economically inactive,2014,2466139
+gor:South East,real,Total economically inactive,2015,2497653
+gor:South East,real,Total economically inactive,2016,2512599
+gor:South East,real,Total economically inactive,2017,2453018
+gor:South East,real,Total economically inactive,2018,2533334
+gor:South East,real,Total economically inactive,2019,2477978
+gor:South East,real,Total economically inactive,2021,2605578
+gor:South West,real,Total economically inactive,2012,1622673
+gor:South West,real,Total economically inactive,2013,1623178
+gor:South West,real,Total economically inactive,2014,1657377
+gor:South West,real,Total economically inactive,2015,1623744
+gor:South West,real,Total economically inactive,2016,1662041
+gor:South West,real,Total economically inactive,2017,1621788
+gor:South West,real,Total economically inactive,2018,1626647
+gor:South West,real,Total economically inactive,2019,1666384
+gor:South West,real,Total economically inactive,2021,1736347
+gor:Wales,real,Total economically inactive,2012,997069
+gor:Wales,real,Total economically inactive,2013,988811
+gor:Wales,real,Total economically inactive,2014,1028319
+gor:Wales,real,Total economically inactive,2015,1009167
+gor:Wales,real,Total economically inactive,2016,1020164
+gor:Wales,real,Total economically inactive,2017,1014156
+gor:Wales,real,Total economically inactive,2018,948552
+gor:Wales,real,Total economically inactive,2019,1009670
+gor:Wales,real,Total economically inactive,2021,1028778
+country:England and Wales,pred,All persons,2012,45335992
+country:England and Wales,pred,All persons,2013,45658841
+country:England and Wales,pred,All persons,2014,46022183
+country:England and Wales,pred,All persons,2015,46387737
+country:England and Wales,pred,All persons,2016,46702359
+country:England and Wales,pred,All persons,2017,46955842
+country:England and Wales,pred,All persons,2018,47213538
+country:England and Wales,pred,All persons,2019,47554741
+country:England and Wales,pred,All persons,2021,47457054
+gor:North East,pred,All persons,2012,2111539
+gor:North East,pred,All persons,2013,2118858
+gor:North East,pred,All persons,2014,2124769
+gor:North East,pred,All persons,2015,2131027
+gor:North East,pred,All persons,2016,2138022
+gor:North East,pred,All persons,2017,2141516
+gor:North East,pred,All persons,2018,2144119
+gor:North East,pred,All persons,2019,2133956
+gor:North East,pred,All persons,2021,2092307
+gor:North West,pred,All persons,2012,5680935
+gor:North West,pred,All persons,2013,5698110
+gor:North West,pred,All persons,2014,5723181
+gor:North West,pred,All persons,2015,5755001
+gor:North West,pred,All persons,2016,5782588
+gor:North West,pred,All persons,2017,5797989
+gor:North West,pred,All persons,2018,5809784
+gor:North West,pred,All persons,2019,5891502
+gor:North West,pred,All persons,2021,5717813
+gor:Yorkshire and The Humber,pred,All persons,2012,4258996
+gor:Yorkshire and The Humber,pred,All persons,2013,4275666
+gor:Yorkshire and The Humber,pred,All persons,2014,4295268
+gor:Yorkshire and The Humber,pred,All persons,2015,4319495
+gor:Yorkshire and The Humber,pred,All persons,2016,4340365
+gor:Yorkshire and The Humber,pred,All persons,2017,4354587
+gor:Yorkshire and The Humber,pred,All persons,2018,4367610
+gor:Yorkshire and The Humber,pred,All persons,2019,4375410
+gor:Yorkshire and The Humber,pred,All persons,2021,4319059
+gor:East Midlands,pred,All persons,2012,3677056
+gor:East Midlands,pred,All persons,2013,3705179
+gor:East Midlands,pred,All persons,2014,3737668
+gor:East Midlands,pred,All persons,2015,3772119
+gor:East Midlands,pred,All persons,2016,3807850
+gor:East Midlands,pred,All persons,2017,3830941
+gor:East Midlands,pred,All persons,2018,3843585
+gor:East Midlands,pred,All persons,2019,3902669
+gor:East Midlands,pred,All persons,2021,3805557
+gor:West Midlands,pred,All persons,2012,4489858
+gor:West Midlands,pred,All persons,2013,4517662
+gor:West Midlands,pred,All persons,2014,4549143
+gor:West Midlands,pred,All persons,2015,4585904
+gor:West Midlands,pred,All persons,2016,4625778
+gor:West Midlands,pred,All persons,2017,4651218
+gor:West Midlands,pred,All persons,2018,4666548
+gor:West Midlands,pred,All persons,2019,4703674
+gor:West Midlands,pred,All persons,2021,4564019
+gor:East,pred,All persons,2012,4731953
+gor:East,pred,All persons,2013,4774345
+gor:East,pred,All persons,2014,4821677
+gor:East,pred,All persons,2015,4861962
+gor:East,pred,All persons,2016,4893557
+gor:East,pred,All persons,2017,4923229
+gor:East,pred,All persons,2018,4957365
+gor:East,pred,All persons,2019,5023498
+gor:East,pred,All persons,2021,4962464
+gor:London,pred,All persons,2012,6609804
+gor:London,pred,All persons,2013,6690387
+gor:London,pred,All persons,2014,6782008
+gor:London,pred,All persons,2015,6867837
+gor:London,pred,All persons,2016,6924520
+gor:London,pred,All persons,2017,6988170
+gor:London,pred,All persons,2018,7076856
+gor:London,pred,All persons,2019,7073026
+gor:London,pred,All persons,2021,7117682
+gor:South East,pred,All persons,2012,6959009
+gor:South East,pred,All persons,2013,7017700
+gor:South East,pred,All persons,2014,7080787
+gor:South East,pred,All persons,2015,7140319
+gor:South East,pred,All persons,2016,7190935
+gor:South East,pred,All persons,2017,7231941
+gor:South East,pred,All persons,2018,7278564
+gor:South East,pred,All persons,2019,7351970
+gor:South East,pred,All persons,2021,7258764
+gor:South West,pred,All persons,2012,4328884
+gor:South West,pred,All persons,2013,4363436
+gor:South West,pred,All persons,2014,4401747
+gor:South West,pred,All persons,2015,4439561
+gor:South West,pred,All persons,2016,4473265
+gor:South West,pred,All persons,2017,4500636
+gor:South West,pred,All persons,2018,4523884
+gor:South West,pred,All persons,2019,4591367
+gor:South West,pred,All persons,2021,4536774
+gor:Wales,pred,All persons,2012,2487958
+gor:Wales,pred,All persons,2013,2497498
+gor:Wales,pred,All persons,2014,2505935
+gor:Wales,pred,All persons,2015,2514512
+gor:Wales,pred,All persons,2016,2525479
+gor:Wales,pred,All persons,2017,2535615
+gor:Wales,pred,All persons,2018,2545223
+gor:Wales,pred,All persons,2019,2507669
+gor:Wales,pred,All persons,2021,2414986
+country:England and Wales,pred,Total economically active,2012,28882311
+country:England and Wales,pred,Total economically active,2013,29022827
+country:England and Wales,pred,Total economically active,2014,29176654
+country:England and Wales,pred,Total economically active,2015,29543103
+country:England and Wales,pred,Total economically active,2016,29773055
+country:England and Wales,pred,Total economically active,2017,29969991
+country:England and Wales,pred,Total economically active,2018,30291964
+country:England and Wales,pred,Total economically active,2019,30706707
+country:England and Wales,pred,Total economically active,2021,30639412
+gor:North East,pred,Total economically active,2012,1264157
+gor:North East,pred,Total economically active,2013,1266315
+gor:North East,pred,Total economically active,2014,1279519
+gor:North East,pred,Total economically active,2015,1309201
+gor:North East,pred,Total economically active,2016,1279790
+gor:North East,pred,Total economically active,2017,1284533
+gor:North East,pred,Total economically active,2018,1280324
+gor:North East,pred,Total economically active,2019,1270762
+gor:North East,pred,Total economically active,2021,1253777
+gor:North West,pred,Total economically active,2012,3518222
+gor:North West,pred,Total economically active,2013,3453832
+gor:North West,pred,Total economically active,2014,3523663
+gor:North West,pred,Total economically active,2015,3566386
+gor:North West,pred,Total economically active,2016,3584862
+gor:North West,pred,Total economically active,2017,3560637
+gor:North West,pred,Total economically active,2018,3634517
+gor:North West,pred,Total economically active,2019,3746873
+gor:North West,pred,Total economically active,2021,3618932
+gor:Yorkshire and The Humber,pred,Total economically active,2012,2666975
+gor:Yorkshire and The Humber,pred,Total economically active,2013,2695436
+gor:Yorkshire and The Humber,pred,Total economically active,2014,2671118
+gor:Yorkshire and The Humber,pred,Total economically active,2015,2684677
+gor:Yorkshire and The Humber,pred,Total economically active,2016,2718392
+gor:Yorkshire and The Humber,pred,Total economically active,2017,2675780
+gor:Yorkshire and The Humber,pred,Total economically active,2018,2729828
+gor:Yorkshire and The Humber,pred,Total economically active,2019,2688721
+gor:Yorkshire and The Humber,pred,Total economically active,2021,2669167
+gor:East Midlands,pred,Total economically active,2012,2305667
+gor:East Midlands,pred,Total economically active,2013,2327459
+gor:East Midlands,pred,Total economically active,2014,2369368
+gor:East Midlands,pred,Total economically active,2015,2357194
+gor:East Midlands,pred,Total economically active,2016,2401449
+gor:East Midlands,pred,Total economically active,2017,2394197
+gor:East Midlands,pred,Total economically active,2018,2425089
+gor:East Midlands,pred,Total economically active,2019,2534609
+gor:East Midlands,pred,Total economically active,2021,2444459
+gor:West Midlands,pred,Total economically active,2012,2834729
+gor:West Midlands,pred,Total economically active,2013,2785708
+gor:West Midlands,pred,Total economically active,2014,2780537
+gor:West Midlands,pred,Total economically active,2015,2783999
+gor:West Midlands,pred,Total economically active,2016,2877225
+gor:West Midlands,pred,Total economically active,2017,2871577
+gor:West Midlands,pred,Total economically active,2018,2899922
+gor:West Midlands,pred,Total economically active,2019,2968047
+gor:West Midlands,pred,Total economically active,2021,2862452
+gor:East,pred,Total economically active,2012,3078336
+gor:East,pred,Total economically active,2013,3093702
+gor:East,pred,Total economically active,2014,3102778
+gor:East,pred,Total economically active,2015,3159865
+gor:East,pred,Total economically active,2016,3147704
+gor:East,pred,Total economically active,2017,3174266
+gor:East,pred,Total economically active,2018,3194086
+gor:East,pred,Total economically active,2019,3279862
+gor:East,pred,Total economically active,2021,3217115
+gor:London,pred,Total economically active,2012,4463544
+gor:London,pred,Total economically active,2013,4543834
+gor:London,pred,Total economically active,2014,4613037
+gor:London,pred,Total economically active,2015,4717952
+gor:London,pred,Total economically active,2016,4768759
+gor:London,pred,Total economically active,2017,4829772
+gor:London,pred,Total economically active,2018,4889059
+gor:London,pred,Total economically active,2019,4920858
+gor:London,pred,Total economically active,2021,4974810
+gor:South East,pred,Total economically active,2012,4553581
+gor:South East,pred,Total economically active,2013,4607595
+gor:South East,pred,Total economically active,2014,4614648
+gor:South East,pred,Total economically active,2015,4642666
+gor:South East,pred,Total economically active,2016,4678336
+gor:South East,pred,Total economically active,2017,4778923
+gor:South East,pred,Total economically active,2018,4745230
+gor:South East,pred,Total economically active,2019,4873992
+gor:South East,pred,Total economically active,2021,4800458
+gor:South West,pred,Total economically active,2012,2706211
+gor:South West,pred,Total economically active,2013,2740258
+gor:South West,pred,Total economically active,2014,2744370
+gor:South West,pred,Total economically active,2015,2815817
+gor:South West,pred,Total economically active,2016,2811224
+gor:South West,pred,Total economically active,2017,2878848
+gor:South West,pred,Total economically active,2018,2897237
+gor:South West,pred,Total economically active,2019,2924983
+gor:South West,pred,Total economically active,2021,2928968
+gor:Wales,pred,Total economically active,2012,1490889
+gor:Wales,pred,Total economically active,2013,1508687
+gor:Wales,pred,Total economically active,2014,1477616
+gor:Wales,pred,Total economically active,2015,1505345
+gor:Wales,pred,Total economically active,2016,1505315
+gor:Wales,pred,Total economically active,2017,1521459
+gor:Wales,pred,Total economically active,2018,1596671
+gor:Wales,pred,Total economically active,2019,1497999
+gor:Wales,pred,Total economically active,2021,1473297
+country:England and Wales,pred,Total in employment,2012,26619507
+country:England and Wales,pred,Total in employment,2013,26927052
+country:England and Wales,pred,Total in employment,2014,27504754
+country:England and Wales,pred,Total in employment,2015,28064737
+country:England and Wales,pred,Total in employment,2016,28366268
+country:England and Wales,pred,Total in employment,2017,28665007
+country:England and Wales,pred,Total in employment,2018,29058896
+country:England and Wales,pred,Total in employment,2019,29538974
+country:England and Wales,pred,Total in employment,2021,29745537
+gor:North East,pred,Total in employment,2012,1141051
+gor:North East,pred,Total in employment,2013,1139767
+gor:North East,pred,Total in employment,2014,1177373
+gor:North East,pred,Total in employment,2015,1204422
+gor:North East,pred,Total in employment,2016,1191654
+gor:North East,pred,Total in employment,2017,1217161
+gor:North East,pred,Total in employment,2018,1211360
+gor:North East,pred,Total in employment,2019,1193220
+gor:North East,pred,Total in employment,2021,1191476
+gor:North West,pred,Total in employment,2012,3226642
+gor:North West,pred,Total in employment,2013,3180525
+gor:North West,pred,Total in employment,2014,3294956
+gor:North West,pred,Total in employment,2015,3392777
+gor:North West,pred,Total in employment,2016,3403824
+gor:North West,pred,Total in employment,2017,3412349
+gor:North West,pred,Total in employment,2018,3491379
+gor:North West,pred,Total in employment,2019,3591484
+gor:North West,pred,Total in employment,2021,3528357
+gor:Yorkshire and The Humber,pred,Total in employment,2012,2424862
+gor:Yorkshire and The Humber,pred,Total in employment,2013,2459718
+gor:Yorkshire and The Humber,pred,Total in employment,2014,2503617
+gor:Yorkshire and The Humber,pred,Total in employment,2015,2516788
+gor:Yorkshire and The Humber,pred,Total in employment,2016,2583371
+gor:Yorkshire and The Humber,pred,Total in employment,2017,2541278
+gor:Yorkshire and The Humber,pred,Total in employment,2018,2587567
+gor:Yorkshire and The Humber,pred,Total in employment,2019,2569666
+gor:Yorkshire and The Humber,pred,Total in employment,2021,2569090
+gor:East Midlands,pred,Total in employment,2012,2130870
+gor:East Midlands,pred,Total in employment,2013,2170524
+gor:East Midlands,pred,Total in employment,2014,2258809
+gor:East Midlands,pred,Total in employment,2015,2253312
+gor:East Midlands,pred,Total in employment,2016,2290161
+gor:East Midlands,pred,Total in employment,2017,2295459
+gor:East Midlands,pred,Total in employment,2018,2303915
+gor:East Midlands,pred,Total in employment,2019,2444547
+gor:East Midlands,pred,Total in employment,2021,2358218
+gor:West Midlands,pred,Total in employment,2012,2582967
+gor:West Midlands,pred,Total in employment,2013,2550601
+gor:West Midlands,pred,Total in employment,2014,2611707
+gor:West Midlands,pred,Total in employment,2015,2642211
+gor:West Midlands,pred,Total in employment,2016,2714691
+gor:West Midlands,pred,Total in employment,2017,2724279
+gor:West Midlands,pred,Total in employment,2018,2748893
+gor:West Midlands,pred,Total in employment,2019,2839016
+gor:West Midlands,pred,Total in employment,2021,2788189
+gor:East,pred,Total in employment,2012,2869615
+gor:East,pred,Total in employment,2013,2917786
+gor:East,pred,Total in employment,2014,2948988
+gor:East,pred,Total in employment,2015,3039490
+gor:East,pred,Total in employment,2016,3009241
+gor:East,pred,Total in employment,2017,3039489
+gor:East,pred,Total in employment,2018,3103414
+gor:East,pred,Total in employment,2019,3168784
+gor:East,pred,Total in employment,2021,3132899
+gor:London,pred,Total in employment,2012,4072083
+gor:London,pred,Total in employment,2013,4169461
+gor:London,pred,Total in employment,2014,4311967
+gor:London,pred,Total in employment,2015,4418409
+gor:London,pred,Total in employment,2016,4502827
+gor:London,pred,Total in employment,2017,4587723
+gor:London,pred,Total in employment,2018,4671397
+gor:London,pred,Total in employment,2019,4709719
+gor:London,pred,Total in employment,2021,4785134
+gor:South East,pred,Total in employment,2012,4252883
+gor:South East,pred,Total in employment,2013,4371187
+gor:South East,pred,Total in employment,2014,4399575
+gor:South East,pred,Total in employment,2015,4461421
+gor:South East,pred,Total in employment,2016,4519899
+gor:South East,pred,Total in employment,2017,4628562
+gor:South East,pred,Total in employment,2018,4600415
+gor:South East,pred,Total in employment,2019,4724217
+gor:South East,pred,Total in employment,2021,4705282
+gor:South West,pred,Total in employment,2012,2555649
+gor:South West,pred,Total in employment,2013,2565128
+gor:South West,pred,Total in employment,2014,2619704
+gor:South West,pred,Total in employment,2015,2710045
+gor:South West,pred,Total in employment,2016,2712800
+gor:South West,pred,Total in employment,2017,2775173
+gor:South West,pred,Total in employment,2018,2809986
+gor:South West,pred,Total in employment,2019,2844296
+gor:South West,pred,Total in employment,2021,2859829
+gor:Wales,pred,Total in employment,2012,1362884
+gor:Wales,pred,Total in employment,2013,1402356
+gor:Wales,pred,Total in employment,2014,1378058
+gor:Wales,pred,Total in employment,2015,1425862
+gor:Wales,pred,Total in employment,2016,1437801
+gor:Wales,pred,Total in employment,2017,1443534
+gor:Wales,pred,Total in employment,2018,1530569
+gor:Wales,pred,Total in employment,2019,1454023
+gor:Wales,pred,Total in employment,2021,1448005
+country:England and Wales,pred,Total unemployed,2012,2262804
+country:England and Wales,pred,Total unemployed,2013,2095774
+country:England and Wales,pred,Total unemployed,2014,1671900
+country:England and Wales,pred,Total unemployed,2015,1478366
+country:England and Wales,pred,Total unemployed,2016,1406787
+country:England and Wales,pred,Total unemployed,2017,1304984
+country:England and Wales,pred,Total unemployed,2018,1233068
+country:England and Wales,pred,Total unemployed,2019,1167733
+country:England and Wales,pred,Total unemployed,2021,586163
+gor:North East,pred,Total unemployed,2012,123105
+gor:North East,pred,Total unemployed,2013,126547
+gor:North East,pred,Total unemployed,2014,102146
+gor:North East,pred,Total unemployed,2015,104779
+gor:North East,pred,Total unemployed,2016,88136
+gor:North East,pred,Total unemployed,2017,67371
+gor:North East,pred,Total unemployed,2018,68964
+gor:North East,pred,Total unemployed,2019,77542
+gor:North East,pred,Total unemployed,2021,35119
+gor:North West,pred,Total unemployed,2012,291580
+gor:North West,pred,Total unemployed,2013,273307
+gor:North West,pred,Total unemployed,2014,228707
+gor:North West,pred,Total unemployed,2015,173609
+gor:North West,pred,Total unemployed,2016,181038
+gor:North West,pred,Total unemployed,2017,148288
+gor:North West,pred,Total unemployed,2018,143139
+gor:North West,pred,Total unemployed,2019,155388
+gor:North West,pred,Total unemployed,2021,54723
+gor:Yorkshire and The Humber,pred,Total unemployed,2012,242113
+gor:Yorkshire and The Humber,pred,Total unemployed,2013,235719
+gor:Yorkshire and The Humber,pred,Total unemployed,2014,167501
+gor:Yorkshire and The Humber,pred,Total unemployed,2015,167889
+gor:Yorkshire and The Humber,pred,Total unemployed,2016,135021
+gor:Yorkshire and The Humber,pred,Total unemployed,2017,134503
+gor:Yorkshire and The Humber,pred,Total unemployed,2018,142261
+gor:Yorkshire and The Humber,pred,Total unemployed,2019,119054
+gor:Yorkshire and The Humber,pred,Total unemployed,2021,46098
+gor:East Midlands,pred,Total unemployed,2012,174796
+gor:East Midlands,pred,Total unemployed,2013,156935
+gor:East Midlands,pred,Total unemployed,2014,110559
+gor:East Midlands,pred,Total unemployed,2015,103882
+gor:East Midlands,pred,Total unemployed,2016,111288
+gor:East Midlands,pred,Total unemployed,2017,98738
+gor:East Midlands,pred,Total unemployed,2018,121174
+gor:East Midlands,pred,Total unemployed,2019,90062
+gor:East Midlands,pred,Total unemployed,2021,36701
+gor:West Midlands,pred,Total unemployed,2012,251762
+gor:West Midlands,pred,Total unemployed,2013,235107
+gor:West Midlands,pred,Total unemployed,2014,168831
+gor:West Midlands,pred,Total unemployed,2015,141787
+gor:West Midlands,pred,Total unemployed,2016,162534
+gor:West Midlands,pred,Total unemployed,2017,147298
+gor:West Midlands,pred,Total unemployed,2018,151029
+gor:West Midlands,pred,Total unemployed,2019,129031
+gor:West Midlands,pred,Total unemployed,2021,53343
+gor:East,pred,Total unemployed,2012,208721
+gor:East,pred,Total unemployed,2013,175916
+gor:East,pred,Total unemployed,2014,153790
+gor:East,pred,Total unemployed,2015,120375
+gor:East,pred,Total unemployed,2016,138464
+gor:East,pred,Total unemployed,2017,134778
+gor:East,pred,Total unemployed,2018,90671
+gor:East,pred,Total unemployed,2019,111078
+gor:East,pred,Total unemployed,2021,42202
+gor:London,pred,Total unemployed,2012,391461
+gor:London,pred,Total unemployed,2013,374374
+gor:London,pred,Total unemployed,2014,301070
+gor:London,pred,Total unemployed,2015,299543
+gor:London,pred,Total unemployed,2016,265932
+gor:London,pred,Total unemployed,2017,242048
+gor:London,pred,Total unemployed,2018,217662
+gor:London,pred,Total unemployed,2019,211139
+gor:London,pred,Total unemployed,2021,132442
+gor:South East,pred,Total unemployed,2012,300698
+gor:South East,pred,Total unemployed,2013,236407
+gor:South East,pred,Total unemployed,2014,215073
+gor:South East,pred,Total unemployed,2015,181246
+gor:South East,pred,Total unemployed,2016,158437
+gor:South East,pred,Total unemployed,2017,150361
+gor:South East,pred,Total unemployed,2018,144815
+gor:South East,pred,Total unemployed,2019,149776
+gor:South East,pred,Total unemployed,2021,49574
+gor:South West,pred,Total unemployed,2012,150562
+gor:South West,pred,Total unemployed,2013,175130
+gor:South West,pred,Total unemployed,2014,124666
+gor:South West,pred,Total unemployed,2015,105772
+gor:South West,pred,Total unemployed,2016,98424
+gor:South West,pred,Total unemployed,2017,103675
+gor:South West,pred,Total unemployed,2018,87251
+gor:South West,pred,Total unemployed,2019,80687
+gor:South West,pred,Total unemployed,2021,30678
+gor:Wales,pred,Total unemployed,2012,128005
+gor:Wales,pred,Total unemployed,2013,106332
+gor:Wales,pred,Total unemployed,2014,99559
+gor:Wales,pred,Total unemployed,2015,79483
+gor:Wales,pred,Total unemployed,2016,67514
+gor:Wales,pred,Total unemployed,2017,77924
+gor:Wales,pred,Total unemployed,2018,66102
+gor:Wales,pred,Total unemployed,2019,43976
+gor:Wales,pred,Total unemployed,2021,18284
+country:England and Wales,pred,Total economically inactive,2012,16453681
+country:England and Wales,pred,Total economically inactive,2013,16636014
+country:England and Wales,pred,Total economically inactive,2014,16845529
+country:England and Wales,pred,Total economically inactive,2015,16844634
+country:England and Wales,pred,Total economically inactive,2016,16929304
+country:England and Wales,pred,Total economically inactive,2017,16985851
+country:England and Wales,pred,Total economically inactive,2018,16921574
+country:England and Wales,pred,Total economically inactive,2019,16848034
+country:England and Wales,pred,Total economically inactive,2021,16817642
+gor:North East,pred,Total economically inactive,2012,847382
+gor:North East,pred,Total economically inactive,2013,852543
+gor:North East,pred,Total economically inactive,2014,845250
+gor:North East,pred,Total economically inactive,2015,821826
+gor:North East,pred,Total economically inactive,2016,858232
+gor:North East,pred,Total economically inactive,2017,856983
+gor:North East,pred,Total economically inactive,2018,863795
+gor:North East,pred,Total economically inactive,2019,863194
+gor:North East,pred,Total economically inactive,2021,838530
+gor:North West,pred,Total economically inactive,2012,2162713
+gor:North West,pred,Total economically inactive,2013,2244278
+gor:North West,pred,Total economically inactive,2014,2199518
+gor:North West,pred,Total economically inactive,2015,2188615
+gor:North West,pred,Total economically inactive,2016,2197726
+gor:North West,pred,Total economically inactive,2017,2237352
+gor:North West,pred,Total economically inactive,2018,2175267
+gor:North West,pred,Total economically inactive,2019,2144629
+gor:North West,pred,Total economically inactive,2021,2098881
+gor:Yorkshire and The Humber,pred,Total economically inactive,2012,1592021
+gor:Yorkshire and The Humber,pred,Total economically inactive,2013,1580230
+gor:Yorkshire and The Humber,pred,Total economically inactive,2014,1624150
+gor:Yorkshire and The Humber,pred,Total economically inactive,2015,1634818
+gor:Yorkshire and The Humber,pred,Total economically inactive,2016,1621973
+gor:Yorkshire and The Humber,pred,Total economically inactive,2017,1678807
+gor:Yorkshire and The Humber,pred,Total economically inactive,2018,1637782
+gor:Yorkshire and The Humber,pred,Total economically inactive,2019,1686689
+gor:Yorkshire and The Humber,pred,Total economically inactive,2021,1649892
+gor:East Midlands,pred,Total economically inactive,2012,1371389
+gor:East Midlands,pred,Total economically inactive,2013,1377720
+gor:East Midlands,pred,Total economically inactive,2014,1368300
+gor:East Midlands,pred,Total economically inactive,2015,1414925
+gor:East Midlands,pred,Total economically inactive,2016,1406401
+gor:East Midlands,pred,Total economically inactive,2017,1436744
+gor:East Midlands,pred,Total economically inactive,2018,1418496
+gor:East Midlands,pred,Total economically inactive,2019,1368060
+gor:East Midlands,pred,Total economically inactive,2021,1361098
+gor:West Midlands,pred,Total economically inactive,2012,1655129
+gor:West Midlands,pred,Total economically inactive,2013,1731954
+gor:West Midlands,pred,Total economically inactive,2014,1768606
+gor:West Midlands,pred,Total economically inactive,2015,1801905
+gor:West Midlands,pred,Total economically inactive,2016,1748553
+gor:West Midlands,pred,Total economically inactive,2017,1779641
+gor:West Midlands,pred,Total economically inactive,2018,1766626
+gor:West Midlands,pred,Total economically inactive,2019,1735627
+gor:West Midlands,pred,Total economically inactive,2021,1701567
+gor:East,pred,Total economically inactive,2012,1653617
+gor:East,pred,Total economically inactive,2013,1680643
+gor:East,pred,Total economically inactive,2014,1718899
+gor:East,pred,Total economically inactive,2015,1702097
+gor:East,pred,Total economically inactive,2016,1745853
+gor:East,pred,Total economically inactive,2017,1748963
+gor:East,pred,Total economically inactive,2018,1763279
+gor:East,pred,Total economically inactive,2019,1743636
+gor:East,pred,Total economically inactive,2021,1745349
+gor:London,pred,Total economically inactive,2012,2146260
+gor:London,pred,Total economically inactive,2013,2146553
+gor:London,pred,Total economically inactive,2014,2168971
+gor:London,pred,Total economically inactive,2015,2149885
+gor:London,pred,Total economically inactive,2016,2155761
+gor:London,pred,Total economically inactive,2017,2158398
+gor:London,pred,Total economically inactive,2018,2187797
+gor:London,pred,Total economically inactive,2019,2152168
+gor:London,pred,Total economically inactive,2021,2142872
+gor:South East,pred,Total economically inactive,2012,2405428
+gor:South East,pred,Total economically inactive,2013,2410105
+gor:South East,pred,Total economically inactive,2014,2466139
+gor:South East,pred,Total economically inactive,2015,2497653
+gor:South East,pred,Total economically inactive,2016,2512599
+gor:South East,pred,Total economically inactive,2017,2453018
+gor:South East,pred,Total economically inactive,2018,2533334
+gor:South East,pred,Total economically inactive,2019,2477978
+gor:South East,pred,Total economically inactive,2021,2458306
+gor:South West,pred,Total economically inactive,2012,1622673
+gor:South West,pred,Total economically inactive,2013,1623178
+gor:South West,pred,Total economically inactive,2014,1657377
+gor:South West,pred,Total economically inactive,2015,1623744
+gor:South West,pred,Total economically inactive,2016,1662041
+gor:South West,pred,Total economically inactive,2017,1621788
+gor:South West,pred,Total economically inactive,2018,1626647
+gor:South West,pred,Total economically inactive,2019,1666384
+gor:South West,pred,Total economically inactive,2021,1607806
+gor:Wales,pred,Total economically inactive,2012,997069
+gor:Wales,pred,Total economically inactive,2013,988811
+gor:Wales,pred,Total economically inactive,2014,1028319
+gor:Wales,pred,Total economically inactive,2015,1009167
+gor:Wales,pred,Total economically inactive,2016,1020164
+gor:Wales,pred,Total economically inactive,2017,1014156
+gor:Wales,pred,Total economically inactive,2018,948552
+gor:Wales,pred,Total economically inactive,2019,1009670
+gor:Wales,pred,Total economically inactive,2021,941689
